@@ -1,0 +1,78 @@
+Registered S3 method overwritten by 'quantmod':
+  method            from
+  as.zoo.data.frame zoo 
+PASS: Complete R file parses 
+PASS: Missing frozen inputs stop before fitting or data download 
+PASS: Early stop preserves existing workspace objects and RNG 
+PASS: Synthetic design has finite surfaces and features 
+PASS: fpca transform ignores validation outcomes 
+PASS: fpca training representation ignores future predictor rows 
+PASS: fpca nested CV returns finite surface predictions 
+PASS: graph transform ignores validation outcomes 
+PASS: graph training representation ignores future predictor rows 
+PASS: graph nested CV returns finite surface predictions 
+PASS: All logged transform folds satisfy response-date purging 
+PASS: Leaking chronological split is rejected 
+PASS: Residual final refit carries guard lambda without invoking CV 
+PASS: Eligible residual state with 65 fit observations works 
+PASS: Zero residual response produces exact zero predictions 
+PASS: One-row / one-response ridge prediction retains matrix dimensions 
+PASS: Truncated weak-penalty optimum is rejected 
+PASS: Dykstra yields nonnegative bimonotone surfaces within tolerance 
+PASS: A3 treats sub-tolerance floating-point violations as zero 
+PASS: A3 retains the unrounded maximum raw violation 
+Starting one synthetic split with anchors, external benchmarks, top-3, ablations, conformal and inference...
+Running synthetic / synthetic_holdout
+SAVED: synthetic / synthetic_holdout
+PASS: Synthetic integrated split includes all nine primary models 
+PASS: Synthetic integrated split includes conformal output 
+PASS: Synthetic integrated split includes top-three sensitivity 
+PASS: Synthetic integrated split includes stationarity diagnostics 
+PASS: Integrated split has finite model losses 
+PASS: Integrated split has no above-tolerance post-projection violations 
+PASS: Integrated split leakage audits pass 
+RESUME: synthetic / synthetic_holdout (completed split)
+PASS: Completed split resumes without fitting and returns identical result 
+PASS: Changed settings cannot reuse stale checkpoint 
+
+29 synthetic checks passed.
+Actual market-data full run: NOT EXECUTED by this test.
+Pipeline SHA256: cdf61c669c40afb85bf875247144136b87753a5d0a90ab2f15861856de035117 
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 24.04.3 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0 
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Europe/Berlin
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] jsonlite_1.8.8  digest_0.6.34   scales_1.3.0    stringr_1.5.1  
+ [5] readr_2.1.5     knitr_1.45      glmnet_4.1-8    Matrix_1.6-5   
+ [9] ggplot2_3.4.4   tibble_3.2.1    purrr_1.0.2     tidyr_1.3.1    
+[13] dplyr_1.1.4     quantmod_0.4.26 TTR_0.24.4      xts_0.13.2     
+[17] zoo_1.8-12     
+
+loaded via a namespace (and not attached):
+ [1] utf8_1.2.4       generics_0.1.3   shape_1.4.6      stringi_1.8.3   
+ [5] lattice_0.22-5   hms_1.1.3        magrittr_2.0.3   grid_4.3.3      
+ [9] iterators_1.0.14 foreach_1.5.2    survival_3.5-8   fansi_1.0.5     
+[13] codetools_0.2-19 cli_3.6.2        crayon_1.5.2     rlang_1.1.3     
+[17] bit64_4.0.5      munsell_0.5.0    splines_4.3.3    withr_2.5.0     
+[21] parallel_4.3.3   tools_4.3.3      tzdb_0.4.0       colorspace_2.1-0
+[25] curl_5.2.0       vctrs_0.6.5      R6_2.5.1         lifecycle_1.0.4 
+[29] bit_4.0.5        vroom_1.6.5      pkgconfig_2.0.3  pillar_1.9.0    
+[33] gtable_0.3.4     glue_1.7.0       Rcpp_1.0.12      xfun_0.41       
+[37] tidyselect_1.2.0 compiler_4.3.3  

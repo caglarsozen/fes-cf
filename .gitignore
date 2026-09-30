@@ -1,0 +1,33 @@
+# Local R state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Empirical inputs, outputs and checkpoints
+out_fescf*/
+cache/
+checkpoints/
+data/raw/
+data/frozen/
+local_inputs/
+local_outputs/
+*.rds
+*.RDS
+*.rda
+*.RData
+
+# Local environment and generated build files
+.env
+.env.*
+.Renviron
+.Rprofile
+renv/library/
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.synctex.gz
+.DS_Store
+Thumbs.db

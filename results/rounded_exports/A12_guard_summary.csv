@@ -1,0 +1,22 @@
+scheme,chosen anchor,second anchor,third anchor,secondary blend active,secondary blend lambda,n active states,guard loss selected anchor,guard loss after blend,guard loss full fescf,guard gain blend,guard gain full,global rho,global ridge lambda
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,Graph Functional HAR-X ridge,FALSE,0.000,3,0.001450,0.001450,0.001252,0.000000,0.136504,0.5,0.006846
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,FPCA-X ridge,TRUE,0.500,2,0.001438,0.001244,0.001180,0.135131,0.179664,0.5,0.360547
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,FPCA-X ridge,TRUE,0.425,3,0.001333,0.001171,0.001060,0.121729,0.204633,0.5,0.226168
+rolling_03,Rolling mean completed surface,Naive completed surface,Graph Functional HAR-X ridge,TRUE,0.350,2,0.000996,0.000921,0.000905,0.075557,0.091751,0.5,15.038869
+rolling_04,Rolling mean completed surface,Naive completed surface,Graph Functional HAR-X ridge,TRUE,0.425,1,0.000745,0.000662,0.000662,0.110774,0.111158,0.5,48.255220
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,Functional HAR-X ridge,TRUE,0.300,2,0.000881,0.000823,0.000798,0.065441,0.094050,0.5,30.270017
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,FPCA-X ridge,FALSE,0.000,3,0.001364,0.001364,0.001243,0.000000,0.088239,0.5,1.460686
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,Functional HAR-X ridge,FALSE,0.000,3,0.001292,0.001292,0.001170,0.000000,0.093996,0.5,0.088995
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,FPCA-X ridge,TRUE,0.500,2,0.001029,0.000916,0.000842,0.109721,0.181610,0.5,0.179128
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,Functional HAR-X ridge,TRUE,0.450,2,0.000845,0.000765,0.000705,0.094941,0.165128,0.5,0.725704
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,FPCA-X ridge,FALSE,0.000,3,0.001012,0.001012,0.000883,0.000000,0.126743,0.5,1.156888
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,FPCA-X ridge,FALSE,0.000,3,0.001872,0.001872,0.001739,0.000000,0.070815,0.5,18.988078
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,FPCA-X ridge,TRUE,0.475,2,0.002126,0.001867,0.001832,0.121924,0.137965,0.5,15.038869
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,FPCA-X ridge,TRUE,0.475,2,0.001802,0.001587,0.001565,0.119410,0.131517,0.5,23.974350
+rolling_14,Naive completed surface,Rolling mean completed surface,Graph Functional HAR-X ridge,TRUE,0.150,3,0.005669,0.005564,0.004383,0.018474,0.226755,0.5,0.285559
+rolling_15,Naive completed surface,Rolling mean completed surface,Graph Functional HAR-X ridge,TRUE,0.200,3,0.006863,0.006670,0.005317,0.028156,0.225304,0.5,0.179128
+rolling_16,Naive completed surface,Rolling mean completed surface,Graph Functional HAR-X ridge,TRUE,0.225,1,0.007451,0.007197,0.005799,0.034078,0.221646,0.5,0.179128
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,FPCA-X ridge,FALSE,0.000,3,0.001864,0.001864,0.001576,0.000000,0.154458,0.5,48.255220
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,FPCA-X ridge,TRUE,0.375,3,0.001294,0.001187,0.001107,0.082989,0.144557,0.5,11.911031
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,FPCA-X ridge,TRUE,0.425,3,0.001635,0.001426,0.001270,0.127679,0.223579,0.5,1.156888
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,Functional HAR-X ridge,TRUE,0.425,1,0.002180,0.001947,0.001798,0.106831,0.175074,0.5,11.911031

@@ -1,0 +1,101 @@
+robustness design,score type,n assets,scheme,method,state,n,surface coverage,pointwise coverage,upper surface coverage,mean band width,mean upper half width,interval score
+target_downside_variation,downside_variation,38,main_holdout,Global split conformal,All,777,0.970399,0.994680,0.970399,0.193517,0.096759,0.196655
+target_downside_variation,downside_variation,38,main_holdout,Global split conformal,S3_High-risk,278,0.953237,0.989808,0.953237,0.193517,0.096759,0.198362
+target_downside_variation,downside_variation,38,main_holdout,Global split conformal,S2_Elevated,334,0.976048,0.996307,0.976048,0.193517,0.096759,0.196780
+target_downside_variation,downside_variation,38,main_holdout,Global split conformal,S1_Normal,165,0.987879,0.999596,0.987879,0.193517,0.096759,0.193526
+target_downside_variation,downside_variation,38,main_holdout,Mondrian state conformal,All,777,0.960103,0.993822,0.960103,0.177056,0.088528,0.180095
+target_downside_variation,downside_variation,38,main_holdout,Mondrian state conformal,S1_Normal,165,0.927273,0.992929,0.927273,0.113351,0.056675,0.114773
+target_downside_variation,downside_variation,38,main_holdout,Mondrian state conformal,S2_Elevated,334,0.973054,0.995409,0.973054,0.168844,0.084422,0.173010
+target_downside_variation,downside_variation,38,main_holdout,Mondrian state conformal,S3_High-risk,278,0.964029,0.992446,0.964029,0.224734,0.112367,0.227378
+target_downside_variation,downside_variation,38,main_holdout,Bonferroni empirical residual bands,All,777,0.998713,0.999828,0.998713,0.491777,0.245889,0.491803
+target_downside_variation,downside_variation,38,main_holdout,Adaptive conformal inference (delayed feedback),All,777,0.903475,0.983827,0.903475,0.157474,0.078737,0.164220
+target_squared_return,squared_return,38,main_holdout,Global split conformal,All,777,0.971686,0.992664,0.971686,0.031638,0.015819,0.032673
+target_squared_return,squared_return,38,main_holdout,Global split conformal,S3_High-risk,338,0.955621,0.984122,0.955621,0.031638,0.015819,0.033918
+target_squared_return,squared_return,38,main_holdout,Global split conformal,S2_Elevated,334,0.982036,0.999202,0.982036,0.031638,0.015819,0.031697
+target_squared_return,squared_return,38,main_holdout,Global split conformal,S1_Normal,105,0.990476,0.999365,0.990476,0.031638,0.015819,0.031768
+target_squared_return,squared_return,38,main_holdout,Mondrian state conformal,All,777,0.934363,0.990648,0.934363,0.027418,0.013709,0.028323
+target_squared_return,squared_return,38,main_holdout,Mondrian state conformal,S2_Elevated,334,0.931138,0.995010,0.931138,0.018157,0.009079,0.018555
+target_squared_return,squared_return,38,main_holdout,Mondrian state conformal,S1_Normal,105,0.857143,0.986032,0.857143,0.009177,0.004588,0.010145
+target_squared_return,squared_return,38,main_holdout,Mondrian state conformal,S3_High-risk,338,0.961538,0.987771,0.961538,0.042235,0.021117,0.043621
+target_squared_return,squared_return,38,main_holdout,Bonferroni empirical residual bands,All,777,0.998713,0.999957,0.998713,0.107558,0.053779,0.107559
+target_squared_return,squared_return,38,main_holdout,Adaptive conformal inference (delayed feedback),All,777,0.912484,0.983912,0.912484,0.018842,0.009421,0.021199
+universe_etf_only,absolute_return,23,main_holdout,Global split conformal,All,777,0.970399,0.992535,0.972973,0.154263,0.077132,0.159507
+universe_etf_only,absolute_return,23,main_holdout,Global split conformal,S3_High-risk,350,0.960000,0.990762,0.965714,0.154263,0.077132,0.158749
+universe_etf_only,absolute_return,23,main_holdout,Global split conformal,S2_Elevated,380,0.978947,0.993333,0.978947,0.154263,0.077132,0.160853
+universe_etf_only,absolute_return,23,main_holdout,Global split conformal,S1_Normal,47,0.978723,0.999291,0.978723,0.154263,0.077132,0.154278
+universe_etf_only,absolute_return,23,main_holdout,Mondrian state conformal,All,777,0.925354,0.985071,0.927928,0.121179,0.060589,0.130318
+universe_etf_only,absolute_return,23,main_holdout,Mondrian state conformal,S3_High-risk,350,0.968571,0.993714,0.974286,0.173325,0.086663,0.176550
+universe_etf_only,absolute_return,23,main_holdout,Mondrian state conformal,S2_Elevated,380,0.881579,0.976316,0.881579,0.077795,0.038897,0.093306
+universe_etf_only,absolute_return,23,main_holdout,Mondrian state conformal,S1_Normal,47,0.957447,0.991489,0.957447,0.083618,0.041809,0.085280
+universe_etf_only,absolute_return,23,main_holdout,Bonferroni empirical residual bands,All,777,0.997426,0.999571,0.997426,0.491725,0.245862,0.491775
+universe_etf_only,absolute_return,23,main_holdout,Adaptive conformal inference (delayed feedback),All,777,0.900901,0.977735,0.911197,0.097036,0.048518,0.111143
+universe_equity_only,absolute_return,15,main_holdout,Global split conformal,All,777,0.960103,0.993350,0.960103,0.326767,0.163383,0.331944
+universe_equity_only,absolute_return,15,main_holdout,Global split conformal,S3_High-risk,377,0.952255,0.990363,0.952255,0.326767,0.163383,0.335267
+universe_equity_only,absolute_return,15,main_holdout,Global split conformal,S2_Elevated,288,0.965278,0.995718,0.965278,0.326767,0.163383,0.329032
+universe_equity_only,absolute_return,15,main_holdout,Global split conformal,S1_Normal,112,0.973214,0.997321,0.973214,0.326767,0.163383,0.328245
+universe_equity_only,absolute_return,15,main_holdout,Mondrian state conformal,All,777,0.907336,0.985457,0.907336,0.286049,0.143025,0.294678
+universe_equity_only,absolute_return,15,main_holdout,Mondrian state conformal,S2_Elevated,288,0.861111,0.979630,0.861111,0.199855,0.099928,0.210665
+universe_equity_only,absolute_return,15,main_holdout,Mondrian state conformal,S1_Normal,112,0.839286,0.973810,0.839286,0.141455,0.070728,0.156832
+universe_equity_only,absolute_return,15,main_holdout,Mondrian state conformal,S3_High-risk,377,0.962865,0.993369,0.962865,0.394851,0.197426,0.399809
+universe_equity_only,absolute_return,15,main_holdout,Bonferroni empirical residual bands,All,777,0.996139,0.999657,0.996139,0.625869,0.312934,0.625936
+universe_equity_only,absolute_return,15,main_holdout,Adaptive conformal inference (delayed feedback),All,777,0.909910,0.982840,0.909910,0.258368,0.129184,0.270649
+grid_h_coarse,absolute_return,38,main_holdout,Global split conformal,All,777,0.966538,0.992332,0.966538,0.243904,0.121952,0.250846
+grid_h_coarse,absolute_return,38,main_holdout,Global split conformal,S3_High-risk,353,0.954674,0.985246,0.954674,0.243904,0.121952,0.258698
+grid_h_coarse,absolute_return,38,main_holdout,Global split conformal,S2_Elevated,330,0.972727,0.997854,0.972727,0.243904,0.121952,0.244323
+grid_h_coarse,absolute_return,38,main_holdout,Global split conformal,S1_Normal,94,0.989362,0.999557,0.989362,0.243904,0.121952,0.244254
+grid_h_coarse,absolute_return,38,main_holdout,Mondrian state conformal,All,777,0.940798,0.989489,0.940798,0.209962,0.104981,0.216134
+grid_h_coarse,absolute_return,38,main_holdout,Mondrian state conformal,S2_Elevated,330,0.927273,0.991793,0.927273,0.155636,0.077818,0.157844
+grid_h_coarse,absolute_return,38,main_holdout,Mondrian state conformal,S1_Normal,94,0.904255,0.988475,0.904255,0.122348,0.061174,0.125432
+grid_h_coarse,absolute_return,38,main_holdout,Mondrian state conformal,S3_High-risk,353,0.963173,0.987606,0.963173,0.284078,0.142039,0.294779
+grid_h_coarse,absolute_return,38,main_holdout,Bonferroni empirical residual bands,All,777,0.998713,0.999732,0.998713,0.619877,0.309939,0.619931
+grid_h_coarse,absolute_return,38,main_holdout,Adaptive conformal inference (delayed feedback),All,777,0.912484,0.982357,0.912484,0.175027,0.087513,0.189841
+grid_tau_coarse,absolute_return,38,main_holdout,Global split conformal,All,777,0.971686,0.993565,0.971686,0.252153,0.126077,0.257590
+grid_tau_coarse,absolute_return,38,main_holdout,Global split conformal,S3_High-risk,357,0.960784,0.987815,0.960784,0.252153,0.126077,0.263432
+grid_tau_coarse,absolute_return,38,main_holdout,Global split conformal,S2_Elevated,322,0.975155,0.997981,0.975155,0.252153,0.126077,0.252769
+grid_tau_coarse,absolute_return,38,main_holdout,Global split conformal,S1_Normal,98,1.000000,1.000000,1.000000,0.252153,0.126077,0.252153
+grid_tau_coarse,absolute_return,38,main_holdout,Mondrian state conformal,All,777,0.940798,0.990283,0.940798,0.225327,0.112663,0.230437
+grid_tau_coarse,absolute_return,38,main_holdout,Mondrian state conformal,S2_Elevated,322,0.925466,0.990994,0.925466,0.166252,0.083126,0.169595
+grid_tau_coarse,absolute_return,38,main_holdout,Mondrian state conformal,S1_Normal,98,0.908163,0.987245,0.908163,0.119779,0.059890,0.123190
+grid_tau_coarse,absolute_return,38,main_holdout,Mondrian state conformal,S3_High-risk,357,0.963585,0.990476,0.963585,0.307583,0.153792,0.314754
+grid_tau_coarse,absolute_return,38,main_holdout,Bonferroni empirical residual bands,All,777,0.996139,0.999550,0.996139,0.526989,0.263495,0.527101
+grid_tau_coarse,absolute_return,38,main_holdout,Adaptive conformal inference (delayed feedback),All,777,0.911197,0.982625,0.912484,0.182040,0.091020,0.195096
+quantile_type7_rebuilt,absolute_return,38,main_holdout,Global split conformal,All,777,0.970399,0.991634,0.970399,0.175814,0.087907,0.182679
+quantile_type7_rebuilt,absolute_return,38,main_holdout,Global split conformal,S3_High-risk,347,0.956772,0.983766,0.956772,0.175814,0.087907,0.190734
+quantile_type7_rebuilt,absolute_return,38,main_holdout,Global split conformal,S2_Elevated,318,0.974843,0.997275,0.974843,0.175814,0.087907,0.176307
+quantile_type7_rebuilt,absolute_return,38,main_holdout,Global split conformal,S1_Normal,112,1.000000,1.000000,1.000000,0.175814,0.087907,0.175814
+quantile_type7_rebuilt,absolute_return,38,main_holdout,Mondrian state conformal,All,777,0.939511,0.986444,0.939511,0.151463,0.075731,0.157909
+quantile_type7_rebuilt,absolute_return,38,main_holdout,Mondrian state conformal,S2_Elevated,318,0.924528,0.987945,0.924528,0.112655,0.056327,0.115511
+quantile_type7_rebuilt,absolute_return,38,main_holdout,Mondrian state conformal,S1_Normal,112,0.901786,0.978869,0.901786,0.088045,0.044022,0.091324
+quantile_type7_rebuilt,absolute_return,38,main_holdout,Mondrian state conformal,S3_High-risk,347,0.965418,0.987512,0.965418,0.207497,0.103748,0.218256
+quantile_type7_rebuilt,absolute_return,38,main_holdout,Bonferroni empirical residual bands,All,777,0.997426,0.999743,0.997426,0.521270,0.260635,0.521312
+quantile_type7_rebuilt,absolute_return,38,main_holdout,Adaptive conformal inference (delayed feedback),All,777,0.907336,0.982540,0.909910,0.143656,0.071828,0.155318
+quantile_type9_rebuilt,absolute_return,38,main_holdout,Global split conformal,All,777,0.974260,0.993050,0.974260,0.225924,0.112962,0.232113
+quantile_type9_rebuilt,absolute_return,38,main_holdout,Global split conformal,S3_High-risk,351,0.962963,0.986800,0.962963,0.225924,0.112962,0.239125
+quantile_type9_rebuilt,absolute_return,38,main_holdout,Global split conformal,S2_Elevated,335,0.979104,0.997711,0.979104,0.225924,0.112962,0.226447
+quantile_type9_rebuilt,absolute_return,38,main_holdout,Global split conformal,S1_Normal,91,1.000000,1.000000,1.000000,0.225924,0.112962,0.225924
+quantile_type9_rebuilt,absolute_return,38,main_holdout,Mondrian state conformal,All,777,0.938224,0.989103,0.938224,0.197096,0.098548,0.202686
+quantile_type9_rebuilt,absolute_return,38,main_holdout,Mondrian state conformal,S2_Elevated,335,0.919403,0.989652,0.919403,0.142567,0.071283,0.145694
+quantile_type9_rebuilt,absolute_return,38,main_holdout,Mondrian state conformal,S1_Normal,91,0.901099,0.987179,0.901099,0.109085,0.054543,0.111536
+quantile_type9_rebuilt,absolute_return,38,main_holdout,Mondrian state conformal,S3_High-risk,351,0.965812,0.989079,0.965812,0.271958,0.135979,0.280712
+quantile_type9_rebuilt,absolute_return,38,main_holdout,Bonferroni empirical residual bands,All,777,0.998713,0.999743,0.998713,0.573894,0.286947,0.573942
+quantile_type9_rebuilt,absolute_return,38,main_holdout,Adaptive conformal inference (delayed feedback),All,777,0.912484,0.982754,0.913771,0.159508,0.079754,0.173382
+har_windows_1_10_22,absolute_return,38,main_holdout,Global split conformal,All,777,0.974260,0.993050,0.974260,0.231369,0.115684,0.237567
+har_windows_1_10_22,absolute_return,38,main_holdout,Global split conformal,S3_High-risk,350,0.962857,0.986762,0.962857,0.231369,0.115684,0.244608
+har_windows_1_10_22,absolute_return,38,main_holdout,Global split conformal,S2_Elevated,335,0.982090,0.997811,0.982090,0.231369,0.115684,0.231844
+har_windows_1_10_22,absolute_return,38,main_holdout,Global split conformal,S1_Normal,92,0.989130,0.999638,0.989130,0.231369,0.115684,0.231615
+har_windows_1_10_22,absolute_return,38,main_holdout,Mondrian state conformal,All,777,0.938224,0.989103,0.938224,0.200714,0.100357,0.206512
+har_windows_1_10_22,absolute_return,38,main_holdout,Mondrian state conformal,S2_Elevated,335,0.922388,0.990746,0.922388,0.146972,0.073486,0.149834
+har_windows_1_10_22,absolute_return,38,main_holdout,Mondrian state conformal,S1_Normal,92,0.891304,0.984058,0.891304,0.109409,0.054705,0.113887
+har_windows_1_10_22,absolute_return,38,main_holdout,Mondrian state conformal,S3_High-risk,350,0.965714,0.988857,0.965714,0.276153,0.138076,0.285109
+har_windows_1_10_22,absolute_return,38,main_holdout,Bonferroni empirical residual bands,All,777,0.998713,0.999743,0.998713,0.581073,0.290537,0.581121
+har_windows_1_10_22,absolute_return,38,main_holdout,Adaptive conformal inference (delayed feedback),All,777,0.912484,0.983355,0.912484,0.164023,0.082012,0.177469
+har_windows_1_5_10_22,absolute_return,38,main_holdout,Global split conformal,All,777,0.974260,0.993136,0.974260,0.233494,0.116747,0.239567
+har_windows_1_5_10_22,absolute_return,38,main_holdout,Global split conformal,S3_High-risk,350,0.962857,0.986857,0.962857,0.233494,0.116747,0.246472
+har_windows_1_5_10_22,absolute_return,38,main_holdout,Global split conformal,S2_Elevated,335,0.982090,0.997910,0.982090,0.233494,0.116747,0.233956
+har_windows_1_5_10_22,absolute_return,38,main_holdout,Global split conformal,S1_Normal,92,0.989130,0.999638,0.989130,0.233494,0.116747,0.233732
+har_windows_1_5_10_22,absolute_return,38,main_holdout,Mondrian state conformal,All,777,0.939511,0.989275,0.939511,0.200223,0.100111,0.206046
+har_windows_1_5_10_22,absolute_return,38,main_holdout,Mondrian state conformal,S2_Elevated,335,0.925373,0.990945,0.925373,0.147780,0.073890,0.150621
+har_windows_1_5_10_22,absolute_return,38,main_holdout,Mondrian state conformal,S1_Normal,92,0.891304,0.984783,0.891304,0.110590,0.055295,0.114965
+har_windows_1_5_10_22,absolute_return,38,main_holdout,Mondrian state conformal,S3_High-risk,350,0.965714,0.988857,0.965714,0.273979,0.136989,0.283037
+har_windows_1_5_10_22,absolute_return,38,main_holdout,Bonferroni empirical residual bands,All,777,0.998713,0.999743,0.998713,0.579867,0.289933,0.579914
+har_windows_1_5_10_22,absolute_return,38,main_holdout,Adaptive conformal inference (delayed feedback),All,777,0.912484,0.983183,0.912484,0.164481,0.082241,0.177938

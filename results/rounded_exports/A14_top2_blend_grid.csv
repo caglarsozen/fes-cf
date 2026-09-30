@@ -1,0 +1,442 @@
+scheme,chosen anchor,second anchor,secondary blend lambda,guard loss
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.000,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.025,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.050,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.075,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.100,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.125,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.150,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.175,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.200,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.225,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.250,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.275,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.300,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.325,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.350,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.375,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.400,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.425,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.450,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.475,0.001450
+main_holdout,FPCA-X ridge,Functional HAR-X ridge,0.500,0.001450
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.000,0.001438
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.025,0.001419
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.050,0.001401
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.075,0.001384
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.100,0.001368
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.125,0.001353
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.150,0.001339
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.175,0.001326
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.200,0.001314
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.225,0.001303
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.250,0.001292
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.275,0.001283
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.300,0.001275
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.325,0.001268
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.350,0.001261
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.375,0.001256
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.400,0.001252
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.425,0.001248
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.450,0.001246
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.475,0.001244
+rolling_01,Rolling mean completed surface,Graph Functional HAR-X ridge,0.500,0.001244
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.000,0.001333
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.025,0.001315
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.050,0.001298
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.075,0.001282
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.100,0.001266
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.125,0.001252
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.150,0.001240
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.175,0.001228
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.200,0.001217
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.225,0.001208
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.250,0.001199
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.275,0.001192
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.300,0.001186
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.325,0.001181
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.350,0.001176
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.375,0.001174
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.400,0.001172
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.425,0.001171
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.450,0.001171
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.475,0.001173
+rolling_02,Rolling mean completed surface,Graph Functional HAR-X ridge,0.500,0.001175
+rolling_03,Rolling mean completed surface,Naive completed surface,0.000,0.000996
+rolling_03,Rolling mean completed surface,Naive completed surface,0.025,0.000985
+rolling_03,Rolling mean completed surface,Naive completed surface,0.050,0.000976
+rolling_03,Rolling mean completed surface,Naive completed surface,0.075,0.000967
+rolling_03,Rolling mean completed surface,Naive completed surface,0.100,0.000958
+rolling_03,Rolling mean completed surface,Naive completed surface,0.125,0.000951
+rolling_03,Rolling mean completed surface,Naive completed surface,0.150,0.000944
+rolling_03,Rolling mean completed surface,Naive completed surface,0.175,0.000939
+rolling_03,Rolling mean completed surface,Naive completed surface,0.200,0.000934
+rolling_03,Rolling mean completed surface,Naive completed surface,0.225,0.000930
+rolling_03,Rolling mean completed surface,Naive completed surface,0.250,0.000926
+rolling_03,Rolling mean completed surface,Naive completed surface,0.275,0.000924
+rolling_03,Rolling mean completed surface,Naive completed surface,0.300,0.000922
+rolling_03,Rolling mean completed surface,Naive completed surface,0.325,0.000921
+rolling_03,Rolling mean completed surface,Naive completed surface,0.350,0.000921
+rolling_03,Rolling mean completed surface,Naive completed surface,0.375,0.000921
+rolling_03,Rolling mean completed surface,Naive completed surface,0.400,0.000923
+rolling_03,Rolling mean completed surface,Naive completed surface,0.425,0.000925
+rolling_03,Rolling mean completed surface,Naive completed surface,0.450,0.000928
+rolling_03,Rolling mean completed surface,Naive completed surface,0.475,0.000932
+rolling_03,Rolling mean completed surface,Naive completed surface,0.500,0.000936
+rolling_04,Rolling mean completed surface,Naive completed surface,0.000,0.000745
+rolling_04,Rolling mean completed surface,Naive completed surface,0.025,0.000735
+rolling_04,Rolling mean completed surface,Naive completed surface,0.050,0.000726
+rolling_04,Rolling mean completed surface,Naive completed surface,0.075,0.000718
+rolling_04,Rolling mean completed surface,Naive completed surface,0.100,0.000710
+rolling_04,Rolling mean completed surface,Naive completed surface,0.125,0.000703
+rolling_04,Rolling mean completed surface,Naive completed surface,0.150,0.000696
+rolling_04,Rolling mean completed surface,Naive completed surface,0.175,0.000690
+rolling_04,Rolling mean completed surface,Naive completed surface,0.200,0.000685
+rolling_04,Rolling mean completed surface,Naive completed surface,0.225,0.000680
+rolling_04,Rolling mean completed surface,Naive completed surface,0.250,0.000676
+rolling_04,Rolling mean completed surface,Naive completed surface,0.275,0.000672
+rolling_04,Rolling mean completed surface,Naive completed surface,0.300,0.000669
+rolling_04,Rolling mean completed surface,Naive completed surface,0.325,0.000667
+rolling_04,Rolling mean completed surface,Naive completed surface,0.350,0.000665
+rolling_04,Rolling mean completed surface,Naive completed surface,0.375,0.000663
+rolling_04,Rolling mean completed surface,Naive completed surface,0.400,0.000662
+rolling_04,Rolling mean completed surface,Naive completed surface,0.425,0.000662
+rolling_04,Rolling mean completed surface,Naive completed surface,0.450,0.000663
+rolling_04,Rolling mean completed surface,Naive completed surface,0.475,0.000664
+rolling_04,Rolling mean completed surface,Naive completed surface,0.500,0.000665
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.000,0.000881
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.025,0.000871
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.050,0.000863
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.075,0.000855
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.100,0.000848
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.125,0.000842
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.150,0.000837
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.175,0.000832
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.200,0.000829
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.225,0.000826
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.250,0.000824
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.275,0.000823
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.300,0.000823
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.325,0.000824
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.350,0.000826
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.375,0.000828
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.400,0.000831
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.425,0.000835
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.450,0.000840
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.475,0.000846
+rolling_05,Rolling mean completed surface,Graph Functional HAR-X ridge,0.500,0.000853
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.000,0.001364
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.025,0.001364
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.050,0.001364
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.075,0.001364
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.100,0.001364
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.125,0.001365
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.150,0.001365
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.175,0.001365
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.200,0.001365
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.225,0.001365
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.250,0.001365
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.275,0.001366
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.300,0.001366
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.325,0.001366
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.350,0.001366
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.375,0.001366
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.400,0.001367
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.425,0.001367
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.450,0.001367
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.475,0.001367
+rolling_06,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.500,0.001367
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.000,0.001292
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.025,0.001292
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.050,0.001292
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.075,0.001292
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.100,0.001292
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.125,0.001293
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.150,0.001293
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.175,0.001293
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.200,0.001293
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.225,0.001293
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.250,0.001293
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.275,0.001294
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.300,0.001294
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.325,0.001294
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.350,0.001294
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.375,0.001294
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.400,0.001295
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.425,0.001295
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.450,0.001295
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.475,0.001295
+rolling_07,Graph Functional HAR-X ridge,FPCA-X ridge,0.500,0.001295
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.000,0.001029
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.025,0.001018
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.050,0.001007
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.075,0.000997
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.100,0.000988
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.125,0.000979
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.150,0.000971
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.175,0.000963
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.200,0.000956
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.225,0.000949
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.250,0.000943
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.275,0.000938
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.300,0.000933
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.325,0.000929
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.350,0.000925
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.375,0.000922
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.400,0.000920
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.425,0.000918
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.450,0.000917
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.475,0.000916
+rolling_08,Rolling mean completed surface,Graph Functional HAR-X ridge,0.500,0.000916
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.000,0.000845
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.025,0.000836
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.050,0.000828
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.075,0.000820
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.100,0.000812
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.125,0.000806
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.150,0.000799
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.175,0.000794
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.200,0.000788
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.225,0.000784
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.250,0.000779
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.275,0.000776
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.300,0.000773
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.325,0.000770
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.350,0.000768
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.375,0.000766
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.400,0.000765
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.425,0.000765
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.450,0.000765
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.475,0.000765
+rolling_09,Rolling mean completed surface,Graph Functional HAR-X ridge,0.500,0.000766
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.000,0.001012
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.025,0.001012
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.050,0.001012
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.075,0.001013
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.100,0.001013
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.125,0.001013
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.150,0.001014
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.175,0.001014
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.200,0.001014
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.225,0.001015
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.250,0.001015
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.275,0.001015
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.300,0.001016
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.325,0.001016
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.350,0.001016
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.375,0.001017
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.400,0.001017
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.425,0.001017
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.450,0.001018
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.475,0.001018
+rolling_10,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.500,0.001018
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.000,0.001872
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.025,0.001873
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.050,0.001873
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.075,0.001873
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.100,0.001874
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.125,0.001874
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.150,0.001875
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.175,0.001875
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.200,0.001876
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.225,0.001876
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.250,0.001877
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.275,0.001877
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.300,0.001878
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.325,0.001878
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.350,0.001879
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.375,0.001879
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.400,0.001880
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.425,0.001880
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.450,0.001881
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.475,0.001881
+rolling_11,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.500,0.001882
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.000,0.002126
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.025,0.002099
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.050,0.002073
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.075,0.002049
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.100,0.002027
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.125,0.002006
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.150,0.001987
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.175,0.001968
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.200,0.001952
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.225,0.001937
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.250,0.001923
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.275,0.001911
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.300,0.001900
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.325,0.001891
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.350,0.001883
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.375,0.001877
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.400,0.001872
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.425,0.001869
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.450,0.001867
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.475,0.001867
+rolling_12,Rolling mean completed surface,Functional HAR-X ridge,0.500,0.001868
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.000,0.001802
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.025,0.001780
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.050,0.001758
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.075,0.001738
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.100,0.001719
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.125,0.001702
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.150,0.001685
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.175,0.001670
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.200,0.001656
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.225,0.001644
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.250,0.001633
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.275,0.001622
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.300,0.001614
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.325,0.001606
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.350,0.001600
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.375,0.001595
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.400,0.001591
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.425,0.001588
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.450,0.001587
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.475,0.001587
+rolling_13,Rolling mean completed surface,Functional HAR-X ridge,0.500,0.001588
+rolling_14,Naive completed surface,Rolling mean completed surface,0.000,0.005669
+rolling_14,Naive completed surface,Rolling mean completed surface,0.025,0.005639
+rolling_14,Naive completed surface,Rolling mean completed surface,0.050,0.005614
+rolling_14,Naive completed surface,Rolling mean completed surface,0.075,0.005594
+rolling_14,Naive completed surface,Rolling mean completed surface,0.100,0.005579
+rolling_14,Naive completed surface,Rolling mean completed surface,0.125,0.005569
+rolling_14,Naive completed surface,Rolling mean completed surface,0.150,0.005564
+rolling_14,Naive completed surface,Rolling mean completed surface,0.175,0.005564
+rolling_14,Naive completed surface,Rolling mean completed surface,0.200,0.005570
+rolling_14,Naive completed surface,Rolling mean completed surface,0.225,0.005580
+rolling_14,Naive completed surface,Rolling mean completed surface,0.250,0.005596
+rolling_14,Naive completed surface,Rolling mean completed surface,0.275,0.005616
+rolling_14,Naive completed surface,Rolling mean completed surface,0.300,0.005642
+rolling_14,Naive completed surface,Rolling mean completed surface,0.325,0.005673
+rolling_14,Naive completed surface,Rolling mean completed surface,0.350,0.005708
+rolling_14,Naive completed surface,Rolling mean completed surface,0.375,0.005749
+rolling_14,Naive completed surface,Rolling mean completed surface,0.400,0.005795
+rolling_14,Naive completed surface,Rolling mean completed surface,0.425,0.005846
+rolling_14,Naive completed surface,Rolling mean completed surface,0.450,0.005902
+rolling_14,Naive completed surface,Rolling mean completed surface,0.475,0.005963
+rolling_14,Naive completed surface,Rolling mean completed surface,0.500,0.006029
+rolling_15,Naive completed surface,Rolling mean completed surface,0.000,0.006863
+rolling_15,Naive completed surface,Rolling mean completed surface,0.025,0.006818
+rolling_15,Naive completed surface,Rolling mean completed surface,0.050,0.006779
+rolling_15,Naive completed surface,Rolling mean completed surface,0.075,0.006746
+rolling_15,Naive completed surface,Rolling mean completed surface,0.100,0.006719
+rolling_15,Naive completed surface,Rolling mean completed surface,0.125,0.006698
+rolling_15,Naive completed surface,Rolling mean completed surface,0.150,0.006682
+rolling_15,Naive completed surface,Rolling mean completed surface,0.175,0.006673
+rolling_15,Naive completed surface,Rolling mean completed surface,0.200,0.006670
+rolling_15,Naive completed surface,Rolling mean completed surface,0.225,0.006673
+rolling_15,Naive completed surface,Rolling mean completed surface,0.250,0.006681
+rolling_15,Naive completed surface,Rolling mean completed surface,0.275,0.006696
+rolling_15,Naive completed surface,Rolling mean completed surface,0.300,0.006716
+rolling_15,Naive completed surface,Rolling mean completed surface,0.325,0.006743
+rolling_15,Naive completed surface,Rolling mean completed surface,0.350,0.006775
+rolling_15,Naive completed surface,Rolling mean completed surface,0.375,0.006814
+rolling_15,Naive completed surface,Rolling mean completed surface,0.400,0.006858
+rolling_15,Naive completed surface,Rolling mean completed surface,0.425,0.006909
+rolling_15,Naive completed surface,Rolling mean completed surface,0.450,0.006965
+rolling_15,Naive completed surface,Rolling mean completed surface,0.475,0.007027
+rolling_15,Naive completed surface,Rolling mean completed surface,0.500,0.007096
+rolling_16,Naive completed surface,Rolling mean completed surface,0.000,0.007451
+rolling_16,Naive completed surface,Rolling mean completed surface,0.025,0.007396
+rolling_16,Naive completed surface,Rolling mean completed surface,0.050,0.007349
+rolling_16,Naive completed surface,Rolling mean completed surface,0.075,0.007308
+rolling_16,Naive completed surface,Rolling mean completed surface,0.100,0.007273
+rolling_16,Naive completed surface,Rolling mean completed surface,0.125,0.007245
+rolling_16,Naive completed surface,Rolling mean completed surface,0.150,0.007223
+rolling_16,Naive completed surface,Rolling mean completed surface,0.175,0.007208
+rolling_16,Naive completed surface,Rolling mean completed surface,0.200,0.007199
+rolling_16,Naive completed surface,Rolling mean completed surface,0.225,0.007197
+rolling_16,Naive completed surface,Rolling mean completed surface,0.250,0.007201
+rolling_16,Naive completed surface,Rolling mean completed surface,0.275,0.007212
+rolling_16,Naive completed surface,Rolling mean completed surface,0.300,0.007229
+rolling_16,Naive completed surface,Rolling mean completed surface,0.325,0.007253
+rolling_16,Naive completed surface,Rolling mean completed surface,0.350,0.007283
+rolling_16,Naive completed surface,Rolling mean completed surface,0.375,0.007320
+rolling_16,Naive completed surface,Rolling mean completed surface,0.400,0.007363
+rolling_16,Naive completed surface,Rolling mean completed surface,0.425,0.007413
+rolling_16,Naive completed surface,Rolling mean completed surface,0.450,0.007469
+rolling_16,Naive completed surface,Rolling mean completed surface,0.475,0.007532
+rolling_16,Naive completed surface,Rolling mean completed surface,0.500,0.007601
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.000,0.001864
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.025,0.001865
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.050,0.001865
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.075,0.001866
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.100,0.001867
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.125,0.001868
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.150,0.001868
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.175,0.001869
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.200,0.001870
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.225,0.001871
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.250,0.001872
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.275,0.001872
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.300,0.001873
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.325,0.001874
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.350,0.001875
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.375,0.001875
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.400,0.001876
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.425,0.001877
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.450,0.001878
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.475,0.001879
+rolling_17,Graph Functional HAR-X ridge,Functional HAR-X ridge,0.500,0.001879
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.000,0.001294
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.025,0.001280
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.050,0.001268
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.075,0.001256
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.100,0.001245
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.125,0.001235
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.150,0.001226
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.175,0.001218
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.200,0.001211
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.225,0.001205
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.250,0.001200
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.275,0.001195
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.300,0.001192
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.325,0.001189
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.350,0.001187
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.375,0.001187
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.400,0.001187
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.425,0.001188
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.450,0.001190
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.475,0.001193
+rolling_18,Rolling mean completed surface,Functional HAR-X ridge,0.500,0.001197
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.000,0.001635
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.025,0.001611
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.050,0.001589
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.075,0.001568
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.100,0.001548
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.125,0.001530
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.150,0.001513
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.175,0.001498
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.200,0.001484
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.225,0.001472
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.250,0.001461
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.275,0.001452
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.300,0.001444
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.325,0.001438
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.350,0.001433
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.375,0.001429
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.400,0.001427
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.425,0.001426
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.450,0.001427
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.475,0.001430
+rolling_19,Rolling mean completed surface,Functional HAR-X ridge,0.500,0.001433
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.000,0.002180
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.025,0.002153
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.050,0.002127
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.075,0.002104
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.100,0.002082
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.125,0.002062
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.150,0.002043
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.175,0.002026
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.200,0.002011
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.225,0.001997
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.250,0.001985
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.275,0.001974
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.300,0.001966
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.325,0.001959
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.350,0.001953
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.375,0.001949
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.400,0.001947
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.425,0.001947
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.450,0.001948
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.475,0.001951
+rolling_20,Rolling mean completed surface,Graph Functional HAR-X ridge,0.500,0.001955

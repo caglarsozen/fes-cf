@@ -1,0 +1,674 @@
+scheme,component,elapsed_seconds
+global,build_primary_design,46
+main_holdout,FPCA-X ridge,32.35999999998603
+main_holdout,Functional HAR-X ridge,219.86999999999534
+main_holdout,Graph Functional HAR-X ridge,267.46999999997206
+main_holdout,Cell-by-cell HAR-X ridge,7.669999999925494
+main_holdout,Bottom-up asset HAR,14.099999999976717
+main_holdout,FPCA-X ridge,34.13000000000466
+main_holdout,Functional HAR-X ridge,191.61999999999534
+main_holdout,Graph Functional HAR-X ridge,209.6600000000326
+main_holdout,FPCA-X ridge,33.53000000002794
+main_holdout,Functional HAR-X ridge,227.25
+main_holdout,Graph Functional HAR-X ridge,264.9199999999255
+main_holdout,FES-CF full architecture,1553.0800000000745
+rolling_01,FPCA-X ridge,22.339999999967404
+rolling_01,Functional HAR-X ridge,143.77000000001863
+rolling_01,Graph Functional HAR-X ridge,171.0899999999674
+rolling_01,Cell-by-cell HAR-X ridge,5.819999999948777
+rolling_01,Bottom-up asset HAR,4.239999999990687
+rolling_01,FPCA-X ridge,23.03000000002794
+rolling_01,Functional HAR-X ridge,155.9100000000326
+rolling_01,Graph Functional HAR-X ridge,181.5100000000093
+rolling_01,FPCA-X ridge,22.21999999997206
+rolling_01,Functional HAR-X ridge,144.28000000002794
+rolling_01,Graph Functional HAR-X ridge,169.69999999995343
+rolling_01,FES-CF full architecture,959.5500000000466
+rolling_02,FPCA-X ridge,27.789999999920838
+rolling_02,Functional HAR-X ridge,155.89000000001397
+rolling_02,Graph Functional HAR-X ridge,183.3300000000745
+rolling_02,Cell-by-cell HAR-X ridge,5.989999999990687
+rolling_02,Bottom-up asset HAR,4.1100000001024455
+rolling_02,FPCA-X ridge,20.14000000001397
+rolling_02,Functional HAR-X ridge,116.36999999999534
+rolling_02,Graph Functional HAR-X ridge,138.4899999999907
+rolling_02,FPCA-X ridge,27.440000000060536
+rolling_02,Functional HAR-X ridge,155.0099999998929
+rolling_02,Graph Functional HAR-X ridge,182.28000000002794
+rolling_02,FES-CF full architecture,891.2099999999627
+rolling_03,FPCA-X ridge,25.85999999998603
+rolling_03,Functional HAR-X ridge,148.78000000002794
+rolling_03,Graph Functional HAR-X ridge,174.96999999997206
+rolling_03,Cell-by-cell HAR-X ridge,6
+rolling_03,Bottom-up asset HAR,4.169999999925494
+rolling_03,FPCA-X ridge,22.35999999998603
+rolling_03,Functional HAR-X ridge,133.96999999997206
+rolling_03,Graph Functional HAR-X ridge,158.4200000000419
+rolling_03,FPCA-X ridge,26.020000000018626
+rolling_03,Functional HAR-X ridge,148.9199999999255
+rolling_03,Graph Functional HAR-X ridge,176.0800000000745
+rolling_03,FES-CF full architecture,853.8099999999395
+rolling_04,FPCA-X ridge,29.03000000002794
+rolling_04,Functional HAR-X ridge,154.14000000001397
+rolling_04,Graph Functional HAR-X ridge,183.88999999989755
+rolling_04,Cell-by-cell HAR-X ridge,5.940000000060536
+rolling_04,Bottom-up asset HAR,4.35999999998603
+rolling_04,FPCA-X ridge,21.03000000002794
+rolling_04,Functional HAR-X ridge,131.55999999993946
+rolling_04,Graph Functional HAR-X ridge,161.71999999997206
+rolling_04,FPCA-X ridge,28.479999999981374
+rolling_04,Functional HAR-X ridge,155.5899999999674
+rolling_04,Graph Functional HAR-X ridge,184.22999999998137
+rolling_04,FES-CF full architecture,859.9299999999348
+rolling_05,FPCA-X ridge,11.399999999906868
+rolling_05,Functional HAR-X ridge,50.64000000001397
+rolling_05,Graph Functional HAR-X ridge,60.5
+rolling_05,Cell-by-cell HAR-X ridge,6.119999999995343
+rolling_05,Bottom-up asset HAR,4.159999999916181
+rolling_05,FPCA-X ridge,9.119999999995343
+rolling_05,Functional HAR-X ridge,46.85999999998603
+rolling_05,Graph Functional HAR-X ridge,55.32000000006519
+rolling_05,FPCA-X ridge,11.410000000032596
+rolling_05,Functional HAR-X ridge,51.31999999994878
+rolling_05,Graph Functional HAR-X ridge,61.410000000032596
+rolling_05,FES-CF full architecture,416.9299999999348
+rolling_06,FPCA-X ridge,11.089999999967404
+rolling_06,Functional HAR-X ridge,51.470000000088476
+rolling_06,Graph Functional HAR-X ridge,59.38000000000466
+rolling_06,Cell-by-cell HAR-X ridge,6.189999999944121
+rolling_06,Bottom-up asset HAR,4.1100000001024455
+rolling_06,FPCA-X ridge,9.059999999939464
+rolling_06,Functional HAR-X ridge,46.10000000009313
+rolling_06,Graph Functional HAR-X ridge,53.93999999994412
+rolling_06,FPCA-X ridge,10.940000000060536
+rolling_06,Functional HAR-X ridge,53.68999999994412
+rolling_06,Graph Functional HAR-X ridge,60.45999999996275
+rolling_06,FES-CF full architecture,426.1800000000512
+rolling_07,FPCA-X ridge,14.719999999999999
+rolling_07,Functional HAR-X ridge,60.77000000000001
+rolling_07,Graph Functional HAR-X ridge,68.97999999999996
+rolling_07,Cell-by-cell HAR-X ridge,5.949999999999989
+rolling_07,Bottom-up asset HAR,4.160000000000025
+rolling_07,FPCA-X ridge,8.420000000000016
+rolling_07,Functional HAR-X ridge,42.52999999999997
+rolling_07,Graph Functional HAR-X ridge,50.69
+rolling_07,FPCA-X ridge,17.16999999999996
+rolling_07,Functional HAR-X ridge,67.56999999999994
+rolling_07,Graph Functional HAR-X ridge,72.32000000000005
+rolling_07,FES-CF full architecture,473.07
+rolling_08,FPCA-X ridge,15.370000000000005
+rolling_08,Functional HAR-X ridge,62.610000000000014
+rolling_08,Graph Functional HAR-X ridge,75.18999999999994
+rolling_08,Cell-by-cell HAR-X ridge,6.279999999999973
+rolling_08,Bottom-up asset HAR,4.190000000000055
+rolling_08,FPCA-X ridge,11.019999999999982
+rolling_08,Functional HAR-X ridge,50.809999999999945
+rolling_08,Graph Functional HAR-X ridge,61.799999999999955
+rolling_08,FPCA-X ridge,14.61999999999989
+rolling_08,Functional HAR-X ridge,59.41000000000008
+rolling_08,Graph Functional HAR-X ridge,70.18000000000006
+rolling_08,FES-CF full architecture,461.15999999999997
+rolling_09,FPCA-X ridge,16.409999999999854
+rolling_09,Functional HAR-X ridge,68.87000000000012
+rolling_09,Graph Functional HAR-X ridge,82.02999999999997
+rolling_09,Cell-by-cell HAR-X ridge,5.9699999999998
+rolling_09,Bottom-up asset HAR,4.060000000000173
+rolling_09,FPCA-X ridge,13.360000000000127
+rolling_09,Functional HAR-X ridge,58.07999999999993
+rolling_09,Graph Functional HAR-X ridge,69.58999999999992
+rolling_09,FPCA-X ridge,16.519999999999982
+rolling_09,Functional HAR-X ridge,69.75999999999999
+rolling_09,Graph Functional HAR-X ridge,82.72000000000003
+rolling_09,FES-CF full architecture,496.53
+rolling_10,FPCA-X ridge,18.429999999999836
+rolling_10,Functional HAR-X ridge,88.88000000000011
+rolling_10,Graph Functional HAR-X ridge,105.59000000000015
+rolling_10,Cell-by-cell HAR-X ridge,6.070000000000164
+rolling_10,Bottom-up asset HAR,4.0900000000001455
+rolling_10,FPCA-X ridge,16.66000000000031
+rolling_10,Functional HAR-X ridge,79.83999999999969
+rolling_10,Graph Functional HAR-X ridge,94.49000000000024
+rolling_10,FPCA-X ridge,18.470000000000255
+rolling_10,Functional HAR-X ridge,88.67000000000007
+rolling_10,Graph Functional HAR-X ridge,104.67999999999984
+rolling_10,FES-CF full architecture,657.73
+rolling_11,FPCA-X ridge,17.299999999999727
+rolling_11,Functional HAR-X ridge,93.86000000000013
+rolling_11,Graph Functional HAR-X ridge,111.17999999999984
+rolling_11,Cell-by-cell HAR-X ridge,5.9900000000002365
+rolling_11,Bottom-up asset HAR,4.099999999999909
+rolling_11,FPCA-X ridge,16.720000000000255
+rolling_11,Functional HAR-X ridge,83.2199999999998
+rolling_11,Graph Functional HAR-X ridge,97.34000000000015
+rolling_11,FPCA-X ridge,17.309999999999945
+rolling_11,Functional HAR-X ridge,93.42000000000007
+rolling_11,Graph Functional HAR-X ridge,110.84000000000015
+rolling_11,FES-CF full architecture,670.9500000000003
+rolling_12,FPCA-X ridge,17.4699999999998
+rolling_12,Functional HAR-X ridge,89.2800000000002
+rolling_12,Graph Functional HAR-X ridge,105.2199999999998
+rolling_12,Cell-by-cell HAR-X ridge,5.780000000000655
+rolling_12,Bottom-up asset HAR,4.059999999999491
+rolling_12,FPCA-X ridge,14.210000000000036
+rolling_12,Functional HAR-X ridge,75.03999999999996
+rolling_12,Graph Functional HAR-X ridge,88.92999999999938
+rolling_12,FPCA-X ridge,17.779999999999745
+rolling_12,Functional HAR-X ridge,90.21000000000004
+rolling_12,Graph Functional HAR-X ridge,106.36999999999989
+rolling_12,FES-CF full architecture,593.6900000000005
+rolling_13,FPCA-X ridge,16.399999999999636
+rolling_13,Functional HAR-X ridge,119.17000000000007
+rolling_13,Graph Functional HAR-X ridge,141.25
+rolling_13,Cell-by-cell HAR-X ridge,5.890000000000327
+rolling_13,Bottom-up asset HAR,3.9099999999998545
+rolling_13,FPCA-X ridge,11.699999999999818
+rolling_13,Functional HAR-X ridge,94.10999999999967
+rolling_13,Graph Functional HAR-X ridge,110.92000000000007
+rolling_13,FPCA-X ridge,16.300000000000182
+rolling_13,Functional HAR-X ridge,118.75
+rolling_13,Graph Functional HAR-X ridge,140.77999999999975
+rolling_13,FES-CF full architecture,734.6199999999999
+rolling_14,FPCA-X ridge,18.44000000000051
+rolling_14,Functional HAR-X ridge,108.08999999999924
+rolling_14,Graph Functional HAR-X ridge,127.67000000000007
+rolling_14,Cell-by-cell HAR-X ridge,6.0600000000004
+rolling_14,Bottom-up asset HAR,4.009999999999309
+rolling_14,FPCA-X ridge,11.9399999999996
+rolling_14,Functional HAR-X ridge,83.09000000000015
+rolling_14,Graph Functional HAR-X ridge,97.36999999999989
+rolling_14,FPCA-X ridge,18.329999999999927
+rolling_14,Functional HAR-X ridge,108.85999999999967
+rolling_14,Graph Functional HAR-X ridge,127.40000000000055
+rolling_14,FES-CF full architecture,711.9200000000001
+rolling_15,FPCA-X ridge,18.0600000000004
+rolling_15,Functional HAR-X ridge,106.61999999999989
+rolling_15,Graph Functional HAR-X ridge,125.5
+rolling_15,Cell-by-cell HAR-X ridge,5.940000000000509
+rolling_15,Bottom-up asset HAR,4.009999999999309
+rolling_15,FPCA-X ridge,14.359999999999673
+rolling_15,Functional HAR-X ridge,90.59000000000015
+rolling_15,Graph Functional HAR-X ridge,106.82000000000062
+rolling_15,FPCA-X ridge,18.109999999999673
+rolling_15,Functional HAR-X ridge,106.53000000000065
+rolling_15,Graph Functional HAR-X ridge,125.25
+rolling_15,FES-CF full architecture,700.5700000000006
+rolling_16,FPCA-X ridge,19.479999999999563
+rolling_16,Functional HAR-X ridge,134.9400000000005
+rolling_16,Graph Functional HAR-X ridge,159.52999999999975
+rolling_16,Cell-by-cell HAR-X ridge,5.9399999999996
+rolling_16,Bottom-up asset HAR,4.079999999999927
+rolling_16,FPCA-X ridge,16.640000000000327
+rolling_16,Functional HAR-X ridge,101.02999999999975
+rolling_16,Graph Functional HAR-X ridge,118.65999999999985
+rolling_16,FPCA-X ridge,19.5
+rolling_16,Functional HAR-X ridge,136.04000000000087
+rolling_16,Graph Functional HAR-X ridge,160.5599999999995
+rolling_16,FES-CF full architecture,748.880000000001
+rolling_17,FPCA-X ridge,17.600000000000364
+rolling_17,Functional HAR-X ridge,131.71999999999935
+rolling_17,Graph Functional HAR-X ridge,154.38999999999942
+rolling_17,Cell-by-cell HAR-X ridge,5.920000000000073
+rolling_17,Bottom-up asset HAR,3.9799999999995634
+rolling_17,FPCA-X ridge,14.659999999999854
+rolling_17,Functional HAR-X ridge,85.79000000000087
+rolling_17,Graph Functional HAR-X ridge,101.1200000000008
+rolling_17,FPCA-X ridge,17.590000000000146
+rolling_17,Functional HAR-X ridge,131.3799999999992
+rolling_17,Graph Functional HAR-X ridge,155.92000000000007
+rolling_17,FES-CF full architecture,801.3899999999994
+rolling_18,FPCA-X ridge,15.239999999999782
+rolling_18,Functional HAR-X ridge,127.73000000000138
+rolling_18,Graph Functional HAR-X ridge,151.26999999999862
+rolling_18,Cell-by-cell HAR-X ridge,5.850000000000364
+rolling_18,Bottom-up asset HAR,4.010000000000218
+rolling_18,FPCA-X ridge,16.05999999999949
+rolling_18,Functional HAR-X ridge,110.03000000000065
+rolling_18,Graph Functional HAR-X ridge,130.17000000000007
+rolling_18,FPCA-X ridge,15.55999999999949
+rolling_18,Functional HAR-X ridge,128.53000000000065
+rolling_18,Graph Functional HAR-X ridge,151.02999999999884
+rolling_18,FES-CF full architecture,845.8400000000001
+rolling_19,FPCA-X ridge,18.81999999999971
+rolling_19,Functional HAR-X ridge,161.70999999999913
+rolling_19,Graph Functional HAR-X ridge,190.9400000000005
+rolling_19,Cell-by-cell HAR-X ridge,6.019999999998618
+rolling_19,Bottom-up asset HAR,4.050000000001091
+rolling_19,FPCA-X ridge,14.220000000001164
+rolling_19,Functional HAR-X ridge,124.78999999999905
+rolling_19,Graph Functional HAR-X ridge,147.36000000000058
+rolling_19,FPCA-X ridge,18.75
+rolling_19,Functional HAR-X ridge,162.5
+rolling_19,Graph Functional HAR-X ridge,190.75
+rolling_19,FES-CF full architecture,938.7200000000012
+rolling_20,FPCA-X ridge,18.610000000000582
+rolling_20,Functional HAR-X ridge,165.84000000000015
+rolling_20,Graph Functional HAR-X ridge,196.04999999999927
+rolling_20,Cell-by-cell HAR-X ridge,6.079999999999927
+rolling_20,Bottom-up asset HAR,4.119999999998981
+rolling_20,FPCA-X ridge,15.970000000001164
+rolling_20,Functional HAR-X ridge,134.3199999999997
+rolling_20,Graph Functional HAR-X ridge,157.64999999999964
+rolling_20,FPCA-X ridge,18.770000000000437
+rolling_20,Functional HAR-X ridge,166.38999999999942
+rolling_20,Graph Functional HAR-X ridge,233.6900000000005
+rolling_20,FES-CF full architecture,976.5699999999997
+main_holdout,FPCA-X ridge,37.88999999999942
+main_holdout,Functional HAR-X ridge,228.86000000000058
+main_holdout,Graph Functional HAR-X ridge,261.6100000000006
+main_holdout,FPCA-X ridge,33.30999999999949
+main_holdout,Functional HAR-X ridge,194.89999999999964
+main_holdout,Graph Functional HAR-X ridge,228.59000000000015
+main_holdout,FPCA-X ridge,28.860000000000582
+main_holdout,Functional HAR-X ridge,202.0699999999997
+main_holdout,Graph Functional HAR-X ridge,243.86000000000058
+main_holdout,FES-CF full architecture,1539.7200000000012
+main_holdout,FPCA-X ridge,28.340000000000146
+main_holdout,Functional HAR-X ridge,203.91000000000167
+main_holdout,Graph Functional HAR-X ridge,267.8399999999983
+main_holdout,FPCA-X ridge,33.56999999999971
+main_holdout,Functional HAR-X ridge,195.29999999999927
+main_holdout,Graph Functional HAR-X ridge,208.45000000000073
+main_holdout,FPCA-X ridge,28.720000000001164
+main_holdout,Functional HAR-X ridge,202.29999999999927
+main_holdout,Graph Functional HAR-X ridge,239.72000000000116
+main_holdout,FES-CF full architecture,1514.1100000000006
+main_holdout,FPCA-X ridge,28.43000000000029
+main_holdout,Functional HAR-X ridge,199.1899999999987
+main_holdout,Graph Functional HAR-X ridge,232.27000000000044
+main_holdout,FPCA-X ridge,28.409999999999854
+main_holdout,Functional HAR-X ridge,172.47000000000116
+main_holdout,Graph Functional HAR-X ridge,204.79999999999927
+main_holdout,FPCA-X ridge,28.010000000002037
+main_holdout,Functional HAR-X ridge,196.5799999999981
+main_holdout,Graph Functional HAR-X ridge,232.4399999999987
+main_holdout,FES-CF full architecture,1453.2900000000009
+main_holdout,FPCA-X ridge,27.840000000000146
+main_holdout,Functional HAR-X ridge,196.45000000000073
+main_holdout,Graph Functional HAR-X ridge,231.9300000000003
+main_holdout,FPCA-X ridge,28.650000000001455
+main_holdout,Functional HAR-X ridge,174.75
+main_holdout,Graph Functional HAR-X ridge,203.09999999999854
+main_holdout,FPCA-X ridge,27.720000000001164
+main_holdout,Functional HAR-X ridge,195.48999999999796
+main_holdout,Graph Functional HAR-X ridge,230.8199999999997
+main_holdout,FES-CF full architecture,1452.5
+main_holdout,FPCA-X ridge,28.25
+main_holdout,Functional HAR-X ridge,194.36999999999898
+main_holdout,Graph Functional HAR-X ridge,229.3100000000013
+main_holdout,FPCA-X ridge,28.790000000000873
+main_holdout,Functional HAR-X ridge,172.72000000000116
+main_holdout,Graph Functional HAR-X ridge,206.09999999999854
+main_holdout,FPCA-X ridge,27.799999999999272
+main_holdout,Functional HAR-X ridge,193.88999999999942
+main_holdout,Graph Functional HAR-X ridge,231.13999999999942
+main_holdout,FES-CF full architecture,1453.3100000000013
+main_holdout,FPCA-X ridge,27.75
+main_holdout,Functional HAR-X ridge,195.78000000000247
+main_holdout,Graph Functional HAR-X ridge,232.6899999999987
+main_holdout,FPCA-X ridge,28.389999999999418
+main_holdout,Functional HAR-X ridge,174.05999999999767
+main_holdout,Graph Functional HAR-X ridge,205.36000000000058
+main_holdout,FPCA-X ridge,27.659999999999854
+main_holdout,Functional HAR-X ridge,196.29999999999927
+main_holdout,Graph Functional HAR-X ridge,231.62000000000262
+main_holdout,FES-CF full architecture,1460.2200000000012
+main_holdout,FPCA-X ridge,27.709999999999127
+main_holdout,Functional HAR-X ridge,195.40000000000146
+main_holdout,Graph Functional HAR-X ridge,232.65999999999985
+main_holdout,FPCA-X ridge,28.7300000000032
+main_holdout,Functional HAR-X ridge,173.75
+main_holdout,Graph Functional HAR-X ridge,205.65999999999985
+main_holdout,FPCA-X ridge,27.43999999999869
+main_holdout,Functional HAR-X ridge,196.41999999999825
+main_holdout,Graph Functional HAR-X ridge,230.78000000000247
+main_holdout,FES-CF full architecture,1465.2699999999968
+main_holdout,FPCA-X ridge,28.07999999999811
+main_holdout,Functional HAR-X ridge,195.25
+main_holdout,Graph Functional HAR-X ridge,229.97999999999956
+main_holdout,FPCA-X ridge,28.719999999997526
+main_holdout,Functional HAR-X ridge,174.7400000000016
+main_holdout,Graph Functional HAR-X ridge,204.0699999999997
+main_holdout,FPCA-X ridge,27.950000000000728
+main_holdout,Functional HAR-X ridge,195.8199999999997
+main_holdout,Graph Functional HAR-X ridge,230.20999999999913
+main_holdout,FES-CF full architecture,1453.4599999999991
+main_holdout,FPCA-X ridge,28
+main_holdout,Functional HAR-X ridge,194.8000000000029
+main_holdout,Graph Functional HAR-X ridge,232.88999999999942
+main_holdout,FPCA-X ridge,28.220000000001164
+main_holdout,Functional HAR-X ridge,173.84999999999854
+main_holdout,Graph Functional HAR-X ridge,201.40000000000146
+main_holdout,FPCA-X ridge,27.81999999999971
+main_holdout,Functional HAR-X ridge,196.14999999999782
+main_holdout,Graph Functional HAR-X ridge,233.45000000000073
+main_holdout,FES-CF full architecture,1451.9700000000012
+main_holdout,FPCA-X ridge,27.75
+main_holdout,Functional HAR-X ridge,196.04000000000087
+main_holdout,Graph Functional HAR-X ridge,232.54999999999927
+main_holdout,FPCA-X ridge,28.5
+main_holdout,Functional HAR-X ridge,174.40000000000146
+main_holdout,Graph Functional HAR-X ridge,204.62999999999738
+main_holdout,FPCA-X ridge,28
+main_holdout,Functional HAR-X ridge,196.76000000000204
+main_holdout,Graph Functional HAR-X ridge,233.23999999999796
+main_holdout,FES-CF full architecture,1446.9800000000032
+main_holdout,FPCA-X ridge,27.860000000000582
+main_holdout,Functional HAR-X ridge,196.5
+main_holdout,Graph Functional HAR-X ridge,233.69000000000233
+main_holdout,FPCA-X ridge,28.75
+main_holdout,Functional HAR-X ridge,173.27999999999884
+main_holdout,Graph Functional HAR-X ridge,205.23999999999796
+main_holdout,FPCA-X ridge,28.169999999998254
+main_holdout,Functional HAR-X ridge,195.8000000000029
+main_holdout,Graph Functional HAR-X ridge,231.05999999999767
+main_holdout,FES-CF full architecture,1443.5599999999977
+main_holdout,FPCA-X ridge,28.06999999999971
+main_holdout,Functional HAR-X ridge,196.08000000000175
+main_holdout,Graph Functional HAR-X ridge,232.0199999999968
+main_holdout,FPCA-X ridge,28.760000000002037
+main_holdout,Functional HAR-X ridge,173.15999999999622
+main_holdout,Graph Functional HAR-X ridge,205.0500000000029
+main_holdout,FPCA-X ridge,27.80999999999767
+main_holdout,Functional HAR-X ridge,195.19000000000233
+main_holdout,Graph Functional HAR-X ridge,231.97000000000116
+main_holdout,FES-CF full architecture,1436.239999999998
+main_holdout,FPCA-X ridge,28.05999999999767
+main_holdout,Functional HAR-X ridge,196.9300000000003
+main_holdout,Graph Functional HAR-X ridge,231.54000000000087
+main_holdout,FPCA-X ridge,28.599999999998545
+main_holdout,Functional HAR-X ridge,173.33000000000175
+main_holdout,Graph Functional HAR-X ridge,204.63999999999942
+main_holdout,FPCA-X ridge,27.510000000002037
+main_holdout,Functional HAR-X ridge,194.3199999999997
+main_holdout,Graph Functional HAR-X ridge,233.4800000000032
+main_holdout,FES-CF full architecture,1487.6100000000006
+main_holdout,FPCA-X ridge,27.959999999999127
+main_holdout,Functional HAR-X ridge,195.75
+main_holdout,Graph Functional HAR-X ridge,232.61000000000058
+main_holdout,FPCA-X ridge,28.639999999999418
+main_holdout,Functional HAR-X ridge,172.8199999999997
+main_holdout,Graph Functional HAR-X ridge,204.61000000000058
+main_holdout,FPCA-X ridge,28.12000000000262
+main_holdout,Functional HAR-X ridge,196.0199999999968
+main_holdout,Graph Functional HAR-X ridge,232.61000000000058
+main_holdout,FES-CF full architecture,1455.1900000000023
+main_holdout,FPCA-X ridge,27.640000000006694
+main_holdout,Functional HAR-X ridge,195.9699999999939
+main_holdout,Graph Functional HAR-X ridge,232.86000000000058
+main_holdout,FPCA-X ridge,28.739999999997963
+main_holdout,Functional HAR-X ridge,172.77999999999884
+main_holdout,Graph Functional HAR-X ridge,206.04999999999563
+main_holdout,FPCA-X ridge,27.239999999997963
+main_holdout,Functional HAR-X ridge,195.2300000000032
+main_holdout,Graph Functional HAR-X ridge,231.1999999999971
+main_holdout,FES-CF full architecture,1455.0599999999977
+main_holdout,FPCA-X ridge,27.900000000001455
+main_holdout,Functional HAR-X ridge,194.59999999999854
+main_holdout,Graph Functional HAR-X ridge,230.72000000000116
+main_holdout,FPCA-X ridge,28.459999999999127
+main_holdout,Functional HAR-X ridge,170.48999999999796
+main_holdout,Graph Functional HAR-X ridge,204.0300000000061
+main_holdout,FPCA-X ridge,27.94000000000233
+main_holdout,Functional HAR-X ridge,191.86000000000058
+main_holdout,Graph Functional HAR-X ridge,228.72000000000116
+main_holdout,FES-CF full architecture,1443.0699999999997
+main_holdout,FPCA-X ridge,27.580000000001746
+main_holdout,Functional HAR-X ridge,195.91999999999825
+main_holdout,Graph Functional HAR-X ridge,229.94000000000233
+main_holdout,FPCA-X ridge,26.580000000001746
+main_holdout,Functional HAR-X ridge,179.58000000000175
+main_holdout,Graph Functional HAR-X ridge,211.48999999999796
+main_holdout,FPCA-X ridge,27.669999999998254
+main_holdout,Functional HAR-X ridge,195.66999999999825
+main_holdout,Graph Functional HAR-X ridge,233.9800000000032
+main_holdout,FES-CF full architecture,1357.3600000000006
+main_holdout,FPCA-X ridge,27.639999999999418
+main_holdout,Functional HAR-X ridge,195.43999999999505
+main_holdout,Graph Functional HAR-X ridge,233.58000000000175
+main_holdout,FPCA-X ridge,25.970000000001164
+main_holdout,Functional HAR-X ridge,169.25
+main_holdout,Graph Functional HAR-X ridge,200.3000000000029
+main_holdout,FPCA-X ridge,28.0199999999968
+main_holdout,Functional HAR-X ridge,196.37000000000262
+main_holdout,Graph Functional HAR-X ridge,232.20999999999913
+main_holdout,FES-CF full architecture,1564.969999999994
+main_holdout,FPCA-X ridge,28.010000000002037
+main_holdout,Functional HAR-X ridge,195.54999999999563
+main_holdout,Graph Functional HAR-X ridge,231.76000000000204
+main_holdout,FPCA-X ridge,28.470000000001164
+main_holdout,Functional HAR-X ridge,172.8199999999997
+main_holdout,Graph Functional HAR-X ridge,204.91999999999825
+main_holdout,FPCA-X ridge,27.419999999998254
+main_holdout,Functional HAR-X ridge,194.52999999999884
+main_holdout,Graph Functional HAR-X ridge,226.7300000000032
+main_holdout,FES-CF full architecture,1464.1800000000003
+main_holdout,FPCA-X ridge,27.839999999996508
+main_holdout,Functional HAR-X ridge,195.31000000000495
+main_holdout,Graph Functional HAR-X ridge,229.54999999999563
+main_holdout,FPCA-X ridge,27.889999999999418
+main_holdout,Functional HAR-X ridge,170.30999999999767
+main_holdout,Graph Functional HAR-X ridge,204.84000000000378
+main_holdout,FPCA-X ridge,28.12000000000262
+main_holdout,Functional HAR-X ridge,194.09999999999854
+main_holdout,Graph Functional HAR-X ridge,230.9300000000003
+main_holdout,FES-CF full architecture,1429.260000000002
+main_holdout,FPCA-X ridge,28.229999999995925
+main_holdout,Functional HAR-X ridge,194.67000000000553
+main_holdout,Graph Functional HAR-X ridge,232.4300000000003
+main_holdout,FPCA-X ridge,27.709999999999127
+main_holdout,Functional HAR-X ridge,172.37000000000262
+main_holdout,Graph Functional HAR-X ridge,204.97000000000116
+main_holdout,FPCA-X ridge,27.849999999998545
+main_holdout,Functional HAR-X ridge,193.44000000000233
+main_holdout,Graph Functional HAR-X ridge,230.72999999999593
+main_holdout,FES-CF full architecture,1399.9300000000003
+main_holdout,FPCA-X ridge,27.639999999999418
+main_holdout,Functional HAR-X ridge,193.62999999999738
+main_holdout,Graph Functional HAR-X ridge,228.86000000000058
+main_holdout,FPCA-X ridge,27.970000000001164
+main_holdout,Functional HAR-X ridge,171.6999999999971
+main_holdout,Graph Functional HAR-X ridge,204.88999999999942
+main_holdout,FPCA-X ridge,28
+main_holdout,Functional HAR-X ridge,193.97000000000116
+main_holdout,Graph Functional HAR-X ridge,230.9800000000032
+main_holdout,FES-CF full architecture,1471.8799999999974
+main_holdout,FPCA-X ridge,15
+main_holdout,Functional HAR-X ridge,192.80999999999767
+main_holdout,Graph Functional HAR-X ridge,231.37000000000262
+main_holdout,FPCA-X ridge,15.19999999999709
+main_holdout,Functional HAR-X ridge,173.70000000000437
+main_holdout,Graph Functional HAR-X ridge,206.08000000000175
+main_holdout,FPCA-X ridge,15
+main_holdout,Functional HAR-X ridge,193.9100000000035
+main_holdout,Graph Functional HAR-X ridge,231.4499999999971
+main_holdout,FES-CF full architecture,1428.800000000003
+main_holdout,FPCA-X ridge,66.02999999999884
+main_holdout,Functional HAR-X ridge,192.7699999999968
+main_holdout,Graph Functional HAR-X ridge,230.59000000000378
+main_holdout,FPCA-X ridge,64.54999999999563
+main_holdout,Functional HAR-X ridge,173.66999999999825
+main_holdout,Graph Functional HAR-X ridge,202.72000000000116
+main_holdout,FPCA-X ridge,66.36000000000058
+main_holdout,Functional HAR-X ridge,196.52999999999884
+main_holdout,Graph Functional HAR-X ridge,231.11000000000058
+main_holdout,FES-CF full architecture,1529.3799999999974
+main_holdout,FPCA-X ridge,27.7699999999968
+main_holdout,Functional HAR-X ridge,197
+main_holdout,Graph Functional HAR-X ridge,233.54000000000087
+main_holdout,FPCA-X ridge,28.37000000000262
+main_holdout,Functional HAR-X ridge,173.45999999999913
+main_holdout,Graph Functional HAR-X ridge,204.84000000000378
+main_holdout,FPCA-X ridge,27.56999999999971
+main_holdout,Functional HAR-X ridge,196.4499999999971
+main_holdout,Graph Functional HAR-X ridge,231.1400000000067
+main_holdout,FES-CF full architecture,1454.5499999999956
+main_holdout,FPCA-X ridge,27.610000000000582
+main_holdout,Functional HAR-X ridge,196.47000000000116
+main_holdout,Graph Functional HAR-X ridge,233.5
+main_holdout,FPCA-X ridge,28.049999999995634
+main_holdout,Functional HAR-X ridge,172.94000000000233
+main_holdout,Graph Functional HAR-X ridge,204.45999999999913
+main_holdout,FPCA-X ridge,27.37999999999738
+main_holdout,Functional HAR-X ridge,196.01000000000204
+main_holdout,Graph Functional HAR-X ridge,231.2699999999968
+main_holdout,FES-CF full architecture,1446.239999999998
+main_holdout,FPCA-X ridge,28.720000000001164
+main_holdout,Functional HAR-X ridge,195.09000000000378
+main_holdout,Graph Functional HAR-X ridge,231.7699999999968
+main_holdout,FPCA-X ridge,28.489999999997963
+main_holdout,Functional HAR-X ridge,173.4800000000032
+main_holdout,Graph Functional HAR-X ridge,204.41999999999825
+main_holdout,FPCA-X ridge,27.39999999999418
+main_holdout,Functional HAR-X ridge,192.16999999999825
+main_holdout,Graph Functional HAR-X ridge,230.5300000000134
+main_holdout,FES-CF full architecture,1444.6700000000055
+main_holdout,FPCA-X ridge,27.630000000004657
+main_holdout,Functional HAR-X ridge,196.1999999999971
+main_holdout,Graph Functional HAR-X ridge,234.47000000000116
+main_holdout,FPCA-X ridge,28.55999999999767
+main_holdout,Functional HAR-X ridge,171.97000000000116
+main_holdout,Graph Functional HAR-X ridge,203.80999999999767
+main_holdout,FPCA-X ridge,28.05000000000291
+main_holdout,Functional HAR-X ridge,196.0899999999965
+main_holdout,Graph Functional HAR-X ridge,236.3000000000029
+main_holdout,FES-CF full architecture,1459.949999999997
+main_holdout,FPCA-X ridge,37.88999999999942
+main_holdout,Functional HAR-X ridge,228.86000000000058
+main_holdout,Graph Functional HAR-X ridge,261.6100000000006
+main_holdout,FPCA-X ridge,33.30999999999949
+main_holdout,Functional HAR-X ridge,194.89999999999964
+main_holdout,Graph Functional HAR-X ridge,228.59000000000015
+main_holdout,FPCA-X ridge,28.860000000000582
+main_holdout,Functional HAR-X ridge,202.0699999999997
+main_holdout,Graph Functional HAR-X ridge,243.86000000000058
+main_holdout,FES-CF full architecture,1539.7200000000012
+main_holdout,FPCA-X ridge,28.470000000001164
+main_holdout,Functional HAR-X ridge,197.66999999999825
+main_holdout,Graph Functional HAR-X ridge,231.6600000000035
+main_holdout,FPCA-X ridge,28.620000000009895
+main_holdout,Functional HAR-X ridge,173.79999999998836
+main_holdout,Graph Functional HAR-X ridge,205.49000000000524
+main_holdout,FPCA-X ridge,28.769999999989523
+main_holdout,Functional HAR-X ridge,195.55999999999767
+main_holdout,Graph Functional HAR-X ridge,228.22000000000116
+main_holdout,FES-CF full architecture,1451.4100000000035
+main_holdout,FPCA-X ridge,27.69999999999709
+main_holdout,Functional HAR-X ridge,188
+main_holdout,Graph Functional HAR-X ridge,222.2800000000134
+main_holdout,FPCA-X ridge,27.769999999989523
+main_holdout,Functional HAR-X ridge,172.91999999999825
+main_holdout,Graph Functional HAR-X ridge,206.25
+main_holdout,FPCA-X ridge,27.84000000001106
+main_holdout,Functional HAR-X ridge,191.29999999998836
+main_holdout,Graph Functional HAR-X ridge,220.97000000000116
+main_holdout,FES-CF full architecture,1435.2799999999988
+target_downside_variation,build_design_target_downside_variation,45.88000000000466
+main_holdout,FPCA-X ridge,44
+main_holdout,Functional HAR-X ridge,198.88000000000466
+main_holdout,Graph Functional HAR-X ridge,233.72000000000116
+main_holdout,FPCA-X ridge,38.830000000001746
+main_holdout,Functional HAR-X ridge,155.00999999999476
+main_holdout,Graph Functional HAR-X ridge,182.94000000000233
+main_holdout,FPCA-X ridge,44.270000000004075
+main_holdout,Functional HAR-X ridge,196.60000000000582
+main_holdout,Graph Functional HAR-X ridge,231.51999999998952
+main_holdout,FES-CF full architecture,1680.37000000001
+target_squared_return,build_design_target_squared_return,45.08999999999651
+main_holdout,FPCA-X ridge,30.25999999999476
+main_holdout,Functional HAR-X ridge,265.52999999999884
+main_holdout,Graph Functional HAR-X ridge,315.16999999999825
+main_holdout,FPCA-X ridge,23.610000000000582
+main_holdout,Functional HAR-X ridge,192.81000000001222
+main_holdout,Graph Functional HAR-X ridge,226.29999999998836
+main_holdout,FPCA-X ridge,30.869999999995343
+main_holdout,Functional HAR-X ridge,268.7700000000041
+main_holdout,Graph Functional HAR-X ridge,315.7100000000064
+main_holdout,FES-CF full architecture,1643.0899999999965
+universe_etf_only,build_design_universe_etf_only,44.11000000000058
+main_holdout,FPCA-X ridge,22.44999999999709
+main_holdout,Functional HAR-X ridge,252.9100000000035
+main_holdout,Graph Functional HAR-X ridge,297.27999999999884
+main_holdout,FPCA-X ridge,21.75
+main_holdout,Functional HAR-X ridge,255.58000000000175
+main_holdout,Graph Functional HAR-X ridge,298.91999999999825
+main_holdout,FPCA-X ridge,21.970000000001164
+main_holdout,Functional HAR-X ridge,251.77000000000407
+main_holdout,Graph Functional HAR-X ridge,296.77999999999884
+main_holdout,FES-CF full architecture,1810.3099999999977
+universe_equity_only,build_design_universe_equity_only,40.30000000000291
+main_holdout,FPCA-X ridge,33.55999999999767
+main_holdout,Functional HAR-X ridge,358.6399999999994
+main_holdout,Graph Functional HAR-X ridge,430.41999999999825
+main_holdout,FPCA-X ridge,45.279999999998836
+main_holdout,Functional HAR-X ridge,360.45000000001164
+main_holdout,Graph Functional HAR-X ridge,417.8999999999942
+main_holdout,FPCA-X ridge,33.36000000000058
+main_holdout,Functional HAR-X ridge,364.44000000000233
+main_holdout,Graph Functional HAR-X ridge,429.52999999999884
+main_holdout,FES-CF full architecture,2402.5899999999965
+grid_h_coarse,build_design_grid_h_coarse,38.80000000000291
+main_holdout,FPCA-X ridge,18.970000000001164
+main_holdout,Functional HAR-X ridge,83.05999999999767
+main_holdout,Graph Functional HAR-X ridge,98.27000000000407
+main_holdout,FPCA-X ridge,19.220000000001164
+main_holdout,Functional HAR-X ridge,81.33999999999651
+main_holdout,Graph Functional HAR-X ridge,95.38999999999942
+main_holdout,FPCA-X ridge,19.05999999999767
+main_holdout,Functional HAR-X ridge,83.47000000000116
+main_holdout,Graph Functional HAR-X ridge,98.16999999999825
+main_holdout,FES-CF full architecture,825.4700000000012
+grid_tau_coarse,build_design_grid_tau_coarse,33.70000000001164
+main_holdout,FPCA-X ridge,16.75
+main_holdout,Functional HAR-X ridge,71.34000000001106
+main_holdout,Graph Functional HAR-X ridge,83.79999999998836
+main_holdout,FPCA-X ridge,13.619999999995343
+main_holdout,Functional HAR-X ridge,55.66000000000349
+main_holdout,Graph Functional HAR-X ridge,65.08999999999651
+main_holdout,FPCA-X ridge,16.830000000001746
+main_holdout,Functional HAR-X ridge,70.94999999999709
+main_holdout,Graph Functional HAR-X ridge,83.69000000000233
+main_holdout,FES-CF full architecture,678.9199999999983
+quantile_type7_rebuilt,build_design_quantile_type7_rebuilt,50.11000000000058
+main_holdout,FPCA-X ridge,33.419999999998254
+main_holdout,Functional HAR-X ridge,201.89000000001397
+main_holdout,Graph Functional HAR-X ridge,237.70999999999185
+main_holdout,FPCA-X ridge,29.169999999998254
+main_holdout,Functional HAR-X ridge,160.08000000000175
+main_holdout,Graph Functional HAR-X ridge,187.75
+main_holdout,FPCA-X ridge,29.220000000001164
+main_holdout,Functional HAR-X ridge,200.52000000000407
+main_holdout,Graph Functional HAR-X ridge,239.5899999999965
+main_holdout,FES-CF full architecture,1433.3899999999994
+quantile_type9_rebuilt,build_design_quantile_type9_rebuilt,45.81999999999243
+main_holdout,FPCA-X ridge,29.139999999999418
+main_holdout,Functional HAR-X ridge,215.0899999999965
+main_holdout,Graph Functional HAR-X ridge,253.22000000000116
+main_holdout,FPCA-X ridge,29.5
+main_holdout,Functional HAR-X ridge,190.30999999999767
+main_holdout,Graph Functional HAR-X ridge,223.44000000000233
+main_holdout,FPCA-X ridge,28.75
+main_holdout,Functional HAR-X ridge,212.1600000000035
+main_holdout,Graph Functional HAR-X ridge,254.7100000000064
+main_holdout,FES-CF full architecture,1547.0800000000017
+har_windows_1_10_22,build_design_har_windows_1_10_22,46.95999999999185
+main_holdout,FPCA-X ridge,33.33999999999651
+main_holdout,Functional HAR-X ridge,251.5899999999965
+main_holdout,Graph Functional HAR-X ridge,293.8899999999994
+main_holdout,FPCA-X ridge,30.980000000010477
+main_holdout,Functional HAR-X ridge,207.70999999999185
+main_holdout,Graph Functional HAR-X ridge,245.55999999999767
+main_holdout,FPCA-X ridge,33.99000000000524
+main_holdout,Functional HAR-X ridge,249.00999999999476
+main_holdout,Graph Functional HAR-X ridge,293.9799999999959
+main_holdout,FES-CF full architecture,1669.7599999999948
+har_windows_1_5_10_22,build_design_har_windows_1_5_10_22,48.529999999998836
+main_holdout,FPCA-X ridge,41.229999999995925
+main_holdout,Functional HAR-X ridge,300.33000000000175
+main_holdout,Graph Functional HAR-X ridge,343.1899999999878
+main_holdout,FPCA-X ridge,40.59000000001106
+main_holdout,Functional HAR-X ridge,250.06999999999243
+main_holdout,Graph Functional HAR-X ridge,289.5599999999977
+main_holdout,FPCA-X ridge,41.29000000000815
+main_holdout,Functional HAR-X ridge,298.29999999998836
+main_holdout,Graph Functional HAR-X ridge,345.3000000000029
+main_holdout,FES-CF full architecture,1909.1399999999994

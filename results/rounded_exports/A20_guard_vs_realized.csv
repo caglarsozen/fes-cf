@@ -1,0 +1,22 @@
+Scheme,Chosen anchor,Guard gain pct,Selected anchor test WRMSE x100,FES-CF test WRMSE x100,Realized test gain pct
+main holdout,FPCA-X ridge,13.650,3.791,3.750,2.153
+rolling 01,Rolling mean completed surface,17.966,3.120,3.280,-10.546
+rolling 02,Rolling mean completed surface,20.463,3.939,3.765,8.625
+rolling 03,Rolling mean completed surface,9.175,4.034,3.629,19.070
+rolling 04,Rolling mean completed surface,11.116,3.566,3.552,0.789
+rolling 05,Rolling mean completed surface,9.405,2.599,2.537,4.674
+rolling 06,Graph Functional HAR-X ridge,8.824,2.712,2.428,19.835
+rolling 07,Graph Functional HAR-X ridge,9.400,3.736,3.781,-2.444
+rolling 08,Rolling mean completed surface,18.161,5.107,5.381,-11.046
+rolling 09,Rolling mean completed surface,16.513,3.725,3.007,34.811
+rolling 10,Graph Functional HAR-X ridge,12.674,2.525,2.555,-2.428
+rolling 11,Graph Functional HAR-X ridge,7.081,16.480,14.253,25.209
+rolling 12,Rolling mean completed surface,13.796,5.616,5.664,-1.750
+rolling 13,Rolling mean completed surface,13.152,4.353,3.700,27.727
+rolling 14,Naive completed surface,22.675,3.233,2.825,23.651
+rolling 15,Naive completed surface,22.530,4.951,4.190,28.358
+rolling 16,Naive completed surface,22.165,4.552,3.865,27.914
+rolling 17,Graph Functional HAR-X ridge,15.446,4.655,4.411,10.174
+rolling 18,Rolling mean completed surface,14.456,2.612,2.592,1.550
+rolling 19,Rolling mean completed surface,22.358,3.038,2.975,4.080
+rolling 20,Rolling mean completed surface,17.507,4.234,3.828,18.260

@@ -1,0 +1,34 @@
+{
+  "checks": 67,
+  "passed": 67,
+  "publication_flags_pass": 24,
+  "publication_flags_total": 24,
+  "leakage_records": 6902,
+  "leakage_date_violations": 0,
+  "preprocessing_records": 1860,
+  "fpca_audit_records": 186,
+  "ridge_records": 2358,
+  "anchor_and_cellwise_cv_records": 1188,
+  "residual_guard_selections": 590,
+  "residual_refits": 580,
+  "residual_refits_lambda_matched": 580,
+  "common_lambda_count_range": [
+    34,
+    80
+  ],
+  "numerically_truncated_path_flags": 0,
+  "dykstra_grouped_calls": 23839,
+  "dykstra_convergence_rate_min": 1.0,
+  "dykstra_max_observed_iterations": 8,
+  "dykstra_full_event_max_raw_violation": 2.220446049250313e-16,
+  "compact_primary_max_raw_violation": 1.6653345369377348e-16,
+  "projection_tolerance": 1e-10,
+  "runtime_rows": 673,
+  "scope": "Independent reading/reconciliation of supplied execution records and published rounded exports. Records support the reported V3.2.0 mechanisms; no model refit, raw-input hash regeneration, or independent forecast-array recreation was performed.",
+  "remaining_replication_inputs": [
+    "current configuration and software-session files",
+    "frozen input snapshot and current input hashes",
+    "full-precision forecast and loss arrays",
+    "detailed delayed-feedback ACI path"
+  ]
+}

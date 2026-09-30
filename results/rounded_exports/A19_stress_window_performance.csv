@@ -1,0 +1,46 @@
+Window,Start,End,Model,N,Weighted RMSE x100
+2015-2016 stress,2015-08-01,2016-03-31,Bottom-up asset HAR,167,3.909
+2015-2016 stress,2015-08-01,2016-03-31,Cell-by-cell HAR-X ridge,167,4.025
+2015-2016 stress,2015-08-01,2016-03-31,Equal-weight anchor combination,167,3.809
+2015-2016 stress,2015-08-01,2016-03-31,FES-CF,167,4.118
+2015-2016 stress,2015-08-01,2016-03-31,FPCA-X ridge,167,4.034
+2015-2016 stress,2015-08-01,2016-03-31,Functional HAR-X ridge,167,4.035
+2015-2016 stress,2015-08-01,2016-03-31,Graph Functional HAR-X ridge,167,4.018
+2015-2016 stress,2015-08-01,2016-03-31,Naive completed surface,167,4.301
+2015-2016 stress,2015-08-01,2016-03-31,Rolling mean completed surface,167,4.548
+2018 stress,2018-02-01,2018-12-31,Bottom-up asset HAR,230,5.131
+2018 stress,2018-02-01,2018-12-31,Cell-by-cell HAR-X ridge,230,5.375
+2018 stress,2018-02-01,2018-12-31,Equal-weight anchor combination,230,4.722
+2018 stress,2018-02-01,2018-12-31,FES-CF,230,4.618
+2018 stress,2018-02-01,2018-12-31,FPCA-X ridge,230,5.310
+2018 stress,2018-02-01,2018-12-31,Functional HAR-X ridge,230,5.310
+2018 stress,2018-02-01,2018-12-31,Graph Functional HAR-X ridge,230,5.285
+2018 stress,2018-02-01,2018-12-31,Naive completed surface,230,5.431
+2018 stress,2018-02-01,2018-12-31,Rolling mean completed surface,230,4.898
+2020 pandemic stress,2020-02-15,2020-06-30,Bottom-up asset HAR,94,13.466
+2020 pandemic stress,2020-02-15,2020-06-30,Cell-by-cell HAR-X ridge,94,17.630
+2020 pandemic stress,2020-02-15,2020-06-30,Equal-weight anchor combination,94,14.578
+2020 pandemic stress,2020-02-15,2020-06-30,FES-CF,94,15.714
+2020 pandemic stress,2020-02-15,2020-06-30,FPCA-X ridge,94,18.648
+2020 pandemic stress,2020-02-15,2020-06-30,Functional HAR-X ridge,94,18.646
+2020 pandemic stress,2020-02-15,2020-06-30,Graph Functional HAR-X ridge,94,18.432
+2020 pandemic stress,2020-02-15,2020-06-30,Naive completed surface,94,12.595
+2020 pandemic stress,2020-02-15,2020-06-30,Rolling mean completed surface,94,16.119
+2022 stress,2022-01-01,2022-12-31,Bottom-up asset HAR,251,4.857
+2022 stress,2022-01-01,2022-12-31,Cell-by-cell HAR-X ridge,251,4.700
+2022 stress,2022-01-01,2022-12-31,Equal-weight anchor combination,251,4.553
+2022 stress,2022-01-01,2022-12-31,FES-CF,251,4.347
+2022 stress,2022-01-01,2022-12-31,FPCA-X ridge,251,5.072
+2022 stress,2022-01-01,2022-12-31,Functional HAR-X ridge,251,5.072
+2022 stress,2022-01-01,2022-12-31,Graph Functional HAR-X ridge,251,5.106
+2022 stress,2022-01-01,2022-12-31,Naive completed surface,251,5.232
+2022 stress,2022-01-01,2022-12-31,Rolling mean completed surface,251,4.757
+2024 window,2024-01-01,2024-12-31,Bottom-up asset HAR,179,3.675
+2024 window,2024-01-01,2024-12-31,Cell-by-cell HAR-X ridge,179,3.554
+2024 window,2024-01-01,2024-12-31,Equal-weight anchor combination,179,3.482
+2024 window,2024-01-01,2024-12-31,FES-CF,179,3.577
+2024 window,2024-01-01,2024-12-31,FPCA-X ridge,179,3.675
+2024 window,2024-01-01,2024-12-31,Functional HAR-X ridge,179,3.709
+2024 window,2024-01-01,2024-12-31,Graph Functional HAR-X ridge,179,3.679
+2024 window,2024-01-01,2024-12-31,Naive completed surface,179,4.474
+2024 window,2024-01-01,2024-12-31,Rolling mean completed surface,179,3.911

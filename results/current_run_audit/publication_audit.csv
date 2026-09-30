@@ -1,0 +1,25 @@
+check,pass
+Primary embargo is at least h_max,TRUE
+Purged CV is at least h_max,TRUE
+All leakage boundary audits pass,TRUE
+Dykstra projection converges to tolerance,TRUE
+Primary conformal multiplier equals 1.00,TRUE
+Primary conformal method is global split,TRUE
+High-risk terminology contains no OOD label,TRUE
+Asset manifest written,TRUE
+Runtime log written,TRUE
+Target/universe/grid robustness completed when requested,TRUE
+CV fold date-based leakage audits are present,TRUE
+MCS procedure completed,TRUE
+Functional stationarity diagnostics completed,TRUE
+Prespecified primary universe is complete,TRUE
+Required VIX series is available and enabled,TRUE
+Publication tables exported as LaTeX,TRUE
+One-sided upper band uses directional conformal scores,TRUE
+Top-three sensitivity excluded from primary ranking and MCS inputs,TRUE
+Residual-correction rho sensitivity reaches 1.00,TRUE
+glmnet path convergence safeguards pass,TRUE
+Reviewer-compliance output tables are written,TRUE
+FPCA and graph transforms are learned inside purged CV folds,TRUE
+Residual ridge uses guard-selected penalties without full-refit CV,TRUE
+A3 post-projection violations above tolerance are zero,TRUE

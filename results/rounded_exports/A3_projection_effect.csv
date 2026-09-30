@@ -1,0 +1,169 @@
+Scheme,Model,Pre negative count,Pre tail violations,Pre horizon violations,Pre violation magnitude x100,Post negative count,Post tail violations,Post horizon violations,Post violation magnitude > tol,Post max raw violation,Raw weighted RMSE x100,Projected weighted RMSE x100,Projection loss change x100
+main holdout,Naive completed surface,0,0,0,0.000,0,0,0,0,0,4.687,4.687,0.000
+main holdout,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,4.045,4.045,0.000
+main holdout,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,3.791,3.791,0.000
+main holdout,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.791,3.791,0.000
+main holdout,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.800,3.800,0.000
+main holdout,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.803,3.803,0.000
+main holdout,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,4.034,4.034,0.000
+main holdout,FES-CF,0,0,0,0.000,0,0,0,0,0,3.750,3.750,0.000
+rolling 01,Naive completed surface,0,0,0,0.000,0,0,0,0,0,3.209,3.209,0.000
+rolling 01,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,3.120,3.120,0.000
+rolling 01,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,4.880,4.880,0.000
+rolling 01,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.880,4.880,0.000
+rolling 01,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.856,4.856,0.000
+rolling 01,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,5.081,5.081,0.000
+rolling 01,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,3.333,3.333,0.000
+rolling 01,FES-CF,0,0,0,0.000,0,0,0,0,0,3.280,3.280,0.000
+rolling 02,Naive completed surface,0,0,0,0.000,0,0,0,0,0,4.229,4.229,0.000
+rolling 02,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,3.939,3.939,0.000
+rolling 02,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,3.987,3.987,0.000
+rolling 02,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.987,3.987,0.000
+rolling 02,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.974,3.974,0.000
+rolling 02,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.046,4.046,0.000
+rolling 02,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,3.845,3.845,0.000
+rolling 02,FES-CF,0,0,0,0.000,0,0,0,0,0,3.765,3.765,0.000
+rolling 03,Naive completed surface,0,0,0,0.000,0,0,0,0,0,3.684,3.684,0.000
+rolling 03,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,4.034,4.034,0.000
+rolling 03,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,3.634,3.634,0.000
+rolling 03,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.634,3.634,0.000
+rolling 03,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.616,3.616,0.000
+rolling 03,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.639,3.639,0.000
+rolling 03,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,2.707,2.707,0.000
+rolling 03,FES-CF,0,0,0,0.000,0,0,0,0,0,3.629,3.629,0.000
+rolling 04,Naive completed surface,0,0,0,0.000,0,0,0,0,0,4.200,4.200,0.000
+rolling 04,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,3.566,3.566,0.000
+rolling 04,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,3.386,3.386,0.000
+rolling 04,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.387,3.387,0.000
+rolling 04,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.392,3.392,0.000
+rolling 04,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.463,3.463,0.000
+rolling 04,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,3.037,3.037,0.000
+rolling 04,FES-CF,0,0,0,0.000,0,0,0,0,0,3.552,3.552,0.000
+rolling 05,Naive completed surface,0,0,0,0.000,0,0,0,0,0,3.402,3.402,0.000
+rolling 05,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,2.599,2.599,0.000
+rolling 05,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,2.935,2.935,0.000
+rolling 05,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,2.935,2.935,0.000
+rolling 05,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,2.913,2.913,0.000
+rolling 05,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.312,3.312,0.000
+rolling 05,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,2.548,2.548,0.000
+rolling 05,FES-CF,0,0,0,0.000,0,0,0,0,0,2.537,2.537,0.000
+rolling 06,Naive completed surface,0,0,0,0.000,0,0,0,0,0,2.716,2.716,0.000
+rolling 06,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,1.944,1.944,0.000
+rolling 06,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,2.750,2.750,0.000
+rolling 06,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,2.749,2.749,0.000
+rolling 06,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,2.712,2.712,0.000
+rolling 06,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.416,3.416,0.000
+rolling 06,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,1.983,1.983,0.000
+rolling 06,FES-CF,0,0,0,0.000,0,0,0,0,0,2.428,2.428,0.000
+rolling 07,Naive completed surface,0,0,0,0.000,0,0,0,0,0,5.025,5.025,0.000
+rolling 07,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,4.936,4.936,0.000
+rolling 07,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,3.760,3.760,0.000
+rolling 07,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.760,3.760,0.000
+rolling 07,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.736,3.736,0.000
+rolling 07,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.771,3.771,0.000
+rolling 07,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,4.269,4.269,0.000
+rolling 07,FES-CF,0,0,0,0.000,0,0,0,0,0,3.781,3.781,0.000
+rolling 08,Naive completed surface,0,0,0,0.000,0,0,0,0,0,5.882,5.882,0.000
+rolling 08,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,5.107,5.107,0.000
+rolling 08,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,6.440,6.440,0.000
+rolling 08,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,6.440,6.440,0.000
+rolling 08,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,6.417,6.417,0.000
+rolling 08,Cell-by-cell HAR-X ridge,0,19,0,2.148,0,0,0,0,0,6.523,6.523,0.000
+rolling 08,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,5.959,5.959,0.000
+rolling 08,FES-CF,0,0,0,0.000,0,0,0,0,0,5.381,5.381,0.000
+rolling 09,Naive completed surface,0,0,0,0.000,0,0,0,0,0,4.394,4.394,0.000
+rolling 09,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,3.725,3.725,0.000
+rolling 09,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,3.066,3.066,0.000
+rolling 09,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.066,3.066,0.000
+rolling 09,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.061,3.061,0.000
+rolling 09,Cell-by-cell HAR-X ridge,0,24,0,4.803,0,0,0,0,0,3.166,3.165,-0.001
+rolling 09,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,3.121,3.121,0.000
+rolling 09,FES-CF,0,0,0,0.000,0,0,0,0,0,3.007,3.007,0.000
+rolling 10,Naive completed surface,0,0,0,0.000,0,0,0,0,0,3.251,3.251,0.000
+rolling 10,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,3.151,3.151,0.000
+rolling 10,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,2.529,2.529,0.000
+rolling 10,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,2.529,2.529,0.000
+rolling 10,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,2.525,2.525,0.000
+rolling 10,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,2.564,2.564,0.000
+rolling 10,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,2.715,2.715,0.000
+rolling 10,FES-CF,0,0,0,0.000,0,0,0,0,0,2.555,2.555,0.000
+rolling 11,Naive completed surface,0,0,0,0.000,0,0,0,0,0,11.389,11.389,0.000
+rolling 11,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,14.611,14.611,0.000
+rolling 11,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,16.674,16.674,0.000
+rolling 11,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,16.672,16.672,0.000
+rolling 11,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,16.480,16.480,0.000
+rolling 11,Cell-by-cell HAR-X ridge,0,571,0,1005.582,0,0,0,0,0,16.089,15.811,-0.279
+rolling 11,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,12.251,12.251,0.000
+rolling 11,FES-CF,0,0,0,0.000,0,0,0,0,0,14.253,14.253,0.000
+rolling 12,Naive completed surface,0,0,0,0.000,0,0,0,0,0,6.434,6.434,0.000
+rolling 12,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,5.616,5.616,0.000
+rolling 12,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,7.916,7.916,0.000
+rolling 12,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,7.915,7.915,0.000
+rolling 12,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,7.946,7.946,0.000
+rolling 12,Cell-by-cell HAR-X ridge,0,74,0,37.205,0,0,0,0,0,7.763,7.759,-0.005
+rolling 12,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,6.422,6.422,0.000
+rolling 12,FES-CF,0,0,0,0.000,0,0,0,0,0,5.664,5.664,0.000
+rolling 13,Naive completed surface,0,0,0,0.000,0,0,0,0,0,4.485,4.485,0.000
+rolling 13,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,4.353,4.353,0.000
+rolling 13,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,4.331,4.331,0.000
+rolling 13,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.331,4.331,0.000
+rolling 13,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.306,4.306,0.000
+rolling 13,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.201,4.201,0.000
+rolling 13,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,3.684,3.684,0.000
+rolling 13,FES-CF,0,0,0,0.000,0,0,0,0,0,3.700,3.700,0.000
+rolling 14,Naive completed surface,0,0,0,0.000,0,0,0,0,0,3.233,3.233,0.000
+rolling 14,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,2.757,2.757,0.000
+rolling 14,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,2.796,2.796,0.000
+rolling 14,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,2.796,2.796,0.000
+rolling 14,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,2.800,2.800,0.000
+rolling 14,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,2.998,2.998,0.000
+rolling 14,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,3.152,3.152,0.000
+rolling 14,FES-CF,0,1,0,0.003,0,0,0,0,0,2.825,2.825,0.000
+rolling 15,Naive completed surface,0,0,0,0.000,0,0,0,0,0,4.951,4.951,0.000
+rolling 15,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,4.594,4.594,0.000
+rolling 15,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,5.097,5.097,0.000
+rolling 15,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,5.097,5.097,0.000
+rolling 15,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,5.120,5.120,0.000
+rolling 15,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.574,4.574,0.000
+rolling 15,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,4.775,4.775,0.000
+rolling 15,FES-CF,0,1,0,0.051,0,0,0,0,0,4.190,4.190,0.000
+rolling 16,Naive completed surface,0,0,0,0.000,0,0,0,0,0,4.552,4.552,0.000
+rolling 16,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,4.127,4.127,0.000
+rolling 16,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,4.389,4.389,0.000
+rolling 16,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.389,4.389,0.000
+rolling 16,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.430,4.430,0.000
+rolling 16,Cell-by-cell HAR-X ridge,0,1,0,0.062,0,0,0,0,0,4.112,4.112,0.000
+rolling 16,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,4.000,4.000,0.000
+rolling 16,FES-CF,0,1,0,0.058,0,0,0,0,0,3.865,3.865,0.000
+rolling 17,Naive completed surface,0,0,0,0.000,0,0,0,0,0,5.533,5.533,0.000
+rolling 17,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,4.731,4.731,0.000
+rolling 17,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,4.631,4.631,0.000
+rolling 17,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.630,4.630,0.000
+rolling 17,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.655,4.655,0.000
+rolling 17,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,4.536,4.536,0.000
+rolling 17,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,5.093,5.093,0.000
+rolling 17,FES-CF,0,0,0,0.000,0,0,0,0,0,4.411,4.411,0.000
+rolling 18,Naive completed surface,0,0,0,0.000,0,0,0,0,0,3.537,3.537,0.000
+rolling 18,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,2.612,2.612,0.000
+rolling 18,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,3.070,3.070,0.000
+rolling 18,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.070,3.070,0.000
+rolling 18,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.091,3.091,0.000
+rolling 18,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,2.924,2.924,0.000
+rolling 18,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,2.722,2.722,0.000
+rolling 18,FES-CF,0,0,0,0.000,0,0,0,0,0,2.592,2.592,0.000
+rolling 19,Naive completed surface,0,0,0,0.000,0,0,0,0,0,3.449,3.449,0.000
+rolling 19,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,3.038,3.038,0.000
+rolling 19,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,3.859,3.859,0.000
+rolling 19,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.969,3.969,0.000
+rolling 19,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.894,3.894,0.000
+rolling 19,Cell-by-cell HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.266,3.266,0.000
+rolling 19,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,2.686,2.686,0.000
+rolling 19,FES-CF,0,0,0,0.000,0,0,0,0,0,2.975,2.975,0.000
+rolling 20,Naive completed surface,0,0,0,0.000,0,0,0,0,0,4.754,4.754,0.000
+rolling 20,Rolling mean completed surface,0,0,0,0.000,0,0,0,0,0,4.234,4.234,0.000
+rolling 20,FPCA-X ridge,0,0,0,0.000,0,0,0,0,0,3.720,3.720,0.000
+rolling 20,Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.720,3.720,0.000
+rolling 20,Graph Functional HAR-X ridge,0,0,0,0.000,0,0,0,0,0,3.708,3.708,0.000
+rolling 20,Cell-by-cell HAR-X ridge,0,77,0,43.028,0,0,0,0,0,3.774,3.768,-0.005
+rolling 20,Bottom-up asset HAR,0,0,0,0.000,0,0,0,0,0,3.981,3.981,0.000
+rolling 20,FES-CF,0,0,0,0.000,0,0,0,0,0,3.828,3.828,0.000

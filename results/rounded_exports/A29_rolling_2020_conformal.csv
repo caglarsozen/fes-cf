@@ -1,0 +1,19 @@
+scheme,method,state,n,surface coverage,pointwise coverage,upper surface coverage,mean band width,mean upper half width,interval score
+rolling_11,Global split conformal,All,120,0.433333,0.766389,0.433333,0.167246,0.083623,0.621235
+rolling_11,Global split conformal,S1_Normal,21,0.952381,0.998413,0.952381,0.167246,0.083623,0.167756
+rolling_11,Global split conformal,S2_Elevated,10,0.600000,0.976667,0.600000,0.167246,0.083623,0.187441
+rolling_11,Global split conformal,S3_High-risk,89,0.292135,0.688015,0.292135,0.167246,0.083623,0.776977
+rolling_11,Mondrian state conformal,All,120,0.491667,0.809722,0.491667,0.181981,0.090991,0.564361
+rolling_11,Mondrian state conformal,S3_High-risk,89,0.393258,0.749813,0.393258,0.204740,0.102370,0.712723
+rolling_11,Mondrian state conformal,S2_Elevated,10,0.500000,0.953333,0.500000,0.126639,0.063319,0.185157
+rolling_11,Mondrian state conformal,S1_Normal,21,0.904762,0.995238,0.904762,0.111880,0.055940,0.116158
+rolling_11,Bonferroni empirical residual bands,All,120,0.508333,0.837500,0.508333,0.193932,0.096966,0.604109
+rolling_11,Adaptive conformal inference (delayed feedback),All,120,0.741667,0.912500,0.741667,0.539690,0.269845,0.720687
+rolling_12,Global split conformal,All,120,0.950000,0.992500,0.950000,0.332158,0.166079,0.334460
+rolling_12,Global split conformal,S3_High-risk,119,0.949580,0.992437,0.949580,0.332158,0.166079,0.334479
+rolling_12,Global split conformal,S2_Elevated,1,1.000000,1.000000,1.000000,0.332158,0.166079,0.332158
+rolling_12,Mondrian state conformal,All,120,1.000000,1.000000,1.000000,0.749632,0.374816,0.749632
+rolling_12,Mondrian state conformal,S3_High-risk,119,1.000000,1.000000,1.000000,0.754508,0.377254,0.754508
+rolling_12,Mondrian state conformal,S2_Elevated,1,1.000000,1.000000,1.000000,0.169391,0.084696,0.169391
+rolling_12,Bonferroni empirical residual bands,All,120,1.000000,1.000000,1.000000,0.697977,0.348989,0.697977
+rolling_12,Adaptive conformal inference (delayed feedback),All,120,0.900000,0.980556,0.900000,0.301691,0.150846,0.309222

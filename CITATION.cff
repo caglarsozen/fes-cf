@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this software and the companion manuscript when using this work."
+title: "FES-CF: Forecasting Forward Financial Tail-Risk Surfaces"
+type: software
+version: "3.2.0"
+repository-code: "https://github.com/caglarsozen/fes-cf"
+authors:
+  - family-names: "Sözen"
+    given-names: "Çağlar"
+    affiliation: "Department of Finance and Banking, Giresun University, Turkey"
+    orcid: "https://orcid.org/0000-0002-3732-5058"
+  - family-names: "Sözen"
+    given-names: "Mervenur"
+    affiliation: "Department of Statistics, Ondokuz Mayıs University, Turkey"
+    orcid: "https://orcid.org/0000-0001-5603-5382"
+license: MIT
+keywords:
+  - financial forecasting
+  - functional data analysis
+  - conformal prediction
+  - tail-risk surfaces
+  - R
+abstract: >-
+  Research software for forecasting horizon-by-cross-sectional-quantile
+  surfaces of forward absolute returns using functional anchors, guarded
+  residual correction, shape projection and conformal-band comparisons.
+  Full empirical execution requires the original frozen input snapshot.

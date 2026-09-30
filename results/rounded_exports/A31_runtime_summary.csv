@@ -1,0 +1,18 @@
+component,calls,total seconds,mean seconds,median seconds,max seconds
+FES-CF full architecture,62,76661.59,1236.477,1444.115,2402.59
+Graph Functional HAR-X ridge,186,36498.12,196.226,206.175,430.42
+Functional HAR-X ridge,186,30881.97,166.032,174.570,364.44
+FPCA-X ridge,186,4754.25,25.560,27.760,66.36
+Cell-by-cell HAR-X ridge,21,127.47,6.070,5.990,7.67
+Bottom-up asset HAR,21,96.08,4.575,4.100,14.10
+build_design_quantile_type7_rebuilt,1,50.11,50.110,50.110,50.11
+build_design_har_windows_1_5_10_22,1,48.53,48.530,48.530,48.53
+build_design_har_windows_1_10_22,1,46.96,46.960,46.960,46.96
+build_primary_design,1,46.00,46.000,46.000,46.00
+build_design_target_downside_variation,1,45.88,45.880,45.880,45.88
+build_design_quantile_type9_rebuilt,1,45.82,45.820,45.820,45.82
+build_design_target_squared_return,1,45.09,45.090,45.090,45.09
+build_design_universe_etf_only,1,44.11,44.110,44.110,44.11
+build_design_universe_equity_only,1,40.30,40.300,40.300,40.30
+build_design_grid_h_coarse,1,38.80,38.800,38.800,38.80
+build_design_grid_tau_coarse,1,33.70,33.700,33.700,33.70

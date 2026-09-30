@@ -1,0 +1,9 @@
+model,n schemes,pre violations,schemes with post violations,post violations,max raw violation,mean rmse change x100
+Bottom-up asset HAR,21,0,0,0,0.000e+00,0.000000
+Cell-by-cell HAR-X ridge,21,766,0,0,1.665e-16,-0.013781
+FES-CF,21,3,0,0,0.000e+00,0.000000
+FPCA-X ridge,21,0,0,0,0.000e+00,0.000000
+Functional HAR-X ridge,21,0,0,0,0.000e+00,0.000000
+Graph Functional HAR-X ridge,21,0,0,0,0.000e+00,0.000000
+Naive completed surface,21,0,0,0,0.000e+00,0.000000
+Rolling mean completed surface,21,0,0,0,0.000e+00,0.000000

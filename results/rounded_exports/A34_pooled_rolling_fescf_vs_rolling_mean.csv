@@ -1,0 +1,2 @@
+comparison,n,block length,bootstrap reps,Mean weighted-loss diff x10000,95pct CI lower x10000,95pct CI upper x10000,p one sided favors fescf
+Rolling mean completed surface - FES-CF,2400,10,999,2.2051,-1.4973,6.1867,0.1141

@@ -1,0 +1,9 @@
+scheme,benchmark,mean loss diff,cumulative loss diff,top5pct n,top5pct gain,top5pct share of total
+main_holdout,Naive completed surface,0.000790,0.613937,39,0.356024,0.579902
+main_holdout,Rolling mean completed surface,0.000229,0.178308,39,0.193924,1.087578
+main_holdout,FPCA-X ridge,0.000031,0.024047,39,0.035183,1.463080
+main_holdout,Functional HAR-X ridge,0.000031,0.023977,39,0.034896,1.455423
+main_holdout,Graph Functional HAR-X ridge,0.000037,0.029036,39,0.037840,1.303211
+main_holdout,Cell-by-cell HAR-X ridge,0.000039,0.030610,39,0.068947,2.252452
+main_holdout,Bottom-up asset HAR,0.000221,0.171682,39,0.080832,0.470825
+main_holdout,Equal-weight anchor combination,-0.000021,-0.015971,39,0.039026,NA

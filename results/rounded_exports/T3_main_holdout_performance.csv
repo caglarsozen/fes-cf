@@ -1,0 +1,10 @@
+Model,RMSE x100,MAE x100,Weighted RMSE x100,Terminal RMSE x100,High-tail RMSE x100
+Equal-weight anchor combination,3.041,1.744,3.723,5.170,4.099
+FES-CF,3.043,1.722,3.750,5.185,4.175
+Functional HAR-X ridge,3.070,1.712,3.791,5.246,4.229
+FPCA-X ridge,3.070,1.711,3.791,5.246,4.229
+Graph Functional HAR-X ridge,3.075,1.712,3.800,5.260,4.240
+Cell-by-cell HAR-X ridge,3.088,1.698,3.803,5.260,4.226
+Bottom-up asset HAR,3.276,1.834,4.034,5.478,4.516
+Rolling mean completed surface,3.312,1.932,4.045,5.717,4.369
+Naive completed surface,3.848,2.249,4.687,6.489,5.142

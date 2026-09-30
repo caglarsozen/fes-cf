@@ -1,0 +1,298 @@
+Scheme,Year,Model,N,Weighted RMSE x100,Unweighted RMSE x100
+main holdout,2022,Bottom-up asset HAR,36,4.546,3.547
+main holdout,2022,Cell-by-cell HAR-X ridge,36,4.149,3.256
+main holdout,2022,Equal-weight anchor combination,36,4.210,3.369
+main holdout,2022,FES-CF,36,4.139,3.282
+main holdout,2022,FPCA-X ridge,36,4.272,3.357
+main holdout,2022,Functional HAR-X ridge,36,4.272,3.357
+main holdout,2022,Graph Functional HAR-X ridge,36,4.320,3.395
+main holdout,2022,Naive completed surface,36,5.618,4.710
+main holdout,2022,Rolling mean completed surface,36,5.078,4.068
+main holdout,2023,Bottom-up asset HAR,250,3.187,2.610
+main holdout,2023,Cell-by-cell HAR-X ridge,250,2.956,2.398
+main holdout,2023,Equal-weight anchor combination,250,2.956,2.411
+main holdout,2023,FES-CF,250,2.977,2.405
+main holdout,2023,FPCA-X ridge,250,3.024,2.443
+main holdout,2023,Functional HAR-X ridge,250,3.024,2.443
+main holdout,2023,Graph Functional HAR-X ridge,250,3.038,2.452
+main holdout,2023,Naive completed surface,250,3.871,3.152
+main holdout,2023,Rolling mean completed surface,250,3.136,2.552
+main holdout,2024,Bottom-up asset HAR,252,4.057,3.191
+main holdout,2024,Cell-by-cell HAR-X ridge,252,3.609,2.825
+main holdout,2024,Equal-weight anchor combination,252,3.516,2.773
+main holdout,2024,FES-CF,252,3.532,2.778
+main holdout,2024,FPCA-X ridge,252,3.569,2.798
+main holdout,2024,Functional HAR-X ridge,252,3.570,2.798
+main holdout,2024,Graph Functional HAR-X ridge,252,3.572,2.799
+main holdout,2024,Naive completed surface,252,4.384,3.481
+main holdout,2024,Rolling mean completed surface,252,3.834,3.011
+main holdout,2025,Bottom-up asset HAR,239,4.671,3.889
+main holdout,2025,Cell-by-cell HAR-X ridge,239,4.641,3.870
+main holdout,2025,Equal-weight anchor combination,239,4.496,3.763
+main holdout,2025,FES-CF,239,4.552,3.781
+main holdout,2025,FPCA-X ridge,239,4.581,3.800
+main holdout,2025,Functional HAR-X ridge,239,4.581,3.800
+main holdout,2025,Graph Functional HAR-X ridge,239,4.585,3.803
+main holdout,2025,Naive completed surface,239,5.543,4.649
+main holdout,2025,Rolling mean completed surface,239,4.850,4.097
+rolling 01,2015,Bottom-up asset HAR,120,3.333,2.814
+rolling 01,2015,Cell-by-cell HAR-X ridge,120,5.081,4.038
+rolling 01,2015,Equal-weight anchor combination,120,3.582,2.990
+rolling 01,2015,FES-CF,120,3.280,2.796
+rolling 01,2015,FPCA-X ridge,120,4.880,3.914
+rolling 01,2015,Functional HAR-X ridge,120,4.880,3.914
+rolling 01,2015,Graph Functional HAR-X ridge,120,4.856,3.894
+rolling 01,2015,Naive completed surface,120,3.209,2.776
+rolling 01,2015,Rolling mean completed surface,120,3.120,2.711
+rolling 02,2015,Bottom-up asset HAR,89,3.619,2.904
+rolling 02,2015,Cell-by-cell HAR-X ridge,89,3.529,2.732
+rolling 02,2015,Equal-weight anchor combination,89,3.106,2.472
+rolling 02,2015,FES-CF,89,3.650,2.877
+rolling 02,2015,FPCA-X ridge,89,3.543,2.741
+rolling 02,2015,Functional HAR-X ridge,89,3.543,2.741
+rolling 02,2015,Graph Functional HAR-X ridge,89,3.545,2.743
+rolling 02,2015,Naive completed surface,89,4.023,3.401
+rolling 02,2015,Rolling mean completed surface,89,3.048,2.537
+rolling 02,2016,Bottom-up asset HAR,31,4.430,3.802
+rolling 02,2016,Cell-by-cell HAR-X ridge,31,5.255,4.637
+rolling 02,2016,Equal-weight anchor combination,31,4.674,3.988
+rolling 02,2016,FES-CF,31,4.078,3.474
+rolling 02,2016,FPCA-X ridge,31,5.049,4.458
+rolling 02,2016,Functional HAR-X ridge,31,5.049,4.458
+rolling 02,2016,Graph Functional HAR-X ridge,31,5.006,4.421
+rolling 02,2016,Naive completed surface,31,4.771,3.941
+rolling 02,2016,Rolling mean completed surface,31,5.777,4.651
+rolling 03,2016,Bottom-up asset HAR,120,2.707,2.252
+rolling 03,2016,Cell-by-cell HAR-X ridge,120,3.639,2.884
+rolling 03,2016,Equal-weight anchor combination,120,3.452,2.822
+rolling 03,2016,FES-CF,120,3.629,3.017
+rolling 03,2016,FPCA-X ridge,120,3.634,2.908
+rolling 03,2016,Functional HAR-X ridge,120,3.634,2.908
+rolling 03,2016,Graph Functional HAR-X ridge,120,3.616,2.894
+rolling 03,2016,Naive completed surface,120,3.684,3.096
+rolling 03,2016,Rolling mean completed surface,120,4.034,3.361
+rolling 04,2016,Bottom-up asset HAR,101,3.255,2.581
+rolling 04,2016,Cell-by-cell HAR-X ridge,101,3.516,2.770
+rolling 04,2016,Equal-weight anchor combination,101,3.482,2.768
+rolling 04,2016,FES-CF,101,3.728,2.956
+rolling 04,2016,FPCA-X ridge,101,3.509,2.785
+rolling 04,2016,Functional HAR-X ridge,101,3.510,2.785
+rolling 04,2016,Graph Functional HAR-X ridge,101,3.511,2.784
+rolling 04,2016,Naive completed surface,101,4.413,3.460
+rolling 04,2016,Rolling mean completed surface,101,3.733,3.007
+rolling 04,2017,Bottom-up asset HAR,19,1.390,1.122
+rolling 04,2017,Cell-by-cell HAR-X ridge,19,3.169,2.378
+rolling 04,2017,Equal-weight anchor combination,19,2.452,1.841
+rolling 04,2017,FES-CF,19,2.406,1.777
+rolling 04,2017,FPCA-X ridge,19,2.633,2.010
+rolling 04,2017,Functional HAR-X ridge,19,2.640,2.015
+rolling 04,2017,Graph Functional HAR-X ridge,19,2.667,2.037
+rolling 04,2017,Naive completed surface,19,2.813,2.092
+rolling 04,2017,Rolling mean completed surface,19,2.501,1.839
+rolling 05,2017,Bottom-up asset HAR,120,2.548,2.036
+rolling 05,2017,Cell-by-cell HAR-X ridge,120,3.312,2.733
+rolling 05,2017,Equal-weight anchor combination,120,2.671,2.123
+rolling 05,2017,FES-CF,120,2.537,1.990
+rolling 05,2017,FPCA-X ridge,120,2.935,2.406
+rolling 05,2017,Functional HAR-X ridge,120,2.935,2.406
+rolling 05,2017,Graph Functional HAR-X ridge,120,2.913,2.386
+rolling 05,2017,Naive completed surface,120,3.402,2.620
+rolling 05,2017,Rolling mean completed surface,120,2.599,2.011
+rolling 06,2017,Bottom-up asset HAR,112,2.014,1.688
+rolling 06,2017,Cell-by-cell HAR-X ridge,112,3.373,2.742
+rolling 06,2017,Equal-weight anchor combination,112,2.300,1.893
+rolling 06,2017,FES-CF,112,2.424,2.011
+rolling 06,2017,FPCA-X ridge,112,2.722,2.249
+rolling 06,2017,Functional HAR-X ridge,112,2.722,2.249
+rolling 06,2017,Graph Functional HAR-X ridge,112,2.685,2.218
+rolling 06,2017,Naive completed surface,112,2.760,2.249
+rolling 06,2017,Rolling mean completed surface,112,1.971,1.631
+rolling 06,2018,Bottom-up asset HAR,8,1.470,1.156
+rolling 06,2018,Cell-by-cell HAR-X ridge,8,3.967,3.057
+rolling 06,2018,Equal-weight anchor combination,8,2.380,1.832
+rolling 06,2018,FES-CF,8,2.478,1.921
+rolling 06,2018,FPCA-X ridge,8,3.106,2.408
+rolling 06,2018,Functional HAR-X ridge,8,3.105,2.408
+rolling 06,2018,Graph Functional HAR-X ridge,8,3.060,2.371
+rolling 06,2018,Naive completed surface,8,1.995,1.641
+rolling 06,2018,Rolling mean completed surface,8,1.512,1.188
+rolling 07,2018,Bottom-up asset HAR,120,4.269,3.499
+rolling 07,2018,Cell-by-cell HAR-X ridge,120,3.771,3.156
+rolling 07,2018,Equal-weight anchor combination,120,3.942,3.265
+rolling 07,2018,FES-CF,120,3.781,3.157
+rolling 07,2018,FPCA-X ridge,120,3.760,3.152
+rolling 07,2018,Functional HAR-X ridge,120,3.760,3.152
+rolling 07,2018,Graph Functional HAR-X ridge,120,3.736,3.129
+rolling 07,2018,Naive completed surface,120,5.025,4.104
+rolling 07,2018,Rolling mean completed surface,120,4.936,4.077
+rolling 08,2018,Bottom-up asset HAR,120,5.959,4.750
+rolling 08,2018,Cell-by-cell HAR-X ridge,120,6.523,5.182
+rolling 08,2018,Equal-weight anchor combination,120,5.462,4.383
+rolling 08,2018,FES-CF,120,5.381,4.331
+rolling 08,2018,FPCA-X ridge,120,6.440,5.151
+rolling 08,2018,Functional HAR-X ridge,120,6.440,5.151
+rolling 08,2018,Graph Functional HAR-X ridge,120,6.417,5.131
+rolling 08,2018,Naive completed surface,120,5.882,4.708
+rolling 08,2018,Rolling mean completed surface,120,5.107,4.106
+rolling 09,2018,Bottom-up asset HAR,3,4.630,3.891
+rolling 09,2018,Cell-by-cell HAR-X ridge,3,6.044,4.888
+rolling 09,2018,Equal-weight anchor combination,3,3.512,3.208
+rolling 09,2018,FES-CF,3,3.266,2.956
+rolling 09,2018,FPCA-X ridge,3,5.527,4.692
+rolling 09,2018,Functional HAR-X ridge,3,5.527,4.694
+rolling 09,2018,Graph Functional HAR-X ridge,3,5.430,4.618
+rolling 09,2018,Naive completed surface,3,5.848,5.279
+rolling 09,2018,Rolling mean completed surface,3,2.746,2.564
+rolling 09,2019,Bottom-up asset HAR,117,3.073,2.519
+rolling 09,2019,Cell-by-cell HAR-X ridge,117,3.056,2.471
+rolling 09,2019,Equal-weight anchor combination,117,2.974,2.449
+rolling 09,2019,FES-CF,117,3.000,2.489
+rolling 09,2019,FPCA-X ridge,117,2.976,2.421
+rolling 09,2019,Functional HAR-X ridge,117,2.976,2.421
+rolling 09,2019,Graph Functional HAR-X ridge,117,2.975,2.420
+rolling 09,2019,Naive completed surface,117,4.350,3.559
+rolling 09,2019,Rolling mean completed surface,117,3.747,3.102
+rolling 10,2019,Bottom-up asset HAR,120,2.715,2.244
+rolling 10,2019,Cell-by-cell HAR-X ridge,120,2.564,2.130
+rolling 10,2019,Equal-weight anchor combination,120,2.614,2.166
+rolling 10,2019,FES-CF,120,2.555,2.127
+rolling 10,2019,FPCA-X ridge,120,2.529,2.111
+rolling 10,2019,Functional HAR-X ridge,120,2.529,2.111
+rolling 10,2019,Graph Functional HAR-X ridge,120,2.525,2.107
+rolling 10,2019,Naive completed surface,120,3.251,2.672
+rolling 10,2019,Rolling mean completed surface,120,3.151,2.594
+rolling 11,2019,Bottom-up asset HAR,15,1.893,1.533
+rolling 11,2019,Cell-by-cell HAR-X ridge,15,2.420,2.032
+rolling 11,2019,Equal-weight anchor combination,15,1.924,1.625
+rolling 11,2019,FES-CF,15,2.269,1.912
+rolling 11,2019,FPCA-X ridge,15,2.473,2.125
+rolling 11,2019,Functional HAR-X ridge,15,2.472,2.125
+rolling 11,2019,Graph Functional HAR-X ridge,15,2.450,2.104
+rolling 11,2019,Naive completed surface,15,2.206,1.831
+rolling 11,2019,Rolling mean completed surface,15,1.851,1.434
+rolling 11,2020,Bottom-up asset HAR,105,13.077,11.093
+rolling 11,2020,Cell-by-cell HAR-X ridge,105,16.877,14.090
+rolling 11,2020,Equal-weight anchor combination,105,14.063,12.092
+rolling 11,2020,FES-CF,105,15.213,13.107
+rolling 11,2020,FPCA-X ridge,105,17.800,15.294
+rolling 11,2020,Functional HAR-X ridge,105,17.799,15.293
+rolling 11,2020,Graph Functional HAR-X ridge,105,17.594,15.116
+rolling 11,2020,Naive completed surface,105,12.147,10.362
+rolling 11,2020,Rolling mean completed surface,105,15.604,13.511
+rolling 12,2020,Bottom-up asset HAR,120,6.422,5.077
+rolling 12,2020,Cell-by-cell HAR-X ridge,120,7.759,6.103
+rolling 12,2020,Equal-weight anchor combination,120,6.199,5.041
+rolling 12,2020,FES-CF,120,5.664,4.595
+rolling 12,2020,FPCA-X ridge,120,7.916,6.413
+rolling 12,2020,Functional HAR-X ridge,120,7.915,6.413
+rolling 12,2020,Graph Functional HAR-X ridge,120,7.946,6.438
+rolling 12,2020,Naive completed surface,120,6.434,5.316
+rolling 12,2020,Rolling mean completed surface,120,5.616,4.547
+rolling 13,2020,Bottom-up asset HAR,28,3.241,2.696
+rolling 13,2020,Cell-by-cell HAR-X ridge,28,3.721,2.938
+rolling 13,2020,Equal-weight anchor combination,28,2.892,2.418
+rolling 13,2020,FES-CF,28,3.240,2.737
+rolling 13,2020,FPCA-X ridge,28,3.834,3.096
+rolling 13,2020,Functional HAR-X ridge,28,3.833,3.095
+rolling 13,2020,Graph Functional HAR-X ridge,28,3.808,3.077
+rolling 13,2020,Naive completed surface,28,4.392,3.616
+rolling 13,2020,Rolling mean completed surface,28,5.362,4.513
+rolling 13,2021,Bottom-up asset HAR,92,3.808,3.036
+rolling 13,2021,Cell-by-cell HAR-X ridge,92,4.337,3.429
+rolling 13,2021,Equal-weight anchor combination,92,3.836,3.087
+rolling 13,2021,FES-CF,92,3.830,3.079
+rolling 13,2021,FPCA-X ridge,92,4.472,3.625
+rolling 13,2021,Functional HAR-X ridge,92,4.471,3.625
+rolling 13,2021,Graph Functional HAR-X ridge,92,4.447,3.604
+rolling 13,2021,Naive completed surface,92,4.513,3.592
+rolling 13,2021,Rolling mean completed surface,92,3.996,3.175
+rolling 14,2021,Bottom-up asset HAR,120,3.152,2.523
+rolling 14,2021,Cell-by-cell HAR-X ridge,120,2.998,2.367
+rolling 14,2021,Equal-weight anchor combination,120,2.674,2.129
+rolling 14,2021,FES-CF,120,2.825,2.273
+rolling 14,2021,FPCA-X ridge,120,2.796,2.194
+rolling 14,2021,Functional HAR-X ridge,120,2.796,2.194
+rolling 14,2021,Graph Functional HAR-X ridge,120,2.800,2.196
+rolling 14,2021,Naive completed surface,120,3.233,2.617
+rolling 14,2021,Rolling mean completed surface,120,2.757,2.202
+rolling 15,2021,Bottom-up asset HAR,40,4.025,3.365
+rolling 15,2021,Cell-by-cell HAR-X ridge,40,3.130,2.611
+rolling 15,2021,Equal-weight anchor combination,40,3.132,2.616
+rolling 15,2021,FES-CF,40,3.437,2.936
+rolling 15,2021,FPCA-X ridge,40,3.374,2.735
+rolling 15,2021,Functional HAR-X ridge,40,3.373,2.735
+rolling 15,2021,Graph Functional HAR-X ridge,40,3.389,2.744
+rolling 15,2021,Naive completed surface,40,3.686,3.136
+rolling 15,2021,Rolling mean completed surface,40,3.407,2.885
+rolling 15,2022,Bottom-up asset HAR,80,5.109,4.158
+rolling 15,2022,Cell-by-cell HAR-X ridge,80,5.146,4.191
+rolling 15,2022,Equal-weight anchor combination,80,5.197,4.267
+rolling 15,2022,FES-CF,80,4.520,3.756
+rolling 15,2022,FPCA-X ridge,80,5.768,4.678
+rolling 15,2022,Functional HAR-X ridge,80,5.769,4.678
+rolling 15,2022,Graph Functional HAR-X ridge,80,5.794,4.699
+rolling 15,2022,Naive completed surface,80,5.474,4.540
+rolling 15,2022,Rolling mean completed surface,80,5.085,4.249
+rolling 16,2022,Bottom-up asset HAR,120,4.000,3.408
+rolling 16,2022,Cell-by-cell HAR-X ridge,120,4.112,3.462
+rolling 16,2022,Equal-weight anchor combination,120,3.757,3.238
+rolling 16,2022,FES-CF,120,3.865,3.342
+rolling 16,2022,FPCA-X ridge,120,4.389,3.734
+rolling 16,2022,Functional HAR-X ridge,120,4.389,3.734
+rolling 16,2022,Graph Functional HAR-X ridge,120,4.430,3.768
+rolling 16,2022,Naive completed surface,120,4.552,3.967
+rolling 16,2022,Rolling mean completed surface,120,4.127,3.496
+rolling 17,2022,Bottom-up asset HAR,51,6.126,4.935
+rolling 17,2022,Cell-by-cell HAR-X ridge,51,5.232,4.196
+rolling 17,2022,Equal-weight anchor combination,51,5.146,4.160
+rolling 17,2022,FES-CF,51,5.080,4.141
+rolling 17,2022,FPCA-X ridge,51,5.394,4.334
+rolling 17,2022,Functional HAR-X ridge,51,5.393,4.334
+rolling 17,2022,Graph Functional HAR-X ridge,51,5.430,4.365
+rolling 17,2022,Naive completed surface,51,6.241,5.166
+rolling 17,2022,Rolling mean completed surface,51,5.543,4.430
+rolling 17,2023,Bottom-up asset HAR,69,4.168,3.420
+rolling 17,2023,Cell-by-cell HAR-X ridge,69,3.943,3.184
+rolling 17,2023,Equal-weight anchor combination,69,3.762,3.091
+rolling 17,2023,FES-CF,69,3.843,3.133
+rolling 17,2023,FPCA-X ridge,69,3.974,3.202
+rolling 17,2023,Functional HAR-X ridge,69,3.974,3.201
+rolling 17,2023,Graph Functional HAR-X ridge,69,3.985,3.206
+rolling 17,2023,Naive completed surface,69,4.946,4.061
+rolling 17,2023,Rolling mean completed surface,69,4.027,3.308
+rolling 18,2023,Bottom-up asset HAR,120,2.722,2.220
+rolling 18,2023,Cell-by-cell HAR-X ridge,120,2.924,2.362
+rolling 18,2023,Equal-weight anchor combination,120,2.792,2.247
+rolling 18,2023,FES-CF,120,2.592,2.078
+rolling 18,2023,FPCA-X ridge,120,3.070,2.495
+rolling 18,2023,Functional HAR-X ridge,120,3.070,2.495
+rolling 18,2023,Graph Functional HAR-X ridge,120,3.091,2.513
+rolling 18,2023,Naive completed surface,120,3.537,2.827
+rolling 18,2023,Rolling mean completed surface,120,2.612,2.080
+rolling 19,2023,Bottom-up asset HAR,61,2.394,1.974
+rolling 19,2023,Cell-by-cell HAR-X ridge,61,3.443,2.741
+rolling 19,2023,Equal-weight anchor combination,61,3.289,2.673
+rolling 19,2023,FES-CF,61,2.947,2.409
+rolling 19,2023,FPCA-X ridge,61,4.108,3.280
+rolling 19,2023,Functional HAR-X ridge,61,4.222,3.376
+rolling 19,2023,Graph Functional HAR-X ridge,61,4.143,3.310
+rolling 19,2023,Naive completed surface,61,3.019,2.520
+rolling 19,2023,Rolling mean completed surface,61,2.921,2.408
+rolling 19,2024,Bottom-up asset HAR,59,2.958,2.383
+rolling 19,2024,Cell-by-cell HAR-X ridge,59,3.072,2.521
+rolling 19,2024,Equal-weight anchor combination,59,3.102,2.557
+rolling 19,2024,FES-CF,59,3.004,2.432
+rolling 19,2024,FPCA-X ridge,59,3.583,3.007
+rolling 19,2024,Functional HAR-X ridge,59,3.688,3.101
+rolling 19,2024,Graph Functional HAR-X ridge,59,3.620,3.040
+rolling 19,2024,Naive completed surface,59,3.843,3.093
+rolling 19,2024,Rolling mean completed surface,59,3.154,2.488
+rolling 20,2024,Bottom-up asset HAR,120,3.981,3.205
+rolling 20,2024,Cell-by-cell HAR-X ridge,120,3.768,3.184
+rolling 20,2024,Equal-weight anchor combination,120,3.655,2.946
+rolling 20,2024,FES-CF,120,3.828,3.042
+rolling 20,2024,FPCA-X ridge,120,3.720,3.134
+rolling 20,2024,Functional HAR-X ridge,120,3.720,3.134
+rolling 20,2024,Graph Functional HAR-X ridge,120,3.708,3.121
+rolling 20,2024,Naive completed surface,120,4.754,3.727
+rolling 20,2024,Rolling mean completed surface,120,4.234,3.315

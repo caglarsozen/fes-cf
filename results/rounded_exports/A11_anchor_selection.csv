@@ -1,0 +1,106 @@
+scheme,model,guard loss,guard rank
+main_holdout,FPCA-X ridge,0.001450,1
+main_holdout,Functional HAR-X ridge,0.001450,2
+main_holdout,Graph Functional HAR-X ridge,0.001461,3
+main_holdout,Rolling mean completed surface,0.001528,4
+main_holdout,Naive completed surface,0.001960,5
+rolling_01,Rolling mean completed surface,0.001438,1
+rolling_01,Graph Functional HAR-X ridge,0.001441,2
+rolling_01,FPCA-X ridge,0.001451,3
+rolling_01,Functional HAR-X ridge,0.001451,4
+rolling_01,Naive completed surface,0.001798,5
+rolling_02,Rolling mean completed surface,0.001333,1
+rolling_02,Graph Functional HAR-X ridge,0.001458,2
+rolling_02,FPCA-X ridge,0.001471,3
+rolling_02,Functional HAR-X ridge,0.001471,4
+rolling_02,Naive completed surface,0.001503,5
+rolling_03,Rolling mean completed surface,0.000996,1
+rolling_03,Naive completed surface,0.001197,2
+rolling_03,Graph Functional HAR-X ridge,0.001847,3
+rolling_03,FPCA-X ridge,0.001866,4
+rolling_03,Functional HAR-X ridge,0.001866,5
+rolling_04,Rolling mean completed surface,0.000745,1
+rolling_04,Naive completed surface,0.000818,2
+rolling_04,Graph Functional HAR-X ridge,0.002435,3
+rolling_04,FPCA-X ridge,0.002462,4
+rolling_04,Functional HAR-X ridge,0.002462,5
+rolling_05,Rolling mean completed surface,0.000881,1
+rolling_05,Graph Functional HAR-X ridge,0.001164,2
+rolling_05,Functional HAR-X ridge,0.001168,3
+rolling_05,FPCA-X ridge,0.001168,4
+rolling_05,Naive completed surface,0.001194,5
+rolling_06,Graph Functional HAR-X ridge,0.001364,1
+rolling_06,Functional HAR-X ridge,0.001371,2
+rolling_06,FPCA-X ridge,0.001371,3
+rolling_06,Naive completed surface,0.001460,4
+rolling_06,Rolling mean completed surface,0.001542,5
+rolling_07,Graph Functional HAR-X ridge,0.001292,1
+rolling_07,FPCA-X ridge,0.001299,2
+rolling_07,Functional HAR-X ridge,0.001299,3
+rolling_07,Rolling mean completed surface,0.001555,4
+rolling_07,Naive completed surface,0.001589,5
+rolling_08,Rolling mean completed surface,0.001029,1
+rolling_08,Graph Functional HAR-X ridge,0.001039,2
+rolling_08,FPCA-X ridge,0.001045,3
+rolling_08,Functional HAR-X ridge,0.001045,4
+rolling_08,Naive completed surface,0.001469,5
+rolling_09,Rolling mean completed surface,0.000845,1
+rolling_09,Graph Functional HAR-X ridge,0.000897,2
+rolling_09,Functional HAR-X ridge,0.000903,3
+rolling_09,FPCA-X ridge,0.000903,4
+rolling_09,Naive completed surface,0.001332,5
+rolling_10,Graph Functional HAR-X ridge,0.001012,1
+rolling_10,Functional HAR-X ridge,0.001025,2
+rolling_10,FPCA-X ridge,0.001025,3
+rolling_10,Rolling mean completed surface,0.001295,4
+rolling_10,Naive completed surface,0.001600,5
+rolling_11,Graph Functional HAR-X ridge,0.001872,1
+rolling_11,Functional HAR-X ridge,0.001892,2
+rolling_11,FPCA-X ridge,0.001892,3
+rolling_11,Rolling mean completed surface,0.001928,4
+rolling_11,Naive completed surface,0.002192,5
+rolling_12,Rolling mean completed surface,0.002126,1
+rolling_12,Functional HAR-X ridge,0.002198,2
+rolling_12,FPCA-X ridge,0.002199,3
+rolling_12,Graph Functional HAR-X ridge,0.002206,4
+rolling_12,Naive completed surface,0.002666,5
+rolling_13,Rolling mean completed surface,0.001802,1
+rolling_13,Functional HAR-X ridge,0.001876,2
+rolling_13,FPCA-X ridge,0.001877,3
+rolling_13,Graph Functional HAR-X ridge,0.001911,4
+rolling_13,Naive completed surface,0.002257,5
+rolling_14,Naive completed surface,0.005669,1
+rolling_14,Rolling mean completed surface,0.008417,2
+rolling_14,Graph Functional HAR-X ridge,0.010914,3
+rolling_14,Functional HAR-X ridge,0.011106,4
+rolling_14,FPCA-X ridge,0.011108,5
+rolling_15,Naive completed surface,0.006863,1
+rolling_15,Rolling mean completed surface,0.009714,2
+rolling_15,Graph Functional HAR-X ridge,0.013073,3
+rolling_15,Functional HAR-X ridge,0.013296,4
+rolling_15,FPCA-X ridge,0.013297,5
+rolling_16,Naive completed surface,0.007451,1
+rolling_16,Rolling mean completed surface,0.010351,2
+rolling_16,Graph Functional HAR-X ridge,0.013895,3
+rolling_16,Functional HAR-X ridge,0.014127,4
+rolling_16,FPCA-X ridge,0.014129,5
+rolling_17,Graph Functional HAR-X ridge,0.001864,1
+rolling_17,Functional HAR-X ridge,0.001896,2
+rolling_17,FPCA-X ridge,0.001896,3
+rolling_17,Rolling mean completed surface,0.001962,4
+rolling_17,Naive completed surface,0.002297,5
+rolling_18,Rolling mean completed surface,0.001294,1
+rolling_18,Functional HAR-X ridge,0.001465,2
+rolling_18,FPCA-X ridge,0.001465,3
+rolling_18,Graph Functional HAR-X ridge,0.001477,4
+rolling_18,Naive completed surface,0.001660,5
+rolling_19,Rolling mean completed surface,0.001635,1
+rolling_19,Functional HAR-X ridge,0.001815,2
+rolling_19,FPCA-X ridge,0.001816,3
+rolling_19,Graph Functional HAR-X ridge,0.001831,4
+rolling_19,Naive completed surface,0.001976,5
+rolling_20,Rolling mean completed surface,0.002180,1
+rolling_20,Graph Functional HAR-X ridge,0.002392,2
+rolling_20,Functional HAR-X ridge,0.002417,3
+rolling_20,FPCA-X ridge,0.002417,4
+rolling_20,Naive completed surface,0.002792,5

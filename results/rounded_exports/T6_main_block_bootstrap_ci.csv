@@ -1,0 +1,9 @@
+scheme,benchmark,proposed,block length,reps,mean,lower,upper,p one sided gt0
+main_holdout,Naive completed surface,FES-CF full,10,999,0.000790,0.000425,0.001190,0.000000
+main_holdout,Rolling mean completed surface,FES-CF full,10,999,0.000229,-0.000090,0.000516,0.089089
+main_holdout,Bottom-up asset HAR,FES-CF full,10,999,0.000221,0.000111,0.000343,0.000000
+main_holdout,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000039,-0.000035,0.000146,0.146146
+main_holdout,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000037,-0.000014,0.000092,0.068068
+main_holdout,FPCA-X ridge,FES-CF full,10,999,0.000031,-0.000014,0.000087,0.097097
+main_holdout,Functional HAR-X ridge,FES-CF full,10,999,0.000031,-0.000013,0.000084,0.085085
+main_holdout,Equal-weight anchor combination,FES-CF full,10,999,-0.000021,-0.000092,0.000042,0.766767

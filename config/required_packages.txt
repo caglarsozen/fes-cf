@@ -1,0 +1,15 @@
+quantmod
+xts
+zoo
+dplyr
+tidyr
+purrr
+tibble
+ggplot2
+glmnet
+knitr
+readr
+stringr
+scales
+digest
+jsonlite

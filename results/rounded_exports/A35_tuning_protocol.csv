@@ -1,0 +1,27 @@
+parameter,primary value,role,selection scope,sensitivity set
+Horizon grid,"1,2,3,5,10",Prespecified,None,Coarser horizon grid
+Tail grid,"0.8,0.85,0.9,0.925,0.95,0.975",Prespecified,None,Coarser tail grid
+Quantile convention,8,Prespecified,None,Types 7 and 9
+Minimum asset coverage,0.85,Prespecified,None,Reported in manifest / cell availability
+Embargo,10,Prespecified,None,"10,15,20"
+CV purge,10,Prespecified,None,Tracks h_max in rebuilt designs
+Ridge lambda grid,"1e-5 to 1e3, 80 log points",Candidate grid,Anchor CV + 1-SE; residual penalty uses training guard,Primary grid retained
+glmnet numerical convergence,maxit=1000000,Numerical safeguard,Common converged lambdas only; truncated-edge CV minima/choices abort,Minimum common count 20; edge buffer 2
+HAR windows,"1,5,22",Prespecified,None,"1,10,22 and 1,5,10,22"
+FPCA PVE / K max,0.95 / 8,Train-selected dimension,Purged fold-training basis / mean / K; full-training refit,Alternative PVE and K max
+Graph top-k / min abs cor,3 / 0.05,Prespecified,Graph relearned on each purged fold-training block,Alternative sparsity settings
+Guard share / minimum N,0.3 / 80,Prespecified,Training block only,20pct and 40pct guard shares
+Top-2 blend grid,0 to 0.50 by 0.025,Guard-selected,Guard block only,Old grid and coarse 0 to 0.50
+Top-3 simplex step,0.05,Sensitivity only,Guard block only,Top-3 not used in primary ranking/MCS
+FPCA score penalty,One shared lambda across retained scores,CV-selected,Reconstructed surface MSE; purged fold-local CV + 1-SE,PVE/K sensitivity retained
+Residual ridge penalty,Same 80-point lambda grid,Guard-selected,Unprojected guard residual MSE; carried to final refit without CV,Existing grid retained
+Residual correction rho grid,0 to 0.50 by 0.05,Guard-selected,State-specific guard block,Old/fine grids plus 0 to 1.00 by 0.10
+State cut probabilities,"0.333333333333333,0.666666666666667",Prespecified,Training block only,2-state and 4-state partitions
+State terminal coefficient,0.5,Prespecified,Training block only,0.25 and 1.00
+Conformal alpha,0.1,Prespecified,Calibration only,"0.05,0.1,0.15"
+Band multiplier,1,Prespecified,Calibration only,"1,1.05,1.1,1.15,1.2,1.3"
+Scale epsilon,1e-08,Numerical floor,Training residual scale,1e-10 and 1e-6
+Loss weights tau / horizon,4 / 1,Prespecified,Used for guard and evaluation,2/4/6 by 0/1/2 grid
+Primary NW lag,10,Prespecified after reviewer correction,Inference only,"3,5,10,15"
+Bootstrap block / reps,10 / 999,Prespecified,Inference only,MCS uses separate prespecified reps
+MCS alpha / reps,0.1 / 499,Prespecified,Inference only,Main and pooled rolling samples

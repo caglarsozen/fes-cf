@@ -1,0 +1,3 @@
+design,scheme,diagnostic,null hypothesis,n,K,first pc variance share,first 5 pc variance share,statistic,bootstrap p,block length,reps
+primary,main_holdout,Functional KPSS-type block bootstrap,Stationary weakly dependent surface process,2389,NA,NA,NA,0.029529,0,10,499
+primary,main_holdout,FPCA-score CUSUM block bootstrap,No structural instability in leading FPCA scores,2389,5,0.735398,0.943232,11.104320,0,10,499

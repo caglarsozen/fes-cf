@@ -1,0 +1,571 @@
+h,tau,ticker,tail cell hits,eligible origins,tail occupancy rate,asset group,asset class
+1,0.975,TSLA,1113,3891,0.2860,Equity,Large-cap equity
+1,0.975,NVDA,636,3982,0.1597,Equity,Large-cap equity
+1,0.975,META,311,3414,0.0911,Equity,Large-cap equity
+1,0.975,SLV,280,3982,0.0703,ETF,Silver
+1,0.975,BAC,272,3982,0.0683,Equity,Large-cap equity
+1,0.975,AMZN,216,3982,0.0542,Equity,Large-cap equity
+1,0.975,AAPL,186,3982,0.0467,Equity,Large-cap equity
+1,0.975,MA,110,3982,0.0276,Equity,Large-cap equity
+1,0.975,CVX,95,3982,0.0239,Equity,Large-cap equity
+1,0.975,XLE,94,3982,0.0236,ETF,Energy sector equity
+1,0.975,XOM,90,3982,0.0226,Equity,Large-cap equity
+1,0.975,WMT,78,3982,0.0196,Equity,Large-cap equity
+1,0.975,JPM,76,3982,0.0191,Equity,Large-cap equity
+1,0.975,MSFT,75,3982,0.0188,Equity,Large-cap equity
+1,0.975,V,66,3982,0.0166,Equity,Large-cap equity
+1,0.975,JNJ,53,3982,0.0133,Equity,Large-cap equity
+1,0.975,PG,41,3982,0.0103,Equity,Large-cap equity
+1,0.975,VNQ,36,3982,0.0090,ETF,Real-estate equity
+1,0.975,EEM,33,3982,0.0083,ETF,Emerging-market equity
+1,0.975,XLU,31,3982,0.0078,ETF,Utilities sector equity
+1,0.975,TLT,27,3982,0.0068,ETF,Long-duration US Treasury
+1,0.975,IWM,20,3982,0.0050,ETF,US small-cap equity
+1,0.975,XLB,13,3982,0.0033,ETF,Materials sector equity
+1,0.975,XLV,9,3982,0.0023,ETF,Health-care sector equity
+1,0.975,GLD,8,3982,0.0020,ETF,Gold
+1,0.975,EFA,7,3982,0.0018,ETF,Developed ex-US equity
+1,0.975,XLF,2,3982,0.0005,ETF,Financial sector equity
+1,0.975,XLI,2,3982,0.0005,ETF,Industrials sector equity
+1,0.975,XLP,1,3982,0.0003,ETF,Consumer-staples sector equity
+1,0.975,XLY,1,3982,0.0003,ETF,Consumer-discretionary sector equity
+1,0.975,SPY,0,3982,0.0000,ETF,US broad equity
+1,0.975,QQQ,0,3982,0.0000,ETF,US growth/technology equity
+1,0.975,DIA,0,3982,0.0000,ETF,US large-cap equity
+1,0.975,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+1,0.975,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+1,0.975,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+1,0.975,HYG,0,3982,0.0000,ETF,High-yield corporate bond
+1,0.975,XLK,0,3982,0.0000,ETF,Technology sector equity
+2,0.975,TSLA,1359,3891,0.3493,Equity,Large-cap equity
+2,0.975,NVDA,756,3982,0.1899,Equity,Large-cap equity
+2,0.975,META,305,3414,0.0893,Equity,Large-cap equity
+2,0.975,BAC,278,3982,0.0698,Equity,Large-cap equity
+2,0.975,SLV,259,3982,0.0650,ETF,Silver
+2,0.975,AMZN,213,3982,0.0535,Equity,Large-cap equity
+2,0.975,AAPL,158,3982,0.0397,Equity,Large-cap equity
+2,0.975,MA,72,3982,0.0181,Equity,Large-cap equity
+2,0.975,XOM,69,3982,0.0173,Equity,Large-cap equity
+2,0.975,JPM,66,3982,0.0166,Equity,Large-cap equity
+2,0.975,XLE,65,3982,0.0163,ETF,Energy sector equity
+2,0.975,WMT,65,3982,0.0163,Equity,Large-cap equity
+2,0.975,CVX,62,3982,0.0156,Equity,Large-cap equity
+2,0.975,MSFT,61,3982,0.0153,Equity,Large-cap equity
+2,0.975,V,46,3982,0.0116,Equity,Large-cap equity
+2,0.975,JNJ,32,3982,0.0080,Equity,Large-cap equity
+2,0.975,PG,26,3982,0.0065,Equity,Large-cap equity
+2,0.975,EEM,21,3982,0.0053,ETF,Emerging-market equity
+2,0.975,XLU,14,3982,0.0035,ETF,Utilities sector equity
+2,0.975,VNQ,14,3982,0.0035,ETF,Real-estate equity
+2,0.975,IWM,9,3982,0.0023,ETF,US small-cap equity
+2,0.975,TLT,8,3982,0.0020,ETF,Long-duration US Treasury
+2,0.975,XLV,7,3982,0.0018,ETF,Health-care sector equity
+2,0.975,EFA,6,3982,0.0015,ETF,Developed ex-US equity
+2,0.975,GLD,5,3982,0.0013,ETF,Gold
+2,0.975,XLB,4,3982,0.0010,ETF,Materials sector equity
+2,0.975,XLF,2,3982,0.0005,ETF,Financial sector equity
+2,0.975,SPY,0,3982,0.0000,ETF,US broad equity
+2,0.975,QQQ,0,3982,0.0000,ETF,US growth/technology equity
+2,0.975,DIA,0,3982,0.0000,ETF,US large-cap equity
+2,0.975,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+2,0.975,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+2,0.975,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+2,0.975,HYG,0,3982,0.0000,ETF,High-yield corporate bond
+2,0.975,XLK,0,3982,0.0000,ETF,Technology sector equity
+2,0.975,XLP,0,3982,0.0000,ETF,Consumer-staples sector equity
+2,0.975,XLY,0,3982,0.0000,ETF,Consumer-discretionary sector equity
+2,0.975,XLI,0,3982,0.0000,ETF,Industrials sector equity
+3,0.975,TSLA,1502,3891,0.3860,Equity,Large-cap equity
+3,0.975,NVDA,792,3982,0.1989,Equity,Large-cap equity
+3,0.975,META,317,3414,0.0929,Equity,Large-cap equity
+3,0.975,BAC,272,3982,0.0683,Equity,Large-cap equity
+3,0.975,SLV,224,3982,0.0563,ETF,Silver
+3,0.975,AMZN,211,3982,0.0530,Equity,Large-cap equity
+3,0.975,AAPL,136,3982,0.0342,Equity,Large-cap equity
+3,0.975,XLE,58,3982,0.0146,ETF,Energy sector equity
+3,0.975,JPM,56,3982,0.0141,Equity,Large-cap equity
+3,0.975,XOM,54,3982,0.0136,Equity,Large-cap equity
+3,0.975,CVX,54,3982,0.0136,Equity,Large-cap equity
+3,0.975,MA,54,3982,0.0136,Equity,Large-cap equity
+3,0.975,WMT,53,3982,0.0133,Equity,Large-cap equity
+3,0.975,MSFT,50,3982,0.0126,Equity,Large-cap equity
+3,0.975,V,43,3982,0.0108,Equity,Large-cap equity
+3,0.975,JNJ,25,3982,0.0063,Equity,Large-cap equity
+3,0.975,EEM,15,3982,0.0038,ETF,Emerging-market equity
+3,0.975,PG,13,3982,0.0033,Equity,Large-cap equity
+3,0.975,IWM,12,3982,0.0030,ETF,US small-cap equity
+3,0.975,XLU,11,3982,0.0028,ETF,Utilities sector equity
+3,0.975,VNQ,9,3982,0.0023,ETF,Real-estate equity
+3,0.975,EFA,6,3982,0.0015,ETF,Developed ex-US equity
+3,0.975,XLV,5,3982,0.0013,ETF,Health-care sector equity
+3,0.975,GLD,4,3982,0.0010,ETF,Gold
+3,0.975,TLT,4,3982,0.0010,ETF,Long-duration US Treasury
+3,0.975,XLB,2,3982,0.0005,ETF,Materials sector equity
+3,0.975,SPY,0,3982,0.0000,ETF,US broad equity
+3,0.975,QQQ,0,3982,0.0000,ETF,US growth/technology equity
+3,0.975,DIA,0,3982,0.0000,ETF,US large-cap equity
+3,0.975,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+3,0.975,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+3,0.975,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+3,0.975,HYG,0,3982,0.0000,ETF,High-yield corporate bond
+3,0.975,XLF,0,3982,0.0000,ETF,Financial sector equity
+3,0.975,XLK,0,3982,0.0000,ETF,Technology sector equity
+3,0.975,XLP,0,3982,0.0000,ETF,Consumer-staples sector equity
+3,0.975,XLY,0,3982,0.0000,ETF,Consumer-discretionary sector equity
+3,0.975,XLI,0,3982,0.0000,ETF,Industrials sector equity
+5,0.975,TSLA,1776,3891,0.4564,Equity,Large-cap equity
+5,0.975,NVDA,836,3982,0.2099,Equity,Large-cap equity
+5,0.975,META,324,3414,0.0949,Equity,Large-cap equity
+5,0.975,BAC,239,3982,0.0600,Equity,Large-cap equity
+5,0.975,SLV,196,3982,0.0492,ETF,Silver
+5,0.975,AMZN,177,3982,0.0445,Equity,Large-cap equity
+5,0.975,AAPL,92,3982,0.0231,Equity,Large-cap equity
+5,0.975,XLE,60,3982,0.0151,ETF,Energy sector equity
+5,0.975,CVX,46,3982,0.0116,Equity,Large-cap equity
+5,0.975,WMT,44,3982,0.0110,Equity,Large-cap equity
+5,0.975,XOM,40,3982,0.0100,Equity,Large-cap equity
+5,0.975,V,32,3982,0.0080,Equity,Large-cap equity
+5,0.975,MA,32,3982,0.0080,Equity,Large-cap equity
+5,0.975,JPM,27,3982,0.0068,Equity,Large-cap equity
+5,0.975,MSFT,25,3982,0.0063,Equity,Large-cap equity
+5,0.975,JNJ,11,3982,0.0028,Equity,Large-cap equity
+5,0.975,EFA,6,3982,0.0015,ETF,Developed ex-US equity
+5,0.975,IWM,5,3982,0.0013,ETF,US small-cap equity
+5,0.975,XLU,5,3982,0.0013,ETF,Utilities sector equity
+5,0.975,EEM,4,3982,0.0010,ETF,Emerging-market equity
+5,0.975,VNQ,3,3982,0.0008,ETF,Real-estate equity
+5,0.975,TLT,1,3982,0.0003,ETF,Long-duration US Treasury
+5,0.975,XLB,1,3982,0.0003,ETF,Materials sector equity
+5,0.975,SPY,0,3982,0.0000,ETF,US broad equity
+5,0.975,QQQ,0,3982,0.0000,ETF,US growth/technology equity
+5,0.975,DIA,0,3982,0.0000,ETF,US large-cap equity
+5,0.975,GLD,0,3982,0.0000,ETF,Gold
+5,0.975,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+5,0.975,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+5,0.975,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+5,0.975,HYG,0,3982,0.0000,ETF,High-yield corporate bond
+5,0.975,XLF,0,3982,0.0000,ETF,Financial sector equity
+5,0.975,XLK,0,3982,0.0000,ETF,Technology sector equity
+5,0.975,XLV,0,3982,0.0000,ETF,Health-care sector equity
+5,0.975,XLP,0,3982,0.0000,ETF,Consumer-staples sector equity
+5,0.975,XLY,0,3982,0.0000,ETF,Consumer-discretionary sector equity
+5,0.975,XLI,0,3982,0.0000,ETF,Industrials sector equity
+5,0.975,PG,0,3982,0.0000,Equity,Large-cap equity
+10,0.975,TSLA,2097,3891,0.5389,Equity,Large-cap equity
+10,0.975,NVDA,844,3982,0.2120,Equity,Large-cap equity
+10,0.975,META,278,3414,0.0814,Equity,Large-cap equity
+10,0.975,BAC,210,3982,0.0527,Equity,Large-cap equity
+10,0.975,SLV,175,3982,0.0439,ETF,Silver
+10,0.975,AMZN,144,3982,0.0362,Equity,Large-cap equity
+10,0.975,AAPL,48,3982,0.0121,Equity,Large-cap equity
+10,0.975,XLE,40,3982,0.0100,ETF,Energy sector equity
+10,0.975,CVX,37,3982,0.0093,Equity,Large-cap equity
+10,0.975,XOM,25,3982,0.0063,Equity,Large-cap equity
+10,0.975,WMT,20,3982,0.0050,Equity,Large-cap equity
+10,0.975,V,18,3982,0.0045,Equity,Large-cap equity
+10,0.975,JPM,17,3982,0.0043,Equity,Large-cap equity
+10,0.975,MA,13,3982,0.0033,Equity,Large-cap equity
+10,0.975,MSFT,8,3982,0.0020,Equity,Large-cap equity
+10,0.975,XLU,3,3982,0.0008,ETF,Utilities sector equity
+10,0.975,EEM,2,3982,0.0005,ETF,Emerging-market equity
+10,0.975,IWM,1,3982,0.0003,ETF,US small-cap equity
+10,0.975,VNQ,1,3982,0.0003,ETF,Real-estate equity
+10,0.975,EFA,1,3982,0.0003,ETF,Developed ex-US equity
+10,0.975,SPY,0,3982,0.0000,ETF,US broad equity
+10,0.975,QQQ,0,3982,0.0000,ETF,US growth/technology equity
+10,0.975,DIA,0,3982,0.0000,ETF,US large-cap equity
+10,0.975,GLD,0,3982,0.0000,ETF,Gold
+10,0.975,TLT,0,3982,0.0000,ETF,Long-duration US Treasury
+10,0.975,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+10,0.975,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+10,0.975,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+10,0.975,HYG,0,3982,0.0000,ETF,High-yield corporate bond
+10,0.975,XLF,0,3982,0.0000,ETF,Financial sector equity
+10,0.975,XLK,0,3982,0.0000,ETF,Technology sector equity
+10,0.975,XLV,0,3982,0.0000,ETF,Health-care sector equity
+10,0.975,XLP,0,3982,0.0000,ETF,Consumer-staples sector equity
+10,0.975,XLY,0,3982,0.0000,ETF,Consumer-discretionary sector equity
+10,0.975,XLI,0,3982,0.0000,ETF,Industrials sector equity
+10,0.975,XLB,0,3982,0.0000,ETF,Materials sector equity
+10,0.975,JNJ,0,3982,0.0000,Equity,Large-cap equity
+10,0.975,PG,0,3982,0.0000,Equity,Large-cap equity
+1,0.950,TSLA,1568,3891,0.4030,Equity,Large-cap equity
+1,0.950,NVDA,1153,3982,0.2896,Equity,Large-cap equity
+1,0.950,META,624,3414,0.1828,Equity,Large-cap equity
+1,0.950,SLV,554,3982,0.1391,ETF,Silver
+1,0.950,BAC,540,3982,0.1356,Equity,Large-cap equity
+1,0.950,AMZN,511,3982,0.1283,Equity,Large-cap equity
+1,0.950,AAPL,396,3982,0.0994,Equity,Large-cap equity
+1,0.950,XLE,261,3982,0.0655,ETF,Energy sector equity
+1,0.950,JPM,255,3982,0.0640,Equity,Large-cap equity
+1,0.950,MA,247,3982,0.0620,Equity,Large-cap equity
+1,0.950,XOM,234,3982,0.0588,Equity,Large-cap equity
+1,0.950,CVX,222,3982,0.0558,Equity,Large-cap equity
+1,0.950,MSFT,197,3982,0.0495,Equity,Large-cap equity
+1,0.950,V,167,3982,0.0419,Equity,Large-cap equity
+1,0.950,WMT,153,3982,0.0384,Equity,Large-cap equity
+1,0.950,EEM,111,3982,0.0279,ETF,Emerging-market equity
+1,0.950,VNQ,106,3982,0.0266,ETF,Real-estate equity
+1,0.950,XLU,90,3982,0.0226,ETF,Utilities sector equity
+1,0.950,JNJ,89,3982,0.0224,Equity,Large-cap equity
+1,0.950,PG,88,3982,0.0221,Equity,Large-cap equity
+1,0.950,IWM,74,3982,0.0186,ETF,US small-cap equity
+1,0.950,GLD,73,3982,0.0183,ETF,Gold
+1,0.950,TLT,70,3982,0.0176,ETF,Long-duration US Treasury
+1,0.950,XLB,42,3982,0.0105,ETF,Materials sector equity
+1,0.950,XLV,33,3982,0.0083,ETF,Health-care sector equity
+1,0.950,EFA,29,3982,0.0073,ETF,Developed ex-US equity
+1,0.950,XLI,25,3982,0.0063,ETF,Industrials sector equity
+1,0.950,XLK,14,3982,0.0035,ETF,Technology sector equity
+1,0.950,XLY,14,3982,0.0035,ETF,Consumer-discretionary sector equity
+1,0.950,XLF,13,3982,0.0033,ETF,Financial sector equity
+1,0.950,XLP,9,3982,0.0023,ETF,Consumer-staples sector equity
+1,0.950,QQQ,1,3982,0.0003,ETF,US growth/technology equity
+1,0.950,HYG,1,3982,0.0003,ETF,High-yield corporate bond
+1,0.950,SPY,0,3982,0.0000,ETF,US broad equity
+1,0.950,DIA,0,3982,0.0000,ETF,US large-cap equity
+1,0.950,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+1,0.950,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+1,0.950,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+2,0.950,TSLA,1946,3891,0.5001,Equity,Large-cap equity
+2,0.950,NVDA,1403,3982,0.3523,Equity,Large-cap equity
+2,0.950,META,660,3414,0.1933,Equity,Large-cap equity
+2,0.950,BAC,563,3982,0.1414,Equity,Large-cap equity
+2,0.950,SLV,538,3982,0.1351,ETF,Silver
+2,0.950,AMZN,511,3982,0.1283,Equity,Large-cap equity
+2,0.950,AAPL,375,3982,0.0942,Equity,Large-cap equity
+2,0.950,JPM,219,3982,0.0550,Equity,Large-cap equity
+2,0.950,MA,211,3982,0.0530,Equity,Large-cap equity
+2,0.950,XLE,205,3982,0.0515,ETF,Energy sector equity
+2,0.950,XOM,187,3982,0.0470,Equity,Large-cap equity
+2,0.950,CVX,179,3982,0.0450,Equity,Large-cap equity
+2,0.950,MSFT,161,3982,0.0404,Equity,Large-cap equity
+2,0.950,V,138,3982,0.0347,Equity,Large-cap equity
+2,0.950,WMT,115,3982,0.0289,Equity,Large-cap equity
+2,0.950,EEM,89,3982,0.0224,ETF,Emerging-market equity
+2,0.950,JNJ,64,3982,0.0161,Equity,Large-cap equity
+2,0.950,PG,64,3982,0.0161,Equity,Large-cap equity
+2,0.950,VNQ,61,3982,0.0153,ETF,Real-estate equity
+2,0.950,XLU,51,3982,0.0128,ETF,Utilities sector equity
+2,0.950,IWM,47,3982,0.0118,ETF,US small-cap equity
+2,0.950,GLD,47,3982,0.0118,ETF,Gold
+2,0.950,TLT,34,3982,0.0085,ETF,Long-duration US Treasury
+2,0.950,XLB,22,3982,0.0055,ETF,Materials sector equity
+2,0.950,XLV,17,3982,0.0043,ETF,Health-care sector equity
+2,0.950,EFA,16,3982,0.0040,ETF,Developed ex-US equity
+2,0.950,XLY,11,3982,0.0028,ETF,Consumer-discretionary sector equity
+2,0.950,XLF,10,3982,0.0025,ETF,Financial sector equity
+2,0.950,XLI,9,3982,0.0023,ETF,Industrials sector equity
+2,0.950,XLK,7,3982,0.0018,ETF,Technology sector equity
+2,0.950,XLP,3,3982,0.0008,ETF,Consumer-staples sector equity
+2,0.950,QQQ,1,3982,0.0003,ETF,US growth/technology equity
+2,0.950,SPY,0,3982,0.0000,ETF,US broad equity
+2,0.950,DIA,0,3982,0.0000,ETF,US large-cap equity
+2,0.950,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+2,0.950,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+2,0.950,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+2,0.950,HYG,0,3982,0.0000,ETF,High-yield corporate bond
+3,0.950,TSLA,2199,3891,0.5652,Equity,Large-cap equity
+3,0.950,NVDA,1538,3982,0.3862,Equity,Large-cap equity
+3,0.950,META,691,3414,0.2024,Equity,Large-cap equity
+3,0.950,BAC,584,3982,0.1467,Equity,Large-cap equity
+3,0.950,SLV,532,3982,0.1336,ETF,Silver
+3,0.950,AMZN,491,3982,0.1233,Equity,Large-cap equity
+3,0.950,AAPL,340,3982,0.0854,Equity,Large-cap equity
+3,0.950,JPM,203,3982,0.0510,Equity,Large-cap equity
+3,0.950,MA,180,3982,0.0452,Equity,Large-cap equity
+3,0.950,XLE,176,3982,0.0442,ETF,Energy sector equity
+3,0.950,XOM,171,3982,0.0429,Equity,Large-cap equity
+3,0.950,CVX,143,3982,0.0359,Equity,Large-cap equity
+3,0.950,MSFT,137,3982,0.0344,Equity,Large-cap equity
+3,0.950,V,116,3982,0.0291,Equity,Large-cap equity
+3,0.950,WMT,108,3982,0.0271,Equity,Large-cap equity
+3,0.950,EEM,61,3982,0.0153,ETF,Emerging-market equity
+3,0.950,JNJ,53,3982,0.0133,Equity,Large-cap equity
+3,0.950,VNQ,42,3982,0.0105,ETF,Real-estate equity
+3,0.950,PG,35,3982,0.0088,Equity,Large-cap equity
+3,0.950,GLD,33,3982,0.0083,ETF,Gold
+3,0.950,XLU,30,3982,0.0075,ETF,Utilities sector equity
+3,0.950,IWM,29,3982,0.0073,ETF,US small-cap equity
+3,0.950,TLT,20,3982,0.0050,ETF,Long-duration US Treasury
+3,0.950,XLV,15,3982,0.0038,ETF,Health-care sector equity
+3,0.950,EFA,14,3982,0.0035,ETF,Developed ex-US equity
+3,0.950,XLB,9,3982,0.0023,ETF,Materials sector equity
+3,0.950,XLK,5,3982,0.0013,ETF,Technology sector equity
+3,0.950,XLY,4,3982,0.0010,ETF,Consumer-discretionary sector equity
+3,0.950,XLF,3,3982,0.0008,ETF,Financial sector equity
+3,0.950,XLP,1,3982,0.0003,ETF,Consumer-staples sector equity
+3,0.950,XLI,1,3982,0.0003,ETF,Industrials sector equity
+3,0.950,SPY,0,3982,0.0000,ETF,US broad equity
+3,0.950,QQQ,0,3982,0.0000,ETF,US growth/technology equity
+3,0.950,DIA,0,3982,0.0000,ETF,US large-cap equity
+3,0.950,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+3,0.950,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+3,0.950,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+3,0.950,HYG,0,3982,0.0000,ETF,High-yield corporate bond
+5,0.950,TSLA,2531,3891,0.6505,Equity,Large-cap equity
+5,0.950,NVDA,1731,3982,0.4347,Equity,Large-cap equity
+5,0.950,META,706,3414,0.2068,Equity,Large-cap equity
+5,0.950,BAC,577,3982,0.1449,Equity,Large-cap equity
+5,0.950,SLV,484,3982,0.1215,ETF,Silver
+5,0.950,AMZN,477,3982,0.1198,Equity,Large-cap equity
+5,0.950,AAPL,283,3982,0.0711,Equity,Large-cap equity
+5,0.950,JPM,157,3982,0.0394,Equity,Large-cap equity
+5,0.950,XLE,148,3982,0.0372,ETF,Energy sector equity
+5,0.950,XOM,140,3982,0.0352,Equity,Large-cap equity
+5,0.950,MA,139,3982,0.0349,Equity,Large-cap equity
+5,0.950,CVX,116,3982,0.0291,Equity,Large-cap equity
+5,0.950,WMT,95,3982,0.0239,Equity,Large-cap equity
+5,0.950,MSFT,94,3982,0.0236,Equity,Large-cap equity
+5,0.950,V,78,3982,0.0196,Equity,Large-cap equity
+5,0.950,EEM,43,3982,0.0108,ETF,Emerging-market equity
+5,0.950,JNJ,32,3982,0.0080,Equity,Large-cap equity
+5,0.950,IWM,24,3982,0.0060,ETF,US small-cap equity
+5,0.950,VNQ,21,3982,0.0053,ETF,Real-estate equity
+5,0.950,GLD,20,3982,0.0050,ETF,Gold
+5,0.950,PG,19,3982,0.0048,Equity,Large-cap equity
+5,0.950,XLU,15,3982,0.0038,ETF,Utilities sector equity
+5,0.950,XLV,9,3982,0.0023,ETF,Health-care sector equity
+5,0.950,TLT,8,3982,0.0020,ETF,Long-duration US Treasury
+5,0.950,EFA,7,3982,0.0018,ETF,Developed ex-US equity
+5,0.950,XLB,5,3982,0.0013,ETF,Materials sector equity
+5,0.950,XLK,3,3982,0.0008,ETF,Technology sector equity
+5,0.950,XLY,2,3982,0.0005,ETF,Consumer-discretionary sector equity
+5,0.950,SPY,0,3982,0.0000,ETF,US broad equity
+5,0.950,QQQ,0,3982,0.0000,ETF,US growth/technology equity
+5,0.950,DIA,0,3982,0.0000,ETF,US large-cap equity
+5,0.950,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+5,0.950,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+5,0.950,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+5,0.950,HYG,0,3982,0.0000,ETF,High-yield corporate bond
+5,0.950,XLF,0,3982,0.0000,ETF,Financial sector equity
+5,0.950,XLP,0,3982,0.0000,ETF,Consumer-staples sector equity
+5,0.950,XLI,0,3982,0.0000,ETF,Industrials sector equity
+10,0.950,TSLA,2924,3891,0.7515,Equity,Large-cap equity
+10,0.950,NVDA,2011,3982,0.5050,Equity,Large-cap equity
+10,0.950,META,722,3414,0.2115,Equity,Large-cap equity
+10,0.950,BAC,510,3982,0.1281,Equity,Large-cap equity
+10,0.950,SLV,443,3982,0.1113,ETF,Silver
+10,0.950,AMZN,428,3982,0.1075,Equity,Large-cap equity
+10,0.950,AAPL,176,3982,0.0442,Equity,Large-cap equity
+10,0.950,XLE,126,3982,0.0316,ETF,Energy sector equity
+10,0.950,JPM,119,3982,0.0299,Equity,Large-cap equity
+10,0.950,MA,101,3982,0.0254,Equity,Large-cap equity
+10,0.950,CVX,94,3982,0.0236,Equity,Large-cap equity
+10,0.950,XOM,85,3982,0.0213,Equity,Large-cap equity
+10,0.950,WMT,63,3982,0.0158,Equity,Large-cap equity
+10,0.950,V,57,3982,0.0143,Equity,Large-cap equity
+10,0.950,MSFT,48,3982,0.0121,Equity,Large-cap equity
+10,0.950,JNJ,12,3982,0.0030,Equity,Large-cap equity
+10,0.950,EEM,11,3982,0.0028,ETF,Emerging-market equity
+10,0.950,IWM,10,3982,0.0025,ETF,US small-cap equity
+10,0.950,VNQ,6,3982,0.0015,ETF,Real-estate equity
+10,0.950,PG,5,3982,0.0013,Equity,Large-cap equity
+10,0.950,GLD,4,3982,0.0010,ETF,Gold
+10,0.950,EFA,4,3982,0.0010,ETF,Developed ex-US equity
+10,0.950,XLU,3,3982,0.0008,ETF,Utilities sector equity
+10,0.950,TLT,1,3982,0.0003,ETF,Long-duration US Treasury
+10,0.950,XLB,1,3982,0.0003,ETF,Materials sector equity
+10,0.950,SPY,0,3982,0.0000,ETF,US broad equity
+10,0.950,QQQ,0,3982,0.0000,ETF,US growth/technology equity
+10,0.950,DIA,0,3982,0.0000,ETF,US large-cap equity
+10,0.950,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+10,0.950,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+10,0.950,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+10,0.950,HYG,0,3982,0.0000,ETF,High-yield corporate bond
+10,0.950,XLF,0,3982,0.0000,ETF,Financial sector equity
+10,0.950,XLK,0,3982,0.0000,ETF,Technology sector equity
+10,0.950,XLV,0,3982,0.0000,ETF,Health-care sector equity
+10,0.950,XLP,0,3982,0.0000,ETF,Consumer-staples sector equity
+10,0.950,XLY,0,3982,0.0000,ETF,Consumer-discretionary sector equity
+10,0.950,XLI,0,3982,0.0000,ETF,Industrials sector equity
+1,0.925,TSLA,1839,3891,0.4726,Equity,Large-cap equity
+1,0.925,NVDA,1482,3982,0.3722,Equity,Large-cap equity
+1,0.925,META,896,3414,0.2624,Equity,Large-cap equity
+1,0.925,BAC,802,3982,0.2014,Equity,Large-cap equity
+1,0.925,AMZN,796,3982,0.1999,Equity,Large-cap equity
+1,0.925,SLV,764,3982,0.1919,ETF,Silver
+1,0.925,AAPL,598,3982,0.1502,Equity,Large-cap equity
+1,0.925,JPM,453,3982,0.1138,Equity,Large-cap equity
+1,0.925,XLE,435,3982,0.1092,ETF,Energy sector equity
+1,0.925,MA,410,3982,0.1030,Equity,Large-cap equity
+1,0.925,CVX,396,3982,0.0994,Equity,Large-cap equity
+1,0.925,XOM,386,3982,0.0969,Equity,Large-cap equity
+1,0.925,MSFT,322,3982,0.0809,Equity,Large-cap equity
+1,0.925,V,309,3982,0.0776,Equity,Large-cap equity
+1,0.925,WMT,231,3982,0.0580,Equity,Large-cap equity
+1,0.925,EEM,221,3982,0.0555,ETF,Emerging-market equity
+1,0.925,VNQ,182,3982,0.0457,ETF,Real-estate equity
+1,0.925,GLD,169,3982,0.0424,ETF,Gold
+1,0.925,XLU,159,3982,0.0399,ETF,Utilities sector equity
+1,0.925,JNJ,159,3982,0.0399,Equity,Large-cap equity
+1,0.925,IWM,156,3982,0.0392,ETF,US small-cap equity
+1,0.925,PG,152,3982,0.0382,Equity,Large-cap equity
+1,0.925,TLT,128,3982,0.0321,ETF,Long-duration US Treasury
+1,0.925,XLB,119,3982,0.0299,ETF,Materials sector equity
+1,0.925,XLV,69,3982,0.0173,ETF,Health-care sector equity
+1,0.925,EFA,64,3982,0.0161,ETF,Developed ex-US equity
+1,0.925,XLF,59,3982,0.0148,ETF,Financial sector equity
+1,0.925,XLK,54,3982,0.0136,ETF,Technology sector equity
+1,0.925,XLY,54,3982,0.0136,ETF,Consumer-discretionary sector equity
+1,0.925,XLI,52,3982,0.0131,ETF,Industrials sector equity
+1,0.925,XLP,20,3982,0.0050,ETF,Consumer-staples sector equity
+1,0.925,QQQ,6,3982,0.0015,ETF,US growth/technology equity
+1,0.925,LQD,2,3982,0.0005,ETF,Investment-grade corporate bond
+1,0.925,HYG,2,3982,0.0005,ETF,High-yield corporate bond
+1,0.925,SPY,0,3982,0.0000,ETF,US broad equity
+1,0.925,DIA,0,3982,0.0000,ETF,US large-cap equity
+1,0.925,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+1,0.925,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+2,0.925,TSLA,2288,3891,0.5880,Equity,Large-cap equity
+2,0.925,NVDA,1784,3982,0.4480,Equity,Large-cap equity
+2,0.925,META,976,3414,0.2859,Equity,Large-cap equity
+2,0.925,BAC,842,3982,0.2115,Equity,Large-cap equity
+2,0.925,AMZN,838,3982,0.2104,Equity,Large-cap equity
+2,0.925,SLV,802,3982,0.2014,ETF,Silver
+2,0.925,AAPL,598,3982,0.1502,Equity,Large-cap equity
+2,0.925,JPM,399,3982,0.1002,Equity,Large-cap equity
+2,0.925,XLE,394,3982,0.0989,ETF,Energy sector equity
+2,0.925,MA,386,3982,0.0969,Equity,Large-cap equity
+2,0.925,XOM,353,3982,0.0886,Equity,Large-cap equity
+2,0.925,CVX,334,3982,0.0839,Equity,Large-cap equity
+2,0.925,MSFT,305,3982,0.0766,Equity,Large-cap equity
+2,0.925,V,264,3982,0.0663,Equity,Large-cap equity
+2,0.925,WMT,193,3982,0.0485,Equity,Large-cap equity
+2,0.925,EEM,166,3982,0.0417,ETF,Emerging-market equity
+2,0.925,JNJ,125,3982,0.0314,Equity,Large-cap equity
+2,0.925,VNQ,124,3982,0.0311,ETF,Real-estate equity
+2,0.925,XLU,108,3982,0.0271,ETF,Utilities sector equity
+2,0.925,PG,104,3982,0.0261,Equity,Large-cap equity
+2,0.925,IWM,103,3982,0.0259,ETF,US small-cap equity
+2,0.925,GLD,98,3982,0.0246,ETF,Gold
+2,0.925,TLT,77,3982,0.0193,ETF,Long-duration US Treasury
+2,0.925,XLB,67,3982,0.0168,ETF,Materials sector equity
+2,0.925,XLF,44,3982,0.0110,ETF,Financial sector equity
+2,0.925,XLK,39,3982,0.0098,ETF,Technology sector equity
+2,0.925,XLV,37,3982,0.0093,ETF,Health-care sector equity
+2,0.925,EFA,32,3982,0.0080,ETF,Developed ex-US equity
+2,0.925,XLY,31,3982,0.0078,ETF,Consumer-discretionary sector equity
+2,0.925,XLI,21,3982,0.0053,ETF,Industrials sector equity
+2,0.925,XLP,9,3982,0.0023,ETF,Consumer-staples sector equity
+2,0.925,QQQ,3,3982,0.0008,ETF,US growth/technology equity
+2,0.925,HYG,2,3982,0.0005,ETF,High-yield corporate bond
+2,0.925,SPY,0,3982,0.0000,ETF,US broad equity
+2,0.925,DIA,0,3982,0.0000,ETF,US large-cap equity
+2,0.925,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+2,0.925,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+2,0.925,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+3,0.925,TSLA,2577,3891,0.6623,Equity,Large-cap equity
+3,0.925,NVDA,2005,3982,0.5035,Equity,Large-cap equity
+3,0.925,META,1040,3414,0.3046,Equity,Large-cap equity
+3,0.925,BAC,906,3982,0.2275,Equity,Large-cap equity
+3,0.925,AMZN,839,3982,0.2107,Equity,Large-cap equity
+3,0.925,SLV,797,3982,0.2002,ETF,Silver
+3,0.925,AAPL,593,3982,0.1489,Equity,Large-cap equity
+3,0.925,JPM,387,3982,0.0972,Equity,Large-cap equity
+3,0.925,XLE,357,3982,0.0897,ETF,Energy sector equity
+3,0.925,MA,332,3982,0.0834,Equity,Large-cap equity
+3,0.925,XOM,314,3982,0.0789,Equity,Large-cap equity
+3,0.925,CVX,281,3982,0.0706,Equity,Large-cap equity
+3,0.925,MSFT,276,3982,0.0693,Equity,Large-cap equity
+3,0.925,V,227,3982,0.0570,Equity,Large-cap equity
+3,0.925,WMT,172,3982,0.0432,Equity,Large-cap equity
+3,0.925,EEM,134,3982,0.0337,ETF,Emerging-market equity
+3,0.925,VNQ,101,3982,0.0254,ETF,Real-estate equity
+3,0.925,JNJ,96,3982,0.0241,Equity,Large-cap equity
+3,0.925,PG,85,3982,0.0213,Equity,Large-cap equity
+3,0.925,IWM,80,3982,0.0201,ETF,US small-cap equity
+3,0.925,GLD,71,3982,0.0178,ETF,Gold
+3,0.925,XLU,66,3982,0.0166,ETF,Utilities sector equity
+3,0.925,TLT,49,3982,0.0123,ETF,Long-duration US Treasury
+3,0.925,XLF,32,3982,0.0080,ETF,Financial sector equity
+3,0.925,XLB,32,3982,0.0080,ETF,Materials sector equity
+3,0.925,EFA,26,3982,0.0065,ETF,Developed ex-US equity
+3,0.925,XLV,25,3982,0.0063,ETF,Health-care sector equity
+3,0.925,XLK,19,3982,0.0048,ETF,Technology sector equity
+3,0.925,XLY,12,3982,0.0030,ETF,Consumer-discretionary sector equity
+3,0.925,XLI,10,3982,0.0025,ETF,Industrials sector equity
+3,0.925,QQQ,2,3982,0.0005,ETF,US growth/technology equity
+3,0.925,XLP,2,3982,0.0005,ETF,Consumer-staples sector equity
+3,0.925,HYG,1,3982,0.0003,ETF,High-yield corporate bond
+3,0.925,SPY,0,3982,0.0000,ETF,US broad equity
+3,0.925,DIA,0,3982,0.0000,ETF,US large-cap equity
+3,0.925,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+3,0.925,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+3,0.925,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+5,0.925,TSLA,2875,3891,0.7389,Equity,Large-cap equity
+5,0.925,NVDA,2217,3982,0.5568,Equity,Large-cap equity
+5,0.925,META,1145,3414,0.3354,Equity,Large-cap equity
+5,0.925,BAC,925,3982,0.2323,Equity,Large-cap equity
+5,0.925,AMZN,887,3982,0.2228,Equity,Large-cap equity
+5,0.925,SLV,809,3982,0.2032,ETF,Silver
+5,0.925,AAPL,595,3982,0.1494,Equity,Large-cap equity
+5,0.925,JPM,334,3982,0.0839,Equity,Large-cap equity
+5,0.925,XLE,317,3982,0.0796,ETF,Energy sector equity
+5,0.925,MA,304,3982,0.0763,Equity,Large-cap equity
+5,0.925,XOM,283,3982,0.0711,Equity,Large-cap equity
+5,0.925,CVX,230,3982,0.0578,Equity,Large-cap equity
+5,0.925,MSFT,192,3982,0.0482,Equity,Large-cap equity
+5,0.925,V,168,3982,0.0422,Equity,Large-cap equity
+5,0.925,WMT,145,3982,0.0364,Equity,Large-cap equity
+5,0.925,EEM,98,3982,0.0246,ETF,Emerging-market equity
+5,0.925,JNJ,64,3982,0.0161,Equity,Large-cap equity
+5,0.925,VNQ,61,3982,0.0153,ETF,Real-estate equity
+5,0.925,GLD,52,3982,0.0131,ETF,Gold
+5,0.925,IWM,50,3982,0.0126,ETF,US small-cap equity
+5,0.925,PG,50,3982,0.0126,Equity,Large-cap equity
+5,0.925,XLU,35,3982,0.0088,ETF,Utilities sector equity
+5,0.925,TLT,21,3982,0.0053,ETF,Long-duration US Treasury
+5,0.925,XLV,19,3982,0.0048,ETF,Health-care sector equity
+5,0.925,EFA,18,3982,0.0045,ETF,Developed ex-US equity
+5,0.925,XLB,17,3982,0.0043,ETF,Materials sector equity
+5,0.925,XLF,16,3982,0.0040,ETF,Financial sector equity
+5,0.925,XLK,13,3982,0.0033,ETF,Technology sector equity
+5,0.925,XLY,6,3982,0.0015,ETF,Consumer-discretionary sector equity
+5,0.925,SPY,0,3982,0.0000,ETF,US broad equity
+5,0.925,QQQ,0,3982,0.0000,ETF,US growth/technology equity
+5,0.925,DIA,0,3982,0.0000,ETF,US large-cap equity
+5,0.925,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+5,0.925,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+5,0.925,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+5,0.925,HYG,0,3982,0.0000,ETF,High-yield corporate bond
+5,0.925,XLP,0,3982,0.0000,ETF,Consumer-staples sector equity
+5,0.925,XLI,0,3982,0.0000,ETF,Industrials sector equity
+10,0.925,TSLA,3230,3891,0.8301,Equity,Large-cap equity
+10,0.925,NVDA,2544,3982,0.6389,Equity,Large-cap equity
+10,0.925,META,1286,3414,0.3767,Equity,Large-cap equity
+10,0.925,AMZN,959,3982,0.2408,Equity,Large-cap equity
+10,0.925,BAC,946,3982,0.2376,Equity,Large-cap equity
+10,0.925,SLV,765,3982,0.1921,ETF,Silver
+10,0.925,AAPL,498,3982,0.1251,Equity,Large-cap equity
+10,0.925,XLE,294,3982,0.0738,ETF,Energy sector equity
+10,0.925,JPM,245,3982,0.0615,Equity,Large-cap equity
+10,0.925,MA,233,3982,0.0585,Equity,Large-cap equity
+10,0.925,XOM,201,3982,0.0505,Equity,Large-cap equity
+10,0.925,CVX,170,3982,0.0427,Equity,Large-cap equity
+10,0.925,MSFT,126,3982,0.0316,Equity,Large-cap equity
+10,0.925,V,122,3982,0.0306,Equity,Large-cap equity
+10,0.925,WMT,114,3982,0.0286,Equity,Large-cap equity
+10,0.925,EEM,39,3982,0.0098,ETF,Emerging-market equity
+10,0.925,JNJ,35,3982,0.0088,Equity,Large-cap equity
+10,0.925,GLD,32,3982,0.0080,ETF,Gold
+10,0.925,IWM,29,3982,0.0073,ETF,US small-cap equity
+10,0.925,VNQ,20,3982,0.0050,ETF,Real-estate equity
+10,0.925,EFA,17,3982,0.0043,ETF,Developed ex-US equity
+10,0.925,XLK,11,3982,0.0028,ETF,Technology sector equity
+10,0.925,XLU,10,3982,0.0025,ETF,Utilities sector equity
+10,0.925,PG,9,3982,0.0023,Equity,Large-cap equity
+10,0.925,TLT,5,3982,0.0013,ETF,Long-duration US Treasury
+10,0.925,XLF,2,3982,0.0005,ETF,Financial sector equity
+10,0.925,XLV,2,3982,0.0005,ETF,Health-care sector equity
+10,0.925,XLB,2,3982,0.0005,ETF,Materials sector equity
+10,0.925,SPY,0,3982,0.0000,ETF,US broad equity
+10,0.925,QQQ,0,3982,0.0000,ETF,US growth/technology equity
+10,0.925,DIA,0,3982,0.0000,ETF,US large-cap equity
+10,0.925,IEF,0,3982,0.0000,ETF,Intermediate US Treasury
+10,0.925,SHY,0,3982,0.0000,ETF,Short-duration US Treasury
+10,0.925,LQD,0,3982,0.0000,ETF,Investment-grade corporate bond
+10,0.925,HYG,0,3982,0.0000,ETF,High-yield corporate bond
+10,0.925,XLP,0,3982,0.0000,ETF,Consumer-staples sector equity
+10,0.925,XLY,0,3982,0.0000,ETF,Consumer-discretionary sector equity
+10,0.925,XLI,0,3982,0.0000,ETF,Industrials sector equity

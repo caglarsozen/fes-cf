@@ -1,0 +1,17 @@
+* text=auto
+
+# Preserve the byte identity of the archived scientific evidence on every OS.
+/analysis/** -text
+/tests/** -text
+/results/** -text
+/figures/** -text
+/docs/validation/** -text
+
+*.png binary
+*.pdf binary
+*.R text eol=lf
+/analysis/FES_CF_V3_2_0_FULL.R -text
+/tests/FES_CF_V3_2_0_SELF_TEST.R -text
+*.md text eol=lf
+*.yml text eol=lf
+*.cff text eol=lf

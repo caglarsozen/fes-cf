@@ -1,0 +1,9 @@
+scheme,benchmark,proposed,nw lag,mean diff,DM,p two sided,p one sided favors prop,p holm two sided,p holm one sided
+main_holdout,Naive completed surface,FES-CF full,10,0.000790,3.872995,0.000108,0.000054,0.000860,0.000430
+main_holdout,Bottom-up asset HAR,FES-CF full,10,0.000221,3.732555,0.000190,0.000095,0.001327,0.000663
+main_holdout,Rolling mean completed surface,FES-CF full,10,0.000229,1.396394,0.162596,0.081298,0.975575,0.487787
+main_holdout,FPCA-X ridge,FES-CF full,10,0.000031,1.175099,0.239955,0.119977,0.975575,0.487787
+main_holdout,Functional HAR-X ridge,FES-CF full,10,0.000031,1.181384,0.237450,0.118725,0.975575,0.487787
+main_holdout,Graph Functional HAR-X ridge,FES-CF full,10,0.000037,1.323441,0.185689,0.092844,0.975575,0.487787
+main_holdout,Cell-by-cell HAR-X ridge,FES-CF full,10,0.000039,0.870130,0.384230,0.192115,0.975575,0.487787
+main_holdout,Equal-weight anchor combination,FES-CF full,10,-0.000021,-0.596453,0.550873,0.724564,0.975575,0.724564

@@ -1,0 +1,169 @@
+scheme,benchmark,proposed,block length,reps,mean,lower,upper,p one sided gt0
+main_holdout,Naive completed surface,FES-CF full,10,999,0.000790,0.000425,0.001190,0.000000
+main_holdout,Rolling mean completed surface,FES-CF full,10,999,0.000229,-0.000090,0.000516,0.089089
+main_holdout,FPCA-X ridge,FES-CF full,10,999,0.000031,-0.000014,0.000087,0.097097
+main_holdout,Functional HAR-X ridge,FES-CF full,10,999,0.000031,-0.000013,0.000084,0.085085
+main_holdout,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000037,-0.000014,0.000092,0.068068
+main_holdout,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000039,-0.000035,0.000146,0.146146
+main_holdout,Bottom-up asset HAR,FES-CF full,10,999,0.000221,0.000111,0.000343,0.000000
+main_holdout,Equal-weight anchor combination,FES-CF full,10,999,-0.000021,-0.000092,0.000042,0.766767
+rolling_01,Naive completed surface,FES-CF full,10,999,-0.000046,-0.000468,0.000389,0.593594
+rolling_01,Rolling mean completed surface,FES-CF full,10,999,-0.000103,-0.000526,0.000274,0.783784
+rolling_01,FPCA-X ridge,FES-CF full,10,999,0.001306,0.000834,0.001947,0.000000
+rolling_01,Functional HAR-X ridge,FES-CF full,10,999,0.001306,0.000858,0.001950,0.000000
+rolling_01,Graph Functional HAR-X ridge,FES-CF full,10,999,0.001282,0.000823,0.001916,0.000000
+rolling_01,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.001505,0.000975,0.002198,0.000000
+rolling_01,Bottom-up asset HAR,FES-CF full,10,999,0.000035,-0.000172,0.000241,0.435435
+rolling_01,Equal-weight anchor combination,FES-CF full,10,999,0.000207,0.000114,0.000351,0.000000
+rolling_02,Naive completed surface,FES-CF full,10,999,0.000371,-0.000300,0.000585,0.226226
+rolling_02,Rolling mean completed surface,FES-CF full,10,999,0.000134,-0.000371,0.000898,0.300300
+rolling_02,FPCA-X ridge,FES-CF full,10,999,0.000172,-0.000204,0.000635,0.155155
+rolling_02,Functional HAR-X ridge,FES-CF full,10,999,0.000172,-0.000242,0.000656,0.160160
+rolling_02,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000162,-0.000269,0.000619,0.189189
+rolling_02,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000220,-0.000273,0.000756,0.159159
+rolling_02,Bottom-up asset HAR,FES-CF full,10,999,0.000061,-0.000187,0.000337,0.389389
+rolling_02,Equal-weight anchor combination,FES-CF full,10,999,-0.000137,-0.000472,0.000233,0.711712
+rolling_03,Naive completed surface,FES-CF full,10,999,0.000040,-0.000464,0.000634,0.396396
+rolling_03,Rolling mean completed surface,FES-CF full,10,999,0.000310,-0.000006,0.000691,0.029029
+rolling_03,FPCA-X ridge,FES-CF full,10,999,0.000004,-0.000339,0.000428,0.374374
+rolling_03,Functional HAR-X ridge,FES-CF full,10,999,0.000004,-0.000362,0.000420,0.395395
+rolling_03,Graph Functional HAR-X ridge,FES-CF full,10,999,-0.000009,-0.000435,0.000393,0.415415
+rolling_03,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000008,-0.000540,0.000539,0.417417
+rolling_03,Bottom-up asset HAR,FES-CF full,10,999,-0.000584,-0.000886,-0.000169,1.000000
+rolling_03,Equal-weight anchor combination,FES-CF full,10,999,-0.000125,-0.000350,0.000170,0.727728
+rolling_04,Naive completed surface,FES-CF full,10,999,0.000503,0.000092,0.001270,0.002002
+rolling_04,Rolling mean completed surface,FES-CF full,10,999,0.000010,-0.000206,0.000182,0.457457
+rolling_04,FPCA-X ridge,FES-CF full,10,999,-0.000115,-0.000665,0.000243,0.746747
+rolling_04,Functional HAR-X ridge,FES-CF full,10,999,-0.000115,-0.000658,0.000227,0.755756
+rolling_04,Graph Functional HAR-X ridge,FES-CF full,10,999,-0.000111,-0.000718,0.000258,0.718719
+rolling_04,Cell-by-cell HAR-X ridge,FES-CF full,10,999,-0.000062,-0.000844,0.000436,0.638639
+rolling_04,Bottom-up asset HAR,FES-CF full,10,999,-0.000339,-0.000700,-0.000093,0.998999
+rolling_04,Equal-weight anchor combination,FES-CF full,10,999,-0.000146,-0.000510,0.000074,0.886887
+rolling_05,Naive completed surface,FES-CF full,10,999,0.000513,0.000352,0.000749,0.000000
+rolling_05,Rolling mean completed surface,FES-CF full,10,999,0.000032,-0.000042,0.000115,0.181181
+rolling_05,FPCA-X ridge,FES-CF full,10,999,0.000218,0.000008,0.000405,0.020020
+rolling_05,Functional HAR-X ridge,FES-CF full,10,999,0.000218,0.000018,0.000384,0.017017
+rolling_05,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000205,0.000006,0.000372,0.021021
+rolling_05,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000453,0.000120,0.000755,0.004004
+rolling_05,Bottom-up asset HAR,FES-CF full,10,999,0.000006,-0.000081,0.000125,0.344344
+rolling_05,Equal-weight anchor combination,FES-CF full,10,999,0.000070,-0.000042,0.000165,0.096096
+rolling_06,Naive completed surface,FES-CF full,10,999,0.000148,-0.000025,0.000335,0.047047
+rolling_06,Rolling mean completed surface,FES-CF full,10,999,-0.000212,-0.000396,-0.000034,0.994995
+rolling_06,FPCA-X ridge,FES-CF full,10,999,0.000167,0.000077,0.000256,0.000000
+rolling_06,Functional HAR-X ridge,FES-CF full,10,999,0.000166,0.000076,0.000255,0.000000
+rolling_06,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000146,0.000063,0.000224,0.000000
+rolling_06,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000577,0.000349,0.000800,0.000000
+rolling_06,Bottom-up asset HAR,FES-CF full,10,999,-0.000196,-0.000395,-0.000020,0.983984
+rolling_06,Equal-weight anchor combination,FES-CF full,10,999,-0.000058,-0.000096,-0.000030,1.000000
+rolling_07,Naive completed surface,FES-CF full,10,999,0.001095,0.000515,0.001905,0.000000
+rolling_07,Rolling mean completed surface,FES-CF full,10,999,0.001006,0.000532,0.001666,0.000000
+rolling_07,FPCA-X ridge,FES-CF full,10,999,-0.000016,-0.000140,0.000122,0.631632
+rolling_07,Functional HAR-X ridge,FES-CF full,10,999,-0.000016,-0.000149,0.000109,0.647648
+rolling_07,Graph Functional HAR-X ridge,FES-CF full,10,999,-0.000034,-0.000137,0.000067,0.774775
+rolling_07,Cell-by-cell HAR-X ridge,FES-CF full,10,999,-0.000008,-0.000164,0.000155,0.595596
+rolling_07,Bottom-up asset HAR,FES-CF full,10,999,0.000393,0.000033,0.000868,0.019019
+rolling_07,Equal-weight anchor combination,FES-CF full,10,999,0.000124,0.000028,0.000243,0.008008
+rolling_08,Naive completed surface,FES-CF full,10,999,0.000564,-0.000569,0.001459,0.141141
+rolling_08,Rolling mean completed surface,FES-CF full,10,999,-0.000288,-0.000702,0.000198,0.814815
+rolling_08,FPCA-X ridge,FES-CF full,10,999,0.001252,0.000313,0.002112,0.001001
+rolling_08,Functional HAR-X ridge,FES-CF full,10,999,0.001251,0.000343,0.002088,0.001001
+rolling_08,Graph Functional HAR-X ridge,FES-CF full,10,999,0.001222,0.000290,0.002133,0.006006
+rolling_08,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.001359,0.000306,0.002271,0.002002
+rolling_08,Bottom-up asset HAR,FES-CF full,10,999,0.000655,0.000303,0.001038,0.000000
+rolling_08,Equal-weight anchor combination,FES-CF full,10,999,0.000088,-0.000291,0.000406,0.396396
+rolling_09,Naive completed surface,FES-CF full,10,999,0.001026,0.000362,0.001675,0.000000
+rolling_09,Rolling mean completed surface,FES-CF full,10,999,0.000483,0.000084,0.000929,0.003003
+rolling_09,FPCA-X ridge,FES-CF full,10,999,0.000036,-0.000375,0.000452,0.478478
+rolling_09,Functional HAR-X ridge,FES-CF full,10,999,0.000036,-0.000350,0.000454,0.510511
+rolling_09,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000032,-0.000405,0.000489,0.509510
+rolling_09,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000097,-0.000373,0.000606,0.414414
+rolling_09,Bottom-up asset HAR,FES-CF full,10,999,0.000070,-0.000299,0.000397,0.339339
+rolling_09,Equal-weight anchor combination,FES-CF full,10,999,-0.000011,-0.000172,0.000164,0.585586
+rolling_10,Naive completed surface,FES-CF full,10,999,0.000404,0.000139,0.000782,0.003003
+rolling_10,Rolling mean completed surface,FES-CF full,10,999,0.000340,0.000158,0.000538,0.000000
+rolling_10,FPCA-X ridge,FES-CF full,10,999,-0.000013,-0.000067,0.000032,0.759760
+rolling_10,Functional HAR-X ridge,FES-CF full,10,999,-0.000013,-0.000065,0.000030,0.768769
+rolling_10,Graph Functional HAR-X ridge,FES-CF full,10,999,-0.000015,-0.000069,0.000028,0.788789
+rolling_10,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000004,-0.000065,0.000054,0.532533
+rolling_10,Bottom-up asset HAR,FES-CF full,10,999,0.000084,-0.000057,0.000270,0.108108
+rolling_10,Equal-weight anchor combination,FES-CF full,10,999,0.000030,-0.000046,0.000106,0.220220
+rolling_11,Naive completed surface,FES-CF full,10,999,-0.007343,-0.023007,0.002538,0.890891
+rolling_11,Rolling mean completed surface,FES-CF full,10,999,0.001034,-0.005921,0.009342,0.359359
+rolling_11,FPCA-X ridge,FES-CF full,10,999,0.007487,0.002429,0.014868,0.000000
+rolling_11,Functional HAR-X ridge,FES-CF full,10,999,0.007482,0.002710,0.014735,0.000000
+rolling_11,Graph Functional HAR-X ridge,FES-CF full,10,999,0.006847,0.002161,0.014110,0.000000
+rolling_11,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.004684,0.001452,0.009877,0.000000
+rolling_11,Bottom-up asset HAR,FES-CF full,10,999,-0.005306,-0.012120,-0.001327,1.000000
+rolling_11,Equal-weight anchor combination,FES-CF full,10,999,-0.002962,-0.005390,-0.001222,1.000000
+rolling_12,Naive completed surface,FES-CF full,10,999,0.000931,-0.000204,0.002391,0.063063
+rolling_12,Rolling mean completed surface,FES-CF full,10,999,-0.000055,-0.001152,0.001365,0.486486
+rolling_12,FPCA-X ridge,FES-CF full,10,999,0.003058,0.001670,0.004243,0.000000
+rolling_12,Functional HAR-X ridge,FES-CF full,10,999,0.003057,0.001744,0.004276,0.000000
+rolling_12,Graph Functional HAR-X ridge,FES-CF full,10,999,0.003106,0.001606,0.004375,0.000000
+rolling_12,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.002811,0.001429,0.004180,0.000000
+rolling_12,Bottom-up asset HAR,FES-CF full,10,999,0.000916,-0.000018,0.001680,0.028028
+rolling_12,Equal-weight anchor combination,FES-CF full,10,999,0.000634,0.000061,0.001153,0.011011
+rolling_13,Naive completed surface,FES-CF full,10,999,0.000642,-0.000040,0.001331,0.032032
+rolling_13,Rolling mean completed surface,FES-CF full,10,999,0.000525,-0.000199,0.001312,0.073073
+rolling_13,FPCA-X ridge,FES-CF full,10,999,0.000506,0.000067,0.000882,0.008008
+rolling_13,Functional HAR-X ridge,FES-CF full,10,999,0.000506,0.000072,0.000861,0.005005
+rolling_13,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000485,0.000062,0.000890,0.013013
+rolling_13,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000396,0.000007,0.000772,0.021021
+rolling_13,Bottom-up asset HAR,FES-CF full,10,999,-0.000012,-0.000243,0.000102,0.776777
+rolling_13,Equal-weight anchor combination,FES-CF full,10,999,-0.000046,-0.000199,0.000096,0.746747
+rolling_14,Naive completed surface,FES-CF full,10,999,0.000247,0.000151,0.000473,0.000000
+rolling_14,Rolling mean completed surface,FES-CF full,10,999,-0.000038,-0.000148,0.000064,0.810811
+rolling_14,FPCA-X ridge,FES-CF full,10,999,-0.000016,-0.000314,0.000269,0.397397
+rolling_14,Functional HAR-X ridge,FES-CF full,10,999,-0.000016,-0.000292,0.000264,0.371371
+rolling_14,Graph Functional HAR-X ridge,FES-CF full,10,999,-0.000014,-0.000277,0.000281,0.377377
+rolling_14,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000101,-0.000197,0.000432,0.174174
+rolling_14,Bottom-up asset HAR,FES-CF full,10,999,0.000196,0.000014,0.000401,0.015015
+rolling_14,Equal-weight anchor combination,FES-CF full,10,999,-0.000083,-0.000294,0.000109,0.618619
+rolling_15,Naive completed surface,FES-CF full,10,999,0.000695,0.000355,0.001316,0.000000
+rolling_15,Rolling mean completed surface,FES-CF full,10,999,0.000355,-0.000237,0.000874,0.186186
+rolling_15,FPCA-X ridge,FES-CF full,10,999,0.000842,0.000049,0.001581,0.014014
+rolling_15,Functional HAR-X ridge,FES-CF full,10,999,0.000842,0.000068,0.001538,0.014014
+rolling_15,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000865,0.000063,0.001527,0.015015
+rolling_15,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000337,-0.000251,0.000767,0.225225
+rolling_15,Bottom-up asset HAR,FES-CF full,10,999,0.000524,-0.000006,0.001003,0.027027
+rolling_15,Equal-weight anchor combination,FES-CF full,10,999,0.000372,-0.000214,0.000937,0.168168
+rolling_16,Naive completed surface,FES-CF full,10,999,0.000578,0.000379,0.000819,0.000000
+rolling_16,Rolling mean completed surface,FES-CF full,10,999,0.000209,-0.000327,0.000597,0.381381
+rolling_16,FPCA-X ridge,FES-CF full,10,999,0.000432,-0.000430,0.001007,0.250250
+rolling_16,Functional HAR-X ridge,FES-CF full,10,999,0.000432,-0.000431,0.001102,0.269269
+rolling_16,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000469,-0.000432,0.001179,0.236236
+rolling_16,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000197,-0.000566,0.000820,0.468468
+rolling_16,Bottom-up asset HAR,FES-CF full,10,999,0.000106,-0.000510,0.000658,0.431431
+rolling_16,Equal-weight anchor combination,FES-CF full,10,999,-0.000082,-0.000520,0.000176,0.862863
+rolling_17,Naive completed surface,FES-CF full,10,999,0.001116,0.000569,0.001960,0.000000
+rolling_17,Rolling mean completed surface,FES-CF full,10,999,0.000292,-0.000355,0.000960,0.197197
+rolling_17,FPCA-X ridge,FES-CF full,10,999,0.000198,-0.000138,0.000445,0.176176
+rolling_17,Functional HAR-X ridge,FES-CF full,10,999,0.000198,-0.000154,0.000434,0.171171
+rolling_17,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000220,-0.000136,0.000509,0.151151
+rolling_17,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000111,-0.000220,0.000380,0.315315
+rolling_17,Bottom-up asset HAR,FES-CF full,10,999,0.000647,0.000063,0.001328,0.015015
+rolling_17,Equal-weight anchor combination,FES-CF full,10,999,-0.000007,-0.000176,0.000091,0.729730
+rolling_18,Naive completed surface,FES-CF full,10,999,0.000580,0.000282,0.000988,0.000000
+rolling_18,Rolling mean completed surface,FES-CF full,10,999,0.000011,-0.000076,0.000100,0.399399
+rolling_18,FPCA-X ridge,FES-CF full,10,999,0.000271,0.000073,0.000447,0.002002
+rolling_18,Functional HAR-X ridge,FES-CF full,10,999,0.000270,0.000076,0.000438,0.004004
+rolling_18,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000284,0.000080,0.000458,0.006006
+rolling_18,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000183,0.000036,0.000308,0.011011
+rolling_18,Bottom-up asset HAR,FES-CF full,10,999,0.000069,-0.000097,0.000194,0.295295
+rolling_18,Equal-weight anchor combination,FES-CF full,10,999,0.000108,0.000029,0.000187,0.004004
+rolling_19,Naive completed surface,FES-CF full,10,999,0.000304,-0.000045,0.000662,0.040040
+rolling_19,Rolling mean completed surface,FES-CF full,10,999,0.000038,-0.000157,0.000291,0.403403
+rolling_19,FPCA-X ridge,FES-CF full,10,999,0.000604,0.000184,0.001051,0.001001
+rolling_19,Functional HAR-X ridge,FES-CF full,10,999,0.000690,0.000194,0.001190,0.001001
+rolling_19,Graph Functional HAR-X ridge,FES-CF full,10,999,0.000632,0.000165,0.001098,0.006006
+rolling_19,Cell-by-cell HAR-X ridge,FES-CF full,10,999,0.000181,-0.000131,0.000461,0.129129
+rolling_19,Bottom-up asset HAR,FES-CF full,10,999,-0.000164,-0.000390,0.000011,0.962963
+rolling_19,Equal-weight anchor combination,FES-CF full,10,999,0.000138,-0.000055,0.000326,0.074074
+rolling_20,Naive completed surface,FES-CF full,10,999,0.000795,0.000306,0.001387,0.000000
+rolling_20,Rolling mean completed surface,FES-CF full,10,999,0.000327,0.000082,0.000679,0.001001
+rolling_20,FPCA-X ridge,FES-CF full,10,999,-0.000082,-0.000403,0.000142,0.769770
+rolling_20,Functional HAR-X ridge,FES-CF full,10,999,-0.000081,-0.000396,0.000165,0.767768
+rolling_20,Graph Functional HAR-X ridge,FES-CF full,10,999,-0.000090,-0.000428,0.000133,0.799800
+rolling_20,Cell-by-cell HAR-X ridge,FES-CF full,10,999,-0.000045,-0.000431,0.000192,0.705706
+rolling_20,Bottom-up asset HAR,FES-CF full,10,999,0.000119,-0.000239,0.000639,0.206206
+rolling_20,Equal-weight anchor combination,FES-CF full,10,999,-0.000129,-0.000304,-0.000007,0.982983

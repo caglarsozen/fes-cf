@@ -1,0 +1,9 @@
+Component,Weighted RMSE x100,RMSE x100,MAE x100
+Selected anchor + global correction,3.674,2.985,1.710
+Selected anchor + state correction,3.750,3.043,1.722
+"Blend + state correction, no final projection",3.750,3.043,1.722
+FES-CF full,3.750,3.043,1.722
+FES-CF top3 sensitivity,3.750,3.043,1.722
+Selected anchor raw,3.791,3.070,1.711
+Selected anchor + projection,3.791,3.070,1.711
+Selected anchor + top2 blend,3.791,3.070,1.711

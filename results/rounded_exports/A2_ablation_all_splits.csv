@@ -1,0 +1,169 @@
+Scheme,Variant,RMSE x100,MAE x100,Weighted RMSE x100,Terminal RMSE x100,High-tail RMSE x100
+main holdout,Selected anchor + global correction,2.985,1.710,3.674,5.081,4.086
+main holdout,Selected anchor + state correction,3.043,1.722,3.750,5.185,4.175
+main holdout,"Blend + state correction, no final projection",3.043,1.722,3.750,5.185,4.175
+main holdout,FES-CF full,3.043,1.722,3.750,5.185,4.175
+main holdout,FES-CF top3 sensitivity,3.043,1.722,3.750,5.185,4.175
+main holdout,Selected anchor raw,3.070,1.711,3.791,5.246,4.229
+main holdout,Selected anchor + projection,3.070,1.711,3.791,5.246,4.229
+main holdout,Selected anchor + top2 blend,3.070,1.711,3.791,5.246,4.229
+rolling 01,Selected anchor + state correction,2.605,1.569,2.977,4.415,2.979
+rolling 01,Selected anchor + global correction,2.624,1.575,3.041,4.513,3.093
+rolling 01,Selected anchor raw,2.711,1.603,3.120,4.682,3.111
+rolling 01,Selected anchor + projection,2.711,1.603,3.120,4.682,3.111
+rolling 01,"Blend + state correction, no final projection",2.796,1.740,3.280,4.830,3.375
+rolling 01,FES-CF full,2.796,1.740,3.280,4.830,3.375
+rolling 01,FES-CF top3 sensitivity,2.796,1.740,3.280,4.830,3.375
+rolling 01,Selected anchor + top2 blend,2.860,1.787,3.371,4.963,3.486
+rolling 02,Selected anchor + global correction,3.003,2.023,3.675,5.317,3.959
+rolling 02,Selected anchor + top2 blend,3.049,2.010,3.714,5.381,3.978
+rolling 02,Selected anchor + state correction,3.064,2.060,3.761,5.437,4.069
+rolling 02,"Blend + state correction, no final projection",3.043,2.032,3.765,5.390,4.126
+rolling 02,FES-CF full,3.043,2.032,3.765,5.390,4.126
+rolling 02,FES-CF top3 sensitivity,3.046,2.034,3.772,5.398,4.138
+rolling 02,Selected anchor raw,3.219,2.115,3.939,5.776,4.205
+rolling 02,Selected anchor + projection,3.219,2.115,3.939,5.776,4.205
+rolling 03,FES-CF top3 sensitivity,2.951,1.884,3.558,5.193,3.742
+rolling 03,Selected anchor + top2 blend,3.024,1.915,3.624,5.347,3.755
+rolling 03,"Blend + state correction, no final projection",3.017,1.924,3.629,5.322,3.796
+rolling 03,FES-CF full,3.017,1.924,3.629,5.322,3.796
+rolling 03,Selected anchor + global correction,3.152,2.046,3.778,5.576,3.924
+rolling 03,Selected anchor + state correction,3.282,2.119,3.948,5.807,4.129
+rolling 03,Selected anchor raw,3.361,2.148,4.034,5.984,4.172
+rolling 03,Selected anchor + projection,3.361,2.148,4.034,5.984,4.172
+rolling 04,Selected anchor + global correction,2.787,1.573,3.485,4.697,3.997
+rolling 04,FES-CF top3 sensitivity,2.779,1.514,3.519,4.752,4.074
+rolling 04,Selected anchor + state correction,2.816,1.581,3.520,4.739,4.039
+rolling 04,"Blend + state correction, no final projection",2.803,1.522,3.552,4.798,4.113
+rolling 04,FES-CF full,2.803,1.522,3.552,4.798,4.113
+rolling 04,Selected anchor + top2 blend,2.804,1.520,3.554,4.801,4.115
+rolling 04,Selected anchor raw,2.854,1.603,3.566,4.823,4.079
+rolling 04,Selected anchor + projection,2.854,1.603,3.566,4.823,4.079
+rolling 05,Selected anchor + top2 blend,1.969,1.233,2.516,3.243,3.045
+rolling 05,"Blend + state correction, no final projection",1.990,1.245,2.537,3.294,3.056
+rolling 05,FES-CF full,1.990,1.245,2.537,3.294,3.056
+rolling 05,FES-CF top3 sensitivity,1.990,1.245,2.537,3.294,3.056
+rolling 05,Selected anchor + global correction,1.993,1.204,2.567,3.290,3.142
+rolling 05,Selected anchor + state correction,2.002,1.205,2.574,3.310,3.146
+rolling 05,Selected anchor + projection,2.011,1.189,2.599,3.328,3.193
+rolling 05,Selected anchor raw,2.011,1.189,2.599,3.328,3.193
+rolling 06,Selected anchor + state correction,2.005,1.421,2.428,3.423,2.580
+rolling 06,"Blend + state correction, no final projection",2.005,1.421,2.428,3.423,2.580
+rolling 06,FES-CF full,2.005,1.421,2.428,3.423,2.580
+rolling 06,FES-CF top3 sensitivity,2.005,1.421,2.428,3.423,2.580
+rolling 06,Selected anchor + global correction,2.048,1.447,2.491,3.531,2.652
+rolling 06,Selected anchor raw,2.229,1.603,2.712,3.889,2.860
+rolling 06,Selected anchor + projection,2.229,1.603,2.712,3.889,2.860
+rolling 06,Selected anchor + top2 blend,2.229,1.603,2.712,3.889,2.860
+rolling 07,Selected anchor + projection,3.129,1.826,3.736,5.490,3.844
+rolling 07,Selected anchor + top2 blend,3.129,1.826,3.736,5.490,3.844
+rolling 07,Selected anchor raw,3.129,1.826,3.736,5.490,3.844
+rolling 07,Selected anchor + global correction,3.118,1.793,3.762,5.592,3.886
+rolling 07,Selected anchor + state correction,3.157,1.827,3.781,5.625,3.870
+rolling 07,"Blend + state correction, no final projection",3.157,1.827,3.781,5.625,3.870
+rolling 07,FES-CF full,3.157,1.827,3.781,5.625,3.870
+rolling 07,FES-CF top3 sensitivity,3.157,1.827,3.781,5.625,3.870
+rolling 08,Selected anchor + global correction,4.053,2.322,5.037,6.877,5.730
+rolling 08,Selected anchor + state correction,4.104,2.394,5.104,6.976,5.805
+rolling 08,Selected anchor raw,4.106,2.396,5.107,6.978,5.812
+rolling 08,Selected anchor + projection,4.106,2.396,5.107,6.978,5.812
+rolling 08,Selected anchor + top2 blend,4.315,2.483,5.358,7.433,6.013
+rolling 08,"Blend + state correction, no final projection",4.331,2.491,5.381,7.461,6.044
+rolling 08,FES-CF full,4.331,2.491,5.381,7.461,6.044
+rolling 08,FES-CF top3 sensitivity,4.331,2.491,5.381,7.461,6.044
+rolling 09,"Blend + state correction, no final projection",2.502,1.727,3.007,4.054,3.299
+rolling 09,FES-CF full,2.502,1.727,3.007,4.054,3.299
+rolling 09,FES-CF top3 sensitivity,2.502,1.727,3.007,4.054,3.299
+rolling 09,Selected anchor + top2 blend,2.536,1.759,3.046,4.135,3.327
+rolling 09,Selected anchor + global correction,2.620,1.795,3.158,4.335,3.437
+rolling 09,Selected anchor + state correction,2.995,2.008,3.605,5.194,3.808
+rolling 09,Selected anchor raw,3.089,2.084,3.725,5.401,3.928
+rolling 09,Selected anchor + projection,3.089,2.084,3.725,5.401,3.928
+rolling 10,Selected anchor + global correction,2.079,1.356,2.493,3.390,2.762
+rolling 10,Selected anchor raw,2.107,1.386,2.525,3.445,2.792
+rolling 10,Selected anchor + projection,2.107,1.386,2.525,3.445,2.792
+rolling 10,Selected anchor + top2 blend,2.107,1.386,2.525,3.445,2.792
+rolling 10,"Blend + state correction, no final projection",2.127,1.379,2.555,3.507,2.821
+rolling 10,FES-CF full,2.127,1.379,2.555,3.507,2.821
+rolling 10,FES-CF top3 sensitivity,2.127,1.379,2.555,3.507,2.821
+rolling 10,Selected anchor + state correction,2.127,1.379,2.555,3.507,2.821
+rolling 11,Selected anchor + global correction,11.986,6.123,13.982,22.508,13.042
+rolling 11,Selected anchor + state correction,12.279,6.395,14.253,22.945,13.202
+rolling 11,"Blend + state correction, no final projection",12.279,6.395,14.253,22.945,13.202
+rolling 11,FES-CF full,12.279,6.395,14.253,22.945,13.202
+rolling 11,FES-CF top3 sensitivity,12.279,6.395,14.253,22.945,13.202
+rolling 11,Selected anchor raw,14.159,7.804,16.480,26.233,15.417
+rolling 11,Selected anchor + projection,14.159,7.804,16.480,26.233,15.417
+rolling 11,Selected anchor + top2 blend,14.159,7.804,16.480,26.233,15.417
+rolling 12,Selected anchor + global correction,4.424,2.839,5.466,7.425,6.111
+rolling 12,Selected anchor + state correction,4.435,2.858,5.483,7.456,6.131
+rolling 12,Selected anchor raw,4.547,2.978,5.616,7.675,6.262
+rolling 12,Selected anchor + projection,4.547,2.978,5.616,7.675,6.262
+rolling 12,FES-CF top3 sensitivity,4.569,2.781,5.632,7.676,6.250
+rolling 12,"Blend + state correction, no final projection",4.595,2.790,5.664,7.729,6.282
+rolling 12,FES-CF full,4.595,2.790,5.664,7.729,6.282
+rolling 12,Selected anchor + top2 blend,4.790,2.884,5.900,8.082,6.509
+rolling 13,Selected anchor + top2 blend,2.978,1.884,3.671,5.094,4.150
+rolling 13,"Blend + state correction, no final projection",3.003,1.900,3.700,5.137,4.183
+rolling 13,FES-CF full,3.003,1.900,3.700,5.137,4.183
+rolling 13,FES-CF top3 sensitivity,3.007,1.911,3.706,5.152,4.185
+rolling 13,Selected anchor + global correction,3.253,2.107,4.022,5.755,4.421
+rolling 13,Selected anchor + state correction,3.350,2.172,4.134,5.941,4.521
+rolling 13,Selected anchor raw,3.533,2.294,4.353,6.328,4.707
+rolling 13,Selected anchor + projection,3.533,2.294,4.353,6.328,4.707
+rolling 14,FES-CF top3 sensitivity,2.259,1.476,2.811,3.912,3.107
+rolling 14,FES-CF full,2.273,1.480,2.825,3.943,3.115
+rolling 14,"Blend + state correction, no final projection",2.273,1.480,2.825,3.943,3.115
+rolling 14,Selected anchor + state correction,2.312,1.518,2.864,3.994,3.148
+rolling 14,Selected anchor + global correction,2.420,1.590,3.005,4.250,3.279
+rolling 14,Selected anchor + top2 blend,2.485,1.644,3.081,4.358,3.354
+rolling 14,Selected anchor raw,2.617,1.744,3.233,4.562,3.508
+rolling 14,Selected anchor + projection,2.617,1.744,3.233,4.562,3.508
+rolling 15,FES-CF top3 sensitivity,3.489,2.277,4.179,5.861,4.470
+rolling 15,FES-CF full,3.504,2.302,4.190,5.859,4.468
+rolling 15,"Blend + state correction, no final projection",3.504,2.302,4.190,5.859,4.468
+rolling 15,Selected anchor + state correction,3.587,2.380,4.279,5.969,4.573
+rolling 15,Selected anchor + global correction,3.605,2.394,4.306,6.022,4.587
+rolling 15,Selected anchor + top2 blend,3.909,2.589,4.688,6.581,4.990
+rolling 15,Selected anchor raw,4.125,2.758,4.951,6.868,5.325
+rolling 15,Selected anchor + projection,4.125,2.758,4.951,6.868,5.325
+rolling 16,FES-CF top3 sensitivity,3.329,2.446,3.844,5.324,3.953
+rolling 16,FES-CF full,3.342,2.468,3.865,5.321,3.997
+rolling 16,"Blend + state correction, no final projection",3.342,2.468,3.865,5.321,3.997
+rolling 16,Selected anchor + global correction,3.421,2.495,3.921,5.403,4.020
+rolling 16,Selected anchor + state correction,3.549,2.613,4.095,5.629,4.229
+rolling 16,Selected anchor + top2 blend,3.624,2.676,4.181,5.777,4.332
+rolling 16,Selected anchor raw,3.967,2.922,4.552,6.230,4.713
+rolling 16,Selected anchor + projection,3.967,2.922,4.552,6.230,4.713
+rolling 17,Selected anchor + state correction,3.596,2.267,4.411,5.960,4.886
+rolling 17,"Blend + state correction, no final projection",3.596,2.267,4.411,5.960,4.886
+rolling 17,FES-CF full,3.596,2.267,4.411,5.960,4.886
+rolling 17,FES-CF top3 sensitivity,3.596,2.267,4.411,5.960,4.886
+rolling 17,Selected anchor + global correction,3.665,2.271,4.538,6.118,5.083
+rolling 17,Selected anchor raw,3.743,2.278,4.655,6.274,5.227
+rolling 17,Selected anchor + projection,3.743,2.278,4.655,6.274,5.227
+rolling 17,Selected anchor + top2 blend,3.743,2.278,4.655,6.274,5.227
+rolling 18,"Blend + state correction, no final projection",2.078,1.334,2.592,3.378,3.043
+rolling 18,FES-CF full,2.078,1.334,2.592,3.378,3.043
+rolling 18,FES-CF top3 sensitivity,2.080,1.337,2.593,3.382,3.042
+rolling 18,Selected anchor raw,2.080,1.292,2.612,3.362,3.097
+rolling 18,Selected anchor + projection,2.080,1.292,2.612,3.362,3.097
+rolling 18,Selected anchor + top2 blend,2.094,1.356,2.612,3.398,3.068
+rolling 18,Selected anchor + state correction,2.097,1.314,2.633,3.430,3.105
+rolling 18,Selected anchor + global correction,2.134,1.329,2.689,3.509,3.175
+rolling 19,Selected anchor + global correction,2.309,1.480,2.854,3.817,3.238
+rolling 19,FES-CF top3 sensitivity,2.417,1.605,2.972,4.056,3.332
+rolling 19,"Blend + state correction, no final projection",2.421,1.612,2.975,4.063,3.334
+rolling 19,FES-CF full,2.421,1.612,2.975,4.063,3.334
+rolling 19,Selected anchor + top2 blend,2.480,1.697,3.037,4.175,3.368
+rolling 19,Selected anchor raw,2.447,1.521,3.038,4.117,3.425
+rolling 19,Selected anchor + projection,2.447,1.521,3.038,4.117,3.425
+rolling 19,Selected anchor + state correction,2.459,1.543,3.048,4.147,3.434
+rolling 20,Selected anchor + top2 blend,3.014,1.929,3.794,5.219,4.356
+rolling 20,"Blend + state correction, no final projection",3.042,1.949,3.828,5.303,4.372
+rolling 20,FES-CF full,3.042,1.949,3.828,5.303,4.372
+rolling 20,FES-CF top3 sensitivity,3.049,1.945,3.843,5.318,4.398
+rolling 20,Selected anchor + global correction,3.129,1.914,4.002,5.481,4.661
+rolling 20,Selected anchor + state correction,3.232,1.993,4.133,5.703,4.797
+rolling 20,Selected anchor raw,3.315,2.025,4.234,5.860,4.899
+rolling 20,Selected anchor + projection,3.315,2.025,4.234,5.860,4.899

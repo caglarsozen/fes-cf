@@ -1,0 +1,201 @@
+scheme,method,state,n,surface coverage,pointwise coverage,upper surface coverage,mean band width,mean upper half width,interval score
+main_holdout,Global split conformal,All,777,0.972973,0.993050,0.972973,0.232139,0.116070,0.238174
+main_holdout,Global split conformal,S3_High-risk,350,0.962857,0.986857,0.962857,0.232139,0.116070,0.245028
+main_holdout,Global split conformal,S2_Elevated,335,0.979104,0.997711,0.979104,0.232139,0.116070,0.232606
+main_holdout,Global split conformal,S1_Normal,92,0.989130,0.999638,0.989130,0.232139,0.116070,0.232373
+main_holdout,Mondrian state conformal,All,777,0.938224,0.989275,0.938224,0.201038,0.100519,0.206708
+main_holdout,Mondrian state conformal,S2_Elevated,335,0.922388,0.990746,0.922388,0.146886,0.073443,0.149773
+main_holdout,Mondrian state conformal,S1_Normal,92,0.891304,0.984783,0.891304,0.111256,0.055628,0.115548
+main_holdout,Mondrian state conformal,S3_High-risk,350,0.965714,0.989048,0.965714,0.276470,0.138235,0.285164
+main_holdout,Bonferroni empirical residual bands,All,777,0.998713,0.999743,0.998713,0.577113,0.288556,0.577156
+main_holdout,Adaptive conformal inference (delayed feedback),All,777,0.911197,0.983441,0.912484,0.166407,0.083203,0.179654
+rolling_01,Global split conformal,All,120,0.900000,0.964444,0.900000,0.130881,0.065440,0.151611
+rolling_01,Global split conformal,S1_Normal,108,0.925926,0.983642,0.925926,0.130881,0.065440,0.143359
+rolling_01,Global split conformal,S2_Elevated,9,0.777778,0.848148,0.777778,0.130881,0.065440,0.218142
+rolling_01,Global split conformal,S3_High-risk,3,0.333333,0.622222,0.333333,0.130881,0.065440,0.249075
+rolling_01,Mondrian state conformal,All,120,0.891667,0.964167,0.891667,0.127871,0.063935,0.147448
+rolling_01,Mondrian state conformal,S1_Normal,108,0.916667,0.982099,0.916667,0.125203,0.062601,0.138530
+rolling_01,Mondrian state conformal,S2_Elevated,9,0.777778,0.862963,0.777778,0.158885,0.079442,0.220592
+rolling_01,Mondrian state conformal,S3_High-risk,3,0.333333,0.622222,0.333333,0.130881,0.065440,0.249075
+rolling_01,Bonferroni empirical residual bands,All,120,0.891667,0.965556,0.891667,0.110765,0.055382,0.132228
+rolling_01,Adaptive conformal inference (delayed feedback),All,120,0.875000,0.958333,0.875000,0.116313,0.058156,0.144733
+rolling_02,Global split conformal,All,120,0.725000,0.959444,0.766667,0.114860,0.057430,0.121922
+rolling_02,Global split conformal,S3_High-risk,36,0.472222,0.905556,0.583333,0.114860,0.057430,0.133591
+rolling_02,Global split conformal,S2_Elevated,30,0.866667,0.984444,0.866667,0.114860,0.057430,0.117303
+rolling_02,Global split conformal,S1_Normal,54,0.814815,0.981481,0.833333,0.114860,0.057430,0.116708
+rolling_02,Mondrian state conformal,All,120,0.725000,0.959167,0.766667,0.114562,0.057281,0.121653
+rolling_02,Mondrian state conformal,S1_Normal,54,0.814815,0.980864,0.833333,0.114199,0.057099,0.116110
+rolling_02,Mondrian state conformal,S2_Elevated,30,0.866667,0.984444,0.866667,0.114860,0.057430,0.117303
+rolling_02,Mondrian state conformal,S3_High-risk,36,0.472222,0.905556,0.583333,0.114860,0.057430,0.133591
+rolling_02,Bonferroni empirical residual bands,All,120,0.700000,0.958889,0.833333,0.108183,0.054092,0.121240
+rolling_02,Adaptive conformal inference (delayed feedback),All,120,0.800000,0.974444,0.841667,0.141841,0.070920,0.145274
+rolling_03,Global split conformal,All,120,0.933333,0.983333,0.941667,0.149327,0.074664,0.155643
+rolling_03,Global split conformal,S3_High-risk,17,0.941176,0.996078,1.000000,0.149327,0.074664,0.149406
+rolling_03,Global split conformal,S2_Elevated,27,0.962963,0.998765,0.962963,0.149327,0.074664,0.149371
+rolling_03,Global split conformal,S1_Normal,76,0.921053,0.975000,0.921053,0.149327,0.074664,0.159266
+rolling_03,Mondrian state conformal,All,120,0.925000,0.982500,0.933333,0.140674,0.070337,0.149065
+rolling_03,Mondrian state conformal,S2_Elevated,27,0.962963,0.998765,0.962963,0.157971,0.078985,0.157992
+rolling_03,Mondrian state conformal,S1_Normal,76,0.907895,0.973684,0.907895,0.132594,0.066297,0.145817
+rolling_03,Mondrian state conformal,S3_High-risk,17,0.941176,0.996078,1.000000,0.149327,0.074664,0.149406
+rolling_03,Bonferroni empirical residual bands,All,120,0.975000,0.996111,0.975000,0.198392,0.099196,0.199114
+rolling_03,Adaptive conformal inference (delayed feedback),All,120,0.908333,0.978889,0.916667,0.140782,0.070391,0.150830
+rolling_04,Global split conformal,All,120,0.916667,0.992500,0.933333,0.154659,0.077329,0.161157
+rolling_04,Global split conformal,S1_Normal,104,0.942308,0.994231,0.942308,0.154659,0.077329,0.157495
+rolling_04,Global split conformal,S2_Elevated,8,0.750000,0.970833,0.750000,0.154659,0.077329,0.214185
+rolling_04,Global split conformal,S3_High-risk,8,0.750000,0.991667,1.000000,0.154659,0.077329,0.155729
+rolling_04,Mondrian state conformal,All,120,0.916667,0.991111,0.916667,0.148190,0.074095,0.155842
+rolling_04,Mondrian state conformal,S2_Elevated,8,0.750000,0.966667,0.750000,0.128513,0.064257,0.198862
+rolling_04,Mondrian state conformal,S1_Normal,104,0.923077,0.992308,0.923077,0.147073,0.073537,0.150491
+rolling_04,Mondrian state conformal,S3_High-risk,8,1.000000,1.000000,1.000000,0.182391,0.091195,0.182391
+rolling_04,Bonferroni empirical residual bands,All,120,0.900000,0.993611,0.916667,0.203939,0.101970,0.213932
+rolling_04,Adaptive conformal inference (delayed feedback),All,120,0.875000,0.984722,0.916667,0.173316,0.086658,0.183021
+rolling_05,Global split conformal,All,120,0.966667,0.996389,0.966667,0.136542,0.068271,0.137514
+rolling_05,Global split conformal,S1_Normal,91,0.967033,0.995971,0.967033,0.136542,0.068271,0.137788
+rolling_05,Global split conformal,S2_Elevated,24,0.958333,0.997222,0.958333,0.136542,0.068271,0.136678
+rolling_05,Global split conformal,S3_High-risk,5,1.000000,1.000000,1.000000,0.136542,0.068271,0.136542
+rolling_05,Mondrian state conformal,All,120,0.941667,0.994722,0.941667,0.118755,0.059378,0.120874
+rolling_05,Mondrian state conformal,S3_High-risk,5,1.000000,1.000000,1.000000,0.166012,0.083006,0.166012
+rolling_05,Mondrian state conformal,S2_Elevated,24,0.958333,0.995833,0.958333,0.118558,0.059279,0.118933
+rolling_05,Mondrian state conformal,S1_Normal,91,0.934066,0.994139,0.934066,0.116211,0.058105,0.118906
+rolling_05,Bonferroni empirical residual bands,All,120,1.000000,1.000000,1.000000,0.211504,0.105752,0.211504
+rolling_05,Adaptive conformal inference (delayed feedback),All,120,0.941667,0.994167,0.941667,0.120476,0.060238,0.123148
+rolling_06,Global split conformal,All,120,0.941667,0.995556,0.941667,0.097211,0.048606,0.097995
+rolling_06,Global split conformal,S1_Normal,106,0.933962,0.994969,0.933962,0.097211,0.048606,0.098099
+rolling_06,Global split conformal,S2_Elevated,14,1.000000,1.000000,1.000000,0.097211,0.048606,0.097211
+rolling_06,Mondrian state conformal,All,120,0.950000,0.995833,0.950000,0.097274,0.048637,0.098056
+rolling_06,Mondrian state conformal,S2_Elevated,14,1.000000,1.000000,1.000000,0.097211,0.048606,0.097211
+rolling_06,Mondrian state conformal,S1_Normal,106,0.943396,0.995283,0.943396,0.097282,0.048641,0.098168
+rolling_06,Bonferroni empirical residual bands,All,120,0.983333,0.998889,0.991667,0.139879,0.069939,0.139942
+rolling_06,Adaptive conformal inference (delayed feedback),All,120,0.933333,0.991389,0.933333,0.086608,0.043304,0.087871
+rolling_07,Global split conformal,All,120,0.750000,0.912500,0.750000,0.090611,0.045306,0.134486
+rolling_07,Global split conformal,S1_Normal,43,0.720930,0.944186,0.720930,0.090611,0.045306,0.123527
+rolling_07,Global split conformal,S2_Elevated,41,0.829268,0.892683,0.829268,0.090611,0.045306,0.153909
+rolling_07,Global split conformal,S3_High-risk,36,0.694444,0.897222,0.694444,0.090611,0.045306,0.125455
+rolling_07,Mondrian state conformal,All,120,0.758333,0.913611,0.758333,0.091324,0.045662,0.135650
+rolling_07,Mondrian state conformal,S2_Elevated,41,0.829268,0.886992,0.829268,0.082482,0.041241,0.155558
+rolling_07,Mondrian state conformal,S1_Normal,43,0.744186,0.952713,0.744186,0.100350,0.050175,0.125203
+rolling_07,Mondrian state conformal,S3_High-risk,36,0.694444,0.897222,0.694444,0.090611,0.045306,0.125455
+rolling_07,Bonferroni empirical residual bands,All,120,0.791667,0.923889,0.791667,0.104032,0.052016,0.149070
+rolling_07,Adaptive conformal inference (delayed feedback),All,120,0.883333,0.955278,0.883333,0.170700,0.085350,0.192142
+rolling_08,Global split conformal,All,120,0.600000,0.913889,0.600000,0.132123,0.066061,0.168455
+rolling_08,Global split conformal,S3_High-risk,76,0.460526,0.871930,0.460526,0.132123,0.066061,0.181531
+rolling_08,Global split conformal,S2_Elevated,30,0.966667,0.996667,0.966667,0.132123,0.066061,0.134935
+rolling_08,Global split conformal,S1_Normal,14,0.571429,0.964286,0.571429,0.132123,0.066061,0.169299
+rolling_08,Mondrian state conformal,All,120,0.791667,0.975000,0.791667,0.174706,0.087353,0.184684
+rolling_08,Mondrian state conformal,S1_Normal,14,0.571429,0.964286,0.571429,0.135864,0.067932,0.170133
+rolling_08,Mondrian state conformal,S2_Elevated,30,0.933333,0.995556,0.933333,0.112841,0.056421,0.116600
+rolling_08,Mondrian state conformal,S3_High-risk,76,0.776316,0.968860,0.776316,0.206281,0.103141,0.214240
+rolling_08,Bonferroni empirical residual bands,All,120,0.766667,0.977222,0.766667,0.196380,0.098190,0.206380
+rolling_08,Adaptive conformal inference (delayed feedback),All,120,0.766667,0.971389,0.766667,0.209163,0.104582,0.219573
+rolling_09,Global split conformal,All,120,0.991667,0.999444,0.991667,0.218181,0.109090,0.218190
+rolling_09,Global split conformal,S3_High-risk,67,0.985075,0.999005,0.985075,0.218181,0.109090,0.218197
+rolling_09,Global split conformal,S2_Elevated,31,1.000000,1.000000,1.000000,0.218181,0.109090,0.218181
+rolling_09,Global split conformal,S1_Normal,22,1.000000,1.000000,1.000000,0.218181,0.109090,0.218181
+rolling_09,Mondrian state conformal,All,120,0.975000,0.994722,0.975000,0.209512,0.104756,0.210062
+rolling_09,Mondrian state conformal,S2_Elevated,31,0.903226,0.979570,0.903226,0.130094,0.065047,0.132225
+rolling_09,Mondrian state conformal,S1_Normal,22,1.000000,1.000000,1.000000,0.248733,0.124366,0.248733
+rolling_09,Mondrian state conformal,S3_High-risk,67,1.000000,1.000000,1.000000,0.233379,0.116689,0.233379
+rolling_09,Bonferroni empirical residual bands,All,120,1.000000,1.000000,1.000000,0.236513,0.118256,0.236513
+rolling_09,Adaptive conformal inference (delayed feedback),All,120,0.958333,0.996389,0.958333,0.183269,0.091634,0.183460
+rolling_10,Global split conformal,All,120,0.991667,0.999444,0.991667,0.211957,0.105978,0.212100
+rolling_10,Global split conformal,S2_Elevated,36,0.972222,0.998148,0.972222,0.211957,0.105978,0.212433
+rolling_10,Global split conformal,S1_Normal,40,1.000000,1.000000,1.000000,0.211957,0.105978,0.211957
+rolling_10,Global split conformal,S3_High-risk,44,1.000000,1.000000,1.000000,0.211957,0.105978,0.211957
+rolling_10,Mondrian state conformal,All,120,0.983333,0.998889,0.983333,0.198857,0.099428,0.199393
+rolling_10,Mondrian state conformal,S3_High-risk,44,1.000000,1.000000,1.000000,0.230457,0.115229,0.230457
+rolling_10,Mondrian state conformal,S2_Elevated,36,0.944444,0.996296,0.944444,0.145679,0.072839,0.147467
+rolling_10,Mondrian state conformal,S1_Normal,40,1.000000,1.000000,1.000000,0.211957,0.105978,0.211957
+rolling_10,Bonferroni empirical residual bands,All,120,1.000000,1.000000,1.000000,0.248794,0.124397,0.248794
+rolling_10,Adaptive conformal inference (delayed feedback),All,120,0.975000,0.998611,0.975000,0.187383,0.093691,0.187752
+rolling_11,Global split conformal,All,120,0.433333,0.766389,0.433333,0.167246,0.083623,0.621235
+rolling_11,Global split conformal,S1_Normal,21,0.952381,0.998413,0.952381,0.167246,0.083623,0.167756
+rolling_11,Global split conformal,S2_Elevated,10,0.600000,0.976667,0.600000,0.167246,0.083623,0.187441
+rolling_11,Global split conformal,S3_High-risk,89,0.292135,0.688015,0.292135,0.167246,0.083623,0.776977
+rolling_11,Mondrian state conformal,All,120,0.491667,0.809722,0.491667,0.181981,0.090991,0.564361
+rolling_11,Mondrian state conformal,S3_High-risk,89,0.393258,0.749813,0.393258,0.204740,0.102370,0.712723
+rolling_11,Mondrian state conformal,S2_Elevated,10,0.500000,0.953333,0.500000,0.126639,0.063319,0.185157
+rolling_11,Mondrian state conformal,S1_Normal,21,0.904762,0.995238,0.904762,0.111880,0.055940,0.116158
+rolling_11,Bonferroni empirical residual bands,All,120,0.508333,0.837500,0.508333,0.193932,0.096966,0.604109
+rolling_11,Adaptive conformal inference (delayed feedback),All,120,0.741667,0.912500,0.741667,0.539690,0.269845,0.720687
+rolling_12,Global split conformal,All,120,0.950000,0.992500,0.950000,0.332158,0.166079,0.334460
+rolling_12,Global split conformal,S3_High-risk,119,0.949580,0.992437,0.949580,0.332158,0.166079,0.334479
+rolling_12,Global split conformal,S2_Elevated,1,1.000000,1.000000,1.000000,0.332158,0.166079,0.332158
+rolling_12,Mondrian state conformal,All,120,1.000000,1.000000,1.000000,0.749632,0.374816,0.749632
+rolling_12,Mondrian state conformal,S3_High-risk,119,1.000000,1.000000,1.000000,0.754508,0.377254,0.754508
+rolling_12,Mondrian state conformal,S2_Elevated,1,1.000000,1.000000,1.000000,0.169391,0.084696,0.169391
+rolling_12,Bonferroni empirical residual bands,All,120,1.000000,1.000000,1.000000,0.697977,0.348989,0.697977
+rolling_12,Adaptive conformal inference (delayed feedback),All,120,0.900000,0.980556,0.900000,0.301691,0.150846,0.309222
+rolling_13,Global split conformal,All,120,1.000000,1.000000,1.000000,0.396082,0.198041,0.396082
+rolling_13,Global split conformal,S3_High-risk,108,1.000000,1.000000,1.000000,0.396082,0.198041,0.396082
+rolling_13,Global split conformal,S2_Elevated,12,1.000000,1.000000,1.000000,0.396082,0.198041,0.396082
+rolling_13,Mondrian state conformal,All,120,1.000000,1.000000,1.000000,0.498546,0.249273,0.498546
+rolling_13,Mondrian state conformal,S2_Elevated,12,1.000000,1.000000,1.000000,0.396082,0.198041,0.396082
+rolling_13,Mondrian state conformal,S3_High-risk,108,1.000000,1.000000,1.000000,0.509930,0.254965,0.509930
+rolling_13,Bonferroni empirical residual bands,All,120,1.000000,1.000000,1.000000,0.724115,0.362058,0.724115
+rolling_13,Adaptive conformal inference (delayed feedback),All,120,0.983333,0.999167,0.983333,0.279371,0.139686,0.279620
+rolling_14,Global split conformal,All,120,1.000000,1.000000,1.000000,0.221311,0.110655,0.221311
+rolling_14,Global split conformal,S3_High-risk,43,1.000000,1.000000,1.000000,0.221311,0.110655,0.221311
+rolling_14,Global split conformal,S2_Elevated,53,1.000000,1.000000,1.000000,0.221311,0.110655,0.221311
+rolling_14,Global split conformal,S1_Normal,24,1.000000,1.000000,1.000000,0.221311,0.110655,0.221311
+rolling_14,Mondrian state conformal,All,120,1.000000,1.000000,1.000000,0.221836,0.110918,0.221836
+rolling_14,Mondrian state conformal,S3_High-risk,43,1.000000,1.000000,1.000000,0.222777,0.111388,0.222777
+rolling_14,Mondrian state conformal,S2_Elevated,53,1.000000,1.000000,1.000000,0.221311,0.110655,0.221311
+rolling_14,Mondrian state conformal,S1_Normal,24,1.000000,1.000000,1.000000,0.221311,0.110655,0.221311
+rolling_14,Bonferroni empirical residual bands,All,120,1.000000,1.000000,1.000000,0.242900,0.121450,0.242900
+rolling_14,Adaptive conformal inference (delayed feedback),All,120,0.975000,0.998889,0.975000,0.179547,0.089773,0.179714
+rolling_15,Global split conformal,All,120,0.791667,0.975000,0.816667,0.142943,0.071471,0.153535
+rolling_15,Global split conformal,S3_High-risk,114,0.807018,0.977193,0.833333,0.142943,0.071471,0.153145
+rolling_15,Global split conformal,S2_Elevated,6,0.500000,0.933333,0.500000,0.142943,0.071471,0.160942
+rolling_15,Mondrian state conformal,All,120,0.900000,0.990000,0.916667,0.196074,0.098037,0.200848
+rolling_15,Mondrian state conformal,S2_Elevated,6,0.333333,0.916667,0.333333,0.128771,0.064385,0.156646
+rolling_15,Mondrian state conformal,S3_High-risk,114,0.929825,0.993860,0.947368,0.199616,0.099808,0.203175
+rolling_15,Bonferroni empirical residual bands,All,120,0.883333,0.990833,0.891667,0.204777,0.102388,0.210408
+rolling_15,Adaptive conformal inference (delayed feedback),All,120,0.850000,0.983056,0.875000,0.165939,0.082969,0.173511
+rolling_16,Global split conformal,All,120,0.633333,0.948889,0.758333,0.147133,0.073567,0.157077
+rolling_16,Global split conformal,S3_High-risk,90,0.600000,0.943333,0.766667,0.147133,0.073567,0.157929
+rolling_16,Global split conformal,S2_Elevated,30,0.733333,0.965556,0.733333,0.147133,0.073567,0.154522
+rolling_16,Mondrian state conformal,All,120,0.700000,0.958056,0.791667,0.156661,0.078330,0.164207
+rolling_16,Mondrian state conformal,S2_Elevated,30,0.733333,0.963333,0.733333,0.143625,0.071813,0.151557
+rolling_16,Mondrian state conformal,S3_High-risk,90,0.688889,0.956296,0.811111,0.161006,0.080503,0.168424
+rolling_16,Bonferroni empirical residual bands,All,120,0.708333,0.963889,0.783333,0.170428,0.085214,0.177065
+rolling_16,Adaptive conformal inference (delayed feedback),All,120,0.875000,0.980833,0.916667,0.215231,0.107615,0.219228
+rolling_17,Global split conformal,All,120,0.908333,0.988611,0.908333,0.192425,0.096213,0.198224
+rolling_17,Global split conformal,S3_High-risk,85,0.882353,0.985490,0.882353,0.192425,0.096213,0.200477
+rolling_17,Global split conformal,S2_Elevated,34,0.970588,0.996078,0.970588,0.192425,0.096213,0.192761
+rolling_17,Global split conformal,S1_Normal,1,1.000000,1.000000,1.000000,0.192425,0.096213,0.192425
+rolling_17,Mondrian state conformal,All,120,0.900000,0.988611,0.900000,0.196942,0.098471,0.201899
+rolling_17,Mondrian state conformal,S2_Elevated,34,0.911765,0.992157,0.911765,0.169583,0.084792,0.170960
+rolling_17,Mondrian state conformal,S1_Normal,1,1.000000,1.000000,1.000000,0.192425,0.096213,0.192425
+rolling_17,Mondrian state conformal,S3_High-risk,85,0.894118,0.987059,0.894118,0.207938,0.103969,0.214386
+rolling_17,Bonferroni empirical residual bands,All,120,0.925000,0.993333,0.933333,0.219904,0.109952,0.221748
+rolling_17,Adaptive conformal inference (delayed feedback),All,120,0.925000,0.990556,0.925000,0.206557,0.103279,0.211844
+rolling_18,Global split conformal,All,120,0.983333,0.999167,0.983333,0.192541,0.096270,0.193077
+rolling_18,Global split conformal,S2_Elevated,77,1.000000,1.000000,1.000000,0.192541,0.096270,0.192541
+rolling_18,Global split conformal,S1_Normal,39,0.948718,0.997436,0.948718,0.192541,0.096270,0.194192
+rolling_18,Global split conformal,S3_High-risk,4,1.000000,1.000000,1.000000,0.192541,0.096270,0.192541
+rolling_18,Mondrian state conformal,All,120,0.975000,0.998889,0.975000,0.172459,0.086229,0.173047
+rolling_18,Mondrian state conformal,S2_Elevated,77,0.987013,0.999567,0.987013,0.160705,0.080352,0.160785
+rolling_18,Mondrian state conformal,S3_High-risk,4,1.000000,1.000000,1.000000,0.202928,0.101464,0.202928
+rolling_18,Mondrian state conformal,S1_Normal,39,0.948718,0.997436,0.948718,0.192541,0.096270,0.194192
+rolling_18,Bonferroni empirical residual bands,All,120,1.000000,1.000000,1.000000,0.228420,0.114210,0.228420
+rolling_18,Adaptive conformal inference (delayed feedback),All,120,0.983333,0.998889,0.983333,0.172330,0.086165,0.172996
+rolling_19,Global split conformal,All,120,0.958333,0.997500,0.958333,0.161961,0.080981,0.163092
+rolling_19,Global split conformal,S2_Elevated,41,1.000000,1.000000,1.000000,0.161961,0.080981,0.161961
+rolling_19,Global split conformal,S1_Normal,78,0.935897,0.996154,0.935897,0.161961,0.080981,0.163700
+rolling_19,Global split conformal,S3_High-risk,1,1.000000,1.000000,1.000000,0.161961,0.080981,0.161961
+rolling_19,Mondrian state conformal,All,120,0.933333,0.995556,0.933333,0.146598,0.073299,0.148497
+rolling_19,Mondrian state conformal,S2_Elevated,41,1.000000,1.000000,1.000000,0.163955,0.081977,0.163955
+rolling_19,Mondrian state conformal,S3_High-risk,1,1.000000,1.000000,1.000000,0.210293,0.105147,0.210293
+rolling_19,Mondrian state conformal,S1_Normal,78,0.897436,0.993162,0.897436,0.136657,0.068329,0.139579
+rolling_19,Bonferroni empirical residual bands,All,120,1.000000,1.000000,1.000000,0.213140,0.106570,0.213140
+rolling_19,Adaptive conformal inference (delayed feedback),All,120,0.933333,0.994444,0.933333,0.142712,0.071356,0.144999
+rolling_20,Global split conformal,All,120,0.758333,0.972222,0.791667,0.113042,0.056521,0.122624
+rolling_20,Global split conformal,S1_Normal,32,0.875000,0.995833,0.875000,0.113042,0.056521,0.114206
+rolling_20,Global split conformal,S2_Elevated,63,0.714286,0.968254,0.761905,0.113042,0.056521,0.127193
+rolling_20,Global split conformal,S3_High-risk,25,0.720000,0.952000,0.760000,0.113042,0.056521,0.121885
+rolling_20,Mondrian state conformal,All,120,0.758333,0.971389,0.791667,0.112637,0.056318,0.122992
+rolling_20,Mondrian state conformal,S2_Elevated,63,0.714286,0.966667,0.761905,0.109645,0.054823,0.125438
+rolling_20,Mondrian state conformal,S3_High-risk,25,0.720000,0.952000,0.760000,0.113042,0.056521,0.121885
+rolling_20,Mondrian state conformal,S1_Normal,32,0.875000,0.995833,0.875000,0.118210,0.059105,0.119043
+rolling_20,Bonferroni empirical residual bands,All,120,0.758333,0.976389,0.825000,0.123537,0.061769,0.131156
+rolling_20,Adaptive conformal inference (delayed feedback),All,120,0.833333,0.984722,0.833333,0.194180,0.097090,0.199668

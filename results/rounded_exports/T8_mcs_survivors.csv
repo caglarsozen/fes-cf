@@ -1,0 +1,13 @@
+sample,model
+main_holdout,Rolling mean completed surface
+main_holdout,FPCA-X ridge
+main_holdout,Functional HAR-X ridge
+main_holdout,Graph Functional HAR-X ridge
+main_holdout,Cell-by-cell HAR-X ridge
+main_holdout,Equal-weight anchor combination
+main_holdout,FES-CF full
+pooled_rolling,Naive completed surface
+pooled_rolling,Rolling mean completed surface
+pooled_rolling,Bottom-up asset HAR
+pooled_rolling,Equal-weight anchor combination
+pooled_rolling,FES-CF full

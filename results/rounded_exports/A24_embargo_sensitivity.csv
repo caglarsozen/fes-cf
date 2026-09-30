@@ -1,0 +1,4 @@
+sensitivity,design,embargo,tail weight lambda,terminal weight lambda,guard frac,state terminal weight,n states,fpca pve,fpca k max,graph top k,graph min abs cor,quantile type,scale epsilon,Weighted RMSE x100,RMSE x100,MAE x100,surface coverage,Mean band width x100,interval score,chosen anchor,blend lambda,active states
+embargo_10,primary,10,4,1,0.3,0.5,3,0.95,8,3,0.05,8,0,3.7504,3.0432,1.7216,0.9730,23.2139,0.2382,FPCA-X ridge,0,3
+embargo_15,primary,15,4,1,0.3,0.5,3,0.95,8,3,0.05,8,0,3.7477,3.0368,1.7097,0.9752,23.6807,0.2425,FPCA-X ridge,0,3
+embargo_20,primary,20,4,1,0.3,0.5,3,0.95,8,3,0.05,8,0,3.7620,3.0464,1.7100,0.9775,23.9588,0.2452,FPCA-X ridge,0,3
